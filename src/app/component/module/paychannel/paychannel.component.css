@@ -1,0 +1,41 @@
+.card-container {
+    display: grid;
+    padding: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+}
+.card {
+    display: grid;
+}
+.card .button {
+    align-self: end;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+body {
+    background-color: #efefef;
+}
+* {
+    box-sizing: border-box;
+}
+.card {
+    box-shadow: 0px 1px 5px #555;
+    background-color: white;
+}
+.card__title {
+    font-size: 2rem;
+    padding: .5rem;
+}
+.card__description {
+     padding: .5rem;
+    line-height: 1.6em; 
+}
+img {
+    max-width: 80%;
+    max-height: 80%;
+    margin: 4px;
+} 

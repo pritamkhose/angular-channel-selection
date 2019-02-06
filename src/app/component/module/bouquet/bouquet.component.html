@@ -1,0 +1,60 @@
+<h2>Bouquet Channel List</h2>
+<div class="panel-heading-default">
+	<input type="text" [(ngModel)]="query" placeholder="Search">
+    <!-- <div>
+    <select [(ngModel)]="filterBroadcaster" id="filterBroadcaster" value="1">
+        <option value="" selected>All</option>
+        <option value="NEWS" >NEWS</option>
+        <option value="NON-NEWS">NON-NEWS</option>
+    </select>
+    </div> -->
+
+      <a (click)="refreshPage()"><button style="margin-left:20px" class="btn btn-info pull-right">
+                  Refresh
+                </button></a>
+              <a style="margin-left:10px" (click)="ClearFreeChannel()"
+                ><button
+                  style="margin-left:20px"
+                  class="btn btn-warning pull-right"
+                >
+                  Clear
+                </button></a>
+    </div>
+      <h6>Selected Bouquet = {{ChannelCount}}</h6>
+<div >
+
+
+<section class="card-container">
+    <article class="card" style="height: 200px;width: 350px; margin: 10px; " *ngFor="let freechannel of freechannels | startsWith : query : filterBroadcaster  ; let i = index" [attr.data-index]="i" (click)="OnMatCardClickEvent(freechannel, i)"  >
+
+<div *ngIf="freechannel.color == true; else loggedOut" style="height: 90%; width: 100%; background:lightskyblue;"> 
+  <header class="card__title">
+            <h6>{{freechannel.Channel}}</h6>
+        </header>
+        <figure *ngIf="freechannel!= null" class="card__thumbnail">
+            <img src="https://channel.trai.gov.in/{{freechannel.imageurl}}" alt="{{freechannel.Broadcaster}}"  width="50px" height="50px" >
+        </figure>
+        <main *ngIf="freechannel!= null" class="card__description">
+            <p>{{freechannel.category}}</p>
+            <p>{{freechannel.Broadcaster}}</p>
+        </main>
+</div>
+
+<ng-template #loggedOut style="height: 100%; width: 100%;">
+ <header class="card__title">
+            <h6>{{freechannel.Channel}}</h6>
+        </header>
+        <figure *ngIf="freechannel!= null" class="card__thumbnail">
+            <img src="https://channel.trai.gov.in/{{freechannel.imageurl}}" alt="{{freechannel.Broadcaster}}"  width="50px" height="50px">
+        </figure>
+        <main *ngIf="freechannel!= null" class="card__description">
+            <p>{{freechannel.category}}</p>
+            <p>{{freechannel.Broadcaster}}</p>
+        </main>
+</ng-template>
+      
+    </article>
+</section>
+</div>
+<!-- <p *ngIf="freechannel.color  != null" style="color:blue">Selected</p> -->
+<!-- <p>{{freechannel.price}}</p> -->

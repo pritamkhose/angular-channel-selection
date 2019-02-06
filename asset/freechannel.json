@@ -1,0 +1,3740 @@
+[
+  {
+    "Broadcaster": "Spoorthi Communication Pvt. Ltd.",
+    "Channel": "10 TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/10TV.jpg"
+  },
+  {
+    "Broadcaster": "Lex Sportel Vision Pvt. Limited",
+    "Channel": "1SPORTS (EARLIER ATR)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/1SPORTSEARLIERATR.jpg"
+  },
+  {
+    "Broadcaster": "TRANSMEDIA SOFTWARE LIMITED",
+    "Channel": "1st India Rajasthan (earlier TRANSMEDIA NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/1stIndiaRajasthanearlierTRANSMEDIANEWS.jpg"
+  },
+  {
+    "Broadcaster": "Total Telefilms Pvt. Ltd",
+    "Channel": "1ST NEWS (earlier known as Sobarrage, ANM News, Total Rajasthan)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/1STNEWSearlierknownasSobarrageANMNewsTotalRajasthan.jpg"
+  },
+  {
+    "Broadcaster": "FAME MEDIA PRIVATE LIMITED",
+    "Channel": "4TV NEWS (Earlier RVS News & RUDR NEWS\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/4TVNEWSEarlierRVSNewsRUDRNEWS.jpg"
+  },
+  {
+    "Broadcaster": "Gokann International Media Pvt. Ltd",
+    "Channel": "7S Music ( Earlier MAAS TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/7SMusicEarlierMAASTV.jpg"
+  },
+  {
+    "Broadcaster": "SKY NEWS MEDIA PRIVATE LIMITED",
+    "Channel": "99 Percent (earlier CHANNEL NO.3)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/99PercentearlierCHANNELNO3.jpg"
+  },
+  {
+    "Broadcaster": "9X MEDIA PRIVATE LIMITED",
+    "Channel": "9X",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/9X.jpg"
+  },
+  {
+    "Broadcaster": "9X MEDIA PRIVATE LIMITED",
+    "Channel": "9X JALWA (PHIR SE 9X)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/9XJALWAPHIRSE9X.jpg"
+  },
+  {
+    "Broadcaster": "9X MEDIA PRIVATE LIMITED",
+    "Channel": "9X JHAKAAS (9X MARATHI)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/9XJHAKAAS9XMARATHI.jpg"
+  },
+  {
+    "Broadcaster": "PAUL ENTERTAINMENT PRIVATE LIMITED",
+    "Channel": "9X TASHAN (PURVAIYA)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/9XTASHANPURVAIYA.jpg"
+  },
+  {
+    "Broadcaster": "9X MEDIA PRIVATE LIMITED",
+    "Channel": "9XM",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/9XM.jpg"
+  },
+  {
+    "Broadcaster": "9X MEDIA PRIVATE LIMITED",
+    "Channel": "9XO (9XM VELVET)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/9XO9XMVELVET.jpg"
+  },
+  {
+    "Broadcaster": "OPPORTUNITY MEDIA PRIVATE LIMITED",
+    "Channel": "A TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ATV.jpg"
+  },
+  {
+    "Broadcaster": "STANDARD CORPORATION INDIA LIMITED",
+    "Channel": "A1TV (EARLIER: STANDARD WORLD\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/A1TVEARLIERSTANDARDWORLD.jpg"
+  },
+  {
+    "Broadcaster": "MGK PRINTING WORKS PVT LTD",
+    "Channel": "AAHO MUSIC (earlier known as Vaa Movies Hindi, NAAPTOL HD before that ALL TIME)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AAHOMUSICearlierknownasVaaMoviesHindiNAAPTOLHDbeforethatALLTIME.jpg"
+  },
+  {
+    "Broadcaster": "TV TODAY NETWORK LIMITED",
+    "Channel": "AAJTAK DESH",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AAJTAKDESH.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "AALAMI SAHARA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AALAMISAHARA.jpg"
+  },
+  {
+    "Broadcaster": "TRANSMEDIA SOFTWARE LIMITED",
+    "Channel": "AAMAR CINEMA (EARLIER TRANSMEDIA GUJARAT)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AAMARCINEMAEARLIERTRANSMEDIAGUJARAT.jpg"
+  },
+  {
+    "Broadcaster": "DIKSAT TRANSWORLD LIMITED",
+    "Channel": "AASEERVATHAM",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AASEERVATHAM.jpg"
+  },
+  {
+    "Broadcaster": "VEDIC BROADCASTINGS LIMITED",
+    "Channel": "AASTHA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AASTHA.jpg"
+  },
+  {
+    "Broadcaster": "VEDIC BROADCASTINGS LIMITED",
+    "Channel": "AASTHA BHAJAN",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AASTHABHAJAN.jpg"
+  },
+  {
+    "Broadcaster": "VEDIC BROADCASTINGS LIMITED",
+    "Channel": "Aastha Kannada",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AasthaKannada.jpg"
+  },
+  {
+    "Broadcaster": "VEDIC BROADCASTINGS LIMITED",
+    "Channel": "Aastha Tamil",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AasthaTamil.jpg"
+  },
+  {
+    "Broadcaster": "VEDIC BROADCASTINGS LIMITED",
+    "Channel": "Aastha Telugu",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AasthaTelugu.jpg"
+  },
+  {
+    "Broadcaster": "AAMODA BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "ABN ANDHRA JYOTHI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ABNANDHRAJYOTHI.jpg"
+  },
+  {
+    "Broadcaster": "MITCON INFRASPROJECT PRIVATE LIMITED",
+    "Channel": "ABN Network( Earlier LOKSHAHI\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ABNNetworkEarlierLOKSHAHI.jpg"
+  },
+  {
+    "Broadcaster": "ABP NEWS NETWORK PVT. LTD. (Earlier MEDIA CONTENT AND COMMUNICATIONS SERVICES INDIA PRIVATE LIMITED)",
+    "Channel": "ABP ASMITA (Earlie ABP SAMACHAR GUJARATI, ABP Sanjha)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ABPASMITAEarlieABPSAMACHARGUJARATIABPSanjha.jpg"
+  },
+  {
+    "Broadcaster": "ABP NEWS NETWORK PVT. LTD. (Earlier MEDIA CONTENT AND COMMUNICATIONS SERVICES INDIA PRIVATE LIMITED)",
+    "Channel": "ABP NEWS (earlier STAR NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ABPNEWSearlierSTARNEWS.jpg"
+  },
+  {
+    "Broadcaster": "SNEH BROADCASTING NETWORKS PRIVATE LIMITED",
+    "Channel": "Adhyatm (earlier ADHYATM BHAKTI)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AdhyatmearlierADHYATMBHAKTI.jpg"
+  },
+  {
+    "Broadcaster": "Bhole Baba Real Estate Developers Pvt. Ltd.",
+    "Channel": "AHSAS (Earlier Daati Ahsas)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AHSASEarlierDaatiAhsas.jpg"
+  },
+  {
+    "Broadcaster": "SKY B (BANGLA) PRIVATE LIMITED",
+    "Channel": "AKASH B",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AKASHB.jpg"
+  },
+  {
+    "Broadcaster": "DEVKRIPA VYAPAAR PVT LTD",
+    "Channel": "AKHON SAMAY",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AKHONSAMAY.jpg"
+  },
+  {
+    "Broadcaster": "AJI INTERNATIONAL PRIVATE LIMITED",
+    "Channel": "AL JAZEERA ENGLISH",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ALJAZEERAENGLISH.jpg"
+  },
+  {
+    "Broadcaster": "AMRITA ENTERPRISES PRIVATE LIMITED",
+    "Channel": "AMRITA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AMRITA.jpg"
+  },
+  {
+    "Broadcaster": "Asnani Builders & Developers Ltd",
+    "Channel": "Anaadi TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AnaadiTV.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA GURU BROADCAST PVT LTD",
+    "Channel": "ANANDAM (EARLIER :MY TV(MDP TV)\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ANANDAMEARLIERMYTVMDPTV.jpg"
+  },
+  {
+    "Broadcaster": "ANGEL BROADCASTING NETWORK PVT. LTD. (Earlier TRINITY TELEVISION PRIVATE LIMITED)",
+    "Channel": "ANGEL TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ANGELTV.jpg"
+  },
+  {
+    "Broadcaster": "AAP MEDIA PVT.LTD.",
+    "Channel": "ANJAN TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ANJANTV.jpg"
+  },
+  {
+    "Broadcaster": "SIGNET COMMUNICATIONS PRIVATE LIMITED",
+    "Channel": "AP 24x7 (earlier AP Times the News HQ, KHOJ INDIA\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AP24x7earlierAPTimestheNewsHQKHOJINDIA.jpg"
+  },
+  {
+    "Broadcaster": "SOBHAGAYA MEDIA PRIVATE LIMITED",
+    "Channel": "APN (Axis Press Network ) [Earlier known as SOBHAGYA MITHILA\/ SOBHAGYA TV]",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/APNAxisPressNetworkEarlierknownasSOBHAGYAMITHILASOBHAGYATV.jpg"
+  },
+  {
+    "Broadcaster": "ARADANA BROADCASTING INTERNATIONAL PRIVATE LIMITED",
+    "Channel": "ARADANA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ARADANA.jpg"
+  },
+  {
+    "Broadcaster": "AASTHA BROAD CASTING NETWORK LIMITED",
+    "Channel": "ARIHANT",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ARIHANT.jpg"
+  },
+  {
+    "Broadcaster": "PLANET E-SHOP HOLDINGS INDIA LIMITED",
+    "Channel": "ARIRANG TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ARIRANGTV.jpg"
+  },
+  {
+    "Broadcaster": "EASTERN MEDIA LIMITED",
+    "Channel": "ARRA (Earlier known as MANJARI)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ARRAEarlierknownasMANJARI.jpg"
+  },
+  {
+    "Broadcaster": "SADHNA MEDIA NETWORK PVT. LTD.",
+    "Channel": "Aryan TV National (earlier SADHNA ORISSA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AryanTVNationalearlierSADHNAORISSA.jpg"
+  },
+  {
+    "Broadcaster": "ASHIRWAD TELENETWORK PRIVATE LIMITED",
+    "Channel": "ASHIRWAD",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ASHIRWAD.jpg"
+  },
+  {
+    "Broadcaster": "ASIANET NEWS NETWORK PRIVATE LIMITED",
+    "Channel": "ASIANET NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ASIANETNEWS.jpg"
+  },
+  {
+    "Broadcaster": "ROCKLAND MEDIA AND COMMUNICATION PRIVATE LIMITED",
+    "Channel": "ASSAM TALKS (Earlier PRIME NEWS (ARYAN TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ASSAMTALKSEarlierPRIMENEWSARYANTV.jpg"
+  },
+  {
+    "Broadcaster": "Airtravel Enterprises India Limited",
+    "Channel": "ATE TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ATETV.jpg"
+  },
+  {
+    "Broadcaster": "AY BROADCAST FOUNDATION",
+    "Channel": "Athmeeyayathra (earlier AY TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AthmeeyayathraearlierAYTV.jpg"
+  },
+  {
+    "Broadcaster": "CABSAT CHANNEL PRIVATE LIMITED",
+    "Channel": "AUSTRALIA NETWORK",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AUSTRALIANETWORK.jpg"
+  },
+  {
+    "Broadcaster": "KAMADHENU TELEFILMS PRIVATE LIMITED",
+    "Channel": "Ayush TV (earlier AYURVEDA TV, SREE TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/AyushTVearlierAYURVEDATVSREETV.jpg"
+  },
+  {
+    "Broadcaster": "PRABHATAM ADVERTISING PVT LTD",
+    "Channel": "B News (earlier PRABHATAM NEWS MAHARASHTRA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BNewsearlierPRABHATAMNEWSMAHARASHTRA.jpg"
+  },
+  {
+    "Broadcaster": "B4U TELEVISION NETWORK I PVT. LTD.",
+    "Channel": "B4U MOVIES",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/B4UMOVIES.jpg"
+  },
+  {
+    "Broadcaster": "B4U TELEVISION NETWORK I PVT. LTD.",
+    "Channel": "B4U MUSIC",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/B4UMUSIC.jpg"
+  },
+  {
+    "Broadcaster": "Satcom Media Broadcast Pvt. Ltd",
+    "Channel": "BALLE BALLE Non Stop Music (earlier Andy Haryana)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BALLEBALLENonStopMusicearlierAndyHaryana.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA WORLDWIDE LIMITED",
+    "Channel": "BANGLA TALKIES",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BANGLATALKIES.jpg"
+  },
+  {
+    "Broadcaster": "Soft Tele Network Pvt Ltd.",
+    "Channel": "Bangla Time (earlier known as Khabar Tej)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BanglaTimeearlierknownasKhabarTej.jpg"
+  },
+  {
+    "Broadcaster": "S.D.BANSAL IRON AND STEEL PVT. LTD.",
+    "Channel": "BANSAL NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BANSALNEWS.jpg"
+  },
+  {
+    "Broadcaster": "VARUN MEDIA PRIVATE LIMITED",
+    "Channel": "BFLIX MOVIES (EARLIER ROYAL TV , GOOD LIFE\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BFLIXMOVIESEARLIERROYALTVGOODLIFE.jpg"
+  },
+  {
+    "Broadcaster": "RACHANA TELEVISION PRIVATE LIMITED",
+    "Channel": "BHAKTHI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BHAKTHI.jpg"
+  },
+  {
+    "Broadcaster": "Sangeet Television Network Pvt. Ltd.",
+    "Channel": "Bhaktisagar2 (Initially granted as Hastey Raho then changed to iConcerts)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Bhaktisagar2InitiallygrantedasHasteyRahothenchangedtoiConcerts.jpg"
+  },
+  {
+    "Broadcaster": "TIME TODAY MEDIA NETWORK PRIVATE LIMITED",
+    "Channel": "BHARAT SAMACHAR",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BHARATSAMACHAR.jpg"
+  },
+  {
+    "Broadcaster": "A.R. RAIL VIKAS SERVICES PVT. LTD.",
+    "Channel": "BHASKAR NEWS (AP 9)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BHASKARNEWSAP9.jpg"
+  },
+  {
+    "Broadcaster": "ENTER 10 TELEVISION PRIVATE LIMITED",
+    "Channel": "BHOJPURI CINEMA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BHOJPURICINEMA.jpg"
+  },
+  {
+    "Broadcaster": "SADHNA MEDIA NETWORK PVT. LTD.",
+    "Channel": "Bhojpuri Dhamaka Dishum (earlier MAX VISION [CHITRA (EARLIER SADHNA)]",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BhojpuriDhamakaDishumearlierMAXVISIONCHITRAEARLIERSADHNA.jpg"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "BIG GANGA TALKIES (Earlier BIG GAURAV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BIGGANGATALKIESEarlierBIGGAURAV.jpg"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Big Magic HD (Earlier known as Big Magic UP \/BIG BONDHON)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BigMagicHDEarlierknownasBigMagicUPBIGBONDHON.jpg"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Big Magic Punjab (Earlier known Big Magic MP \/BIG FAMILY)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BigMagicPunjabEarlierknownBigMagicMPBIGFAMILY.jpg"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Big Thrill (earlier- Big RTL Thrill, Imagine Showbiz )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BigThrillearlierBigRTLThrillImagineShowbiz.jpg"
+  },
+  {
+    "Broadcaster": "BIZZ NEWS PRIVATE LIMITED",
+    "Channel": "BIZZ NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BIZZNEWS.jpg"
+  },
+  {
+    "Broadcaster": "BLOOMBERG TELEVISION PRODUCTION SERVICES PVT. LTD.",
+    "Channel": "BLOOMBERG TELEVISION ASIA-PACIFIC FEED",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BLOOMBERGTELEVISIONASIAPACIFICFEED.jpg"
+  },
+  {
+    "Broadcaster": "BnB Entertainment Pvt. Ltd",
+    "Channel": "BNB",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BNB.jpg"
+  },
+  {
+    "Broadcaster": "Munny Entertainments Pvt Ltd.",
+    "Channel": "Boom Music",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BoomMusic.jpg"
+  },
+  {
+    "Broadcaster": "Business Broadcast News Private Limited",
+    "Channel": "BTVi",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BTVi.jpg"
+  },
+  {
+    "Broadcaster": "YPT ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "BULAND NEWS SAMACHAR PLUS (earlier LPS TV\/ERA NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BULANDNEWSSAMACHARPLUSearlierLPSTVERANEWS.jpg"
+  },
+  {
+    "Broadcaster": "CALCUTTA TELEVISION NETWORK PRIVATE LIMITED",
+    "Channel": "CALCUTTA NEWS (Earlier UTTAR BANGLA AKD & C BANGLA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CALCUTTANEWSEarlierUTTARBANGLAAKDCBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "CHRISTU KRUPA BROADCASTING PVT LTD",
+    "Channel": "CALVARY TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CALVARYTV.jpg"
+  },
+  {
+    "Broadcaster": "CAPTAIN MEDIA PRIVATE LIMITED",
+    "Channel": "CAPTAIN NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CAPTAINNEWS.jpg"
+  },
+  {
+    "Broadcaster": "CAPTAIN MEDIA PRIVATE LIMITED",
+    "Channel": "CAPTAIN TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CAPTAINTV.jpg"
+  },
+  {
+    "Broadcaster": "SEVEN STAR SATELLITE PRIVATE LIMITED",
+    "Channel": "CARE WORLD",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CAREWORLD.jpg"
+  },
+  {
+    "Broadcaster": "Cauvery Power Trading Chennai Pvt. Ltd",
+    "Channel": "Cauvery News",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CauveryNews.jpg"
+  },
+  {
+    "Broadcaster": "PLANETCAST MEDIA SERVICES LIMITED (EARLIER: ESSEL SHYAM COMMUNICATION LIMITED\u00c2 )",
+    "Channel": "CGTN (Earlier CCTV NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CGTNEarlierCCTVNEWS.jpg"
+  },
+  {
+    "Broadcaster": "CHANNEL NO 2 NEWS MEDIA PVT LTD",
+    "Channel": "CHANNEL 2",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CHANNEL2.jpg"
+  },
+  {
+    "Broadcaster": "MCN INTERNATIONAL INDIA PVT LTD.",
+    "Channel": "CHANNEL NEWS ASIA INTERNATIONAL",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CHANNELNEWSASIAINTERNATIONAL.jpg"
+  },
+  {
+    "Broadcaster": "PAL NEWS MEDIA PRIVATE LIMITED",
+    "Channel": "CHANNEL NO.1",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CHANNELNO1.jpg"
+  },
+  {
+    "Broadcaster": "WIN TV PRIVATE LIMITED",
+    "Channel": "Channel win",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Channelwin.jpg"
+  },
+  {
+    "Broadcaster": "CHARHDIKALA PUBLICATIONS PRIVATE LIMITED",
+    "Channel": "CHARDIKALA TIME TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CHARDIKALATIMETV.jpg"
+  },
+  {
+    "Broadcaster": "YASH TELE NETWORK PRIVATE LIMITED",
+    "Channel": "Chitrapat Marathi (Earlier PEARLS NEWS-MADHYA PRADESH- CHATITISGARH , earlier PEARLS KANNADA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ChitrapatMarathiEarlierPEARLSNEWSMADHYAPRADESHCHATITISGARHearlierPEARLSKANNADA.jpg"
+  },
+  {
+    "Broadcaster": "SOFTLINE CREATION PRIVATE LIMITED",
+    "Channel": "Cinema TV(earlier Ishwar\/ Sadhna Health)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CinemaTVearlierIshwarSadhnaHealth.jpg"
+  },
+  {
+    "Broadcaster": "CALCUTTA TELEVISION NETWORK PRIVATE LIMITED",
+    "Channel": "CTVN-AKD-PLUS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CTVNAKDPLUS.jpg"
+  },
+  {
+    "Broadcaster": "DIKSAT TRANSWORLD LIMITED",
+    "Channel": "CUSINE TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CUSINETV.jpg"
+  },
+  {
+    "Broadcaster": "IMAGE BROADCASTING INDIA PRIVATE LIMITED",
+    "Channel": "CVR Health",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CVRHealth.jpg"
+  },
+  {
+    "Broadcaster": "IMAGE BROADCASTING INDIA PRIVATE LIMITED",
+    "Channel": "CVR News",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CVRNews.jpg"
+  },
+  {
+    "Broadcaster": "IMAGE BROADCASTING INDIA PRIVATE LIMITED",
+    "Channel": "CVR News English",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CVRNewsEnglish.jpg"
+  },
+  {
+    "Broadcaster": "IMAGE BROADCASTING INDIA PRIVATE LIMITED",
+    "Channel": "CVR Spiritual Om",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/CVRSpiritualOm.jpg"
+  },
+  {
+    "Broadcaster": "HHP BROADCASTING SERVICES PRIVATE LIMITED",
+    "Channel": "DABANGG",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DABANGG.jpg"
+  },
+  {
+    "Broadcaster": "ENTER 10 TELEVISION PRIVATE LIMITED",
+    "Channel": "Dangal (earlier ENTER 10 MOVIES\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/BFLIXMOVIESEARLIERROYALTVGOODLIFE.jpg"
+  },
+  {
+    "Broadcaster": "E24 Glamour Ltd. (Earlier known as B.A.G. GLAMOUR LIMITED)",
+    "Channel": "DARSHAN 24 (Earlier LIFE 24)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DARSHAN24EarlierLIFE24.jpg"
+  },
+  {
+    "Broadcaster": "SATHYA DHARA COMMUNICATION PVT LTD",
+    "Channel": "DARSHANA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DARSHANA.jpg"
+  },
+  {
+    "Broadcaster": "JSK MULTI PRODUCTS PVT. LTD. (earlier KANSAN NEWS PRIVATE LIMITED)",
+    "Channel": "DAY N NIGHT NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DAYNNIGHTNEWS.jpg"
+  },
+  {
+    "Broadcaster": "UBJ BROADCASTING PRIVATE LIMITED",
+    "Channel": "DHAMAAL",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DHAMAAL.jpg"
+  },
+  {
+    "Broadcaster": "SAB GLOBAL ENTERTAINMENT MEDIA PVT. LTD.",
+    "Channel": "DHAMMAL GUJJUU",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DHAMMALGUJJUU.jpg"
+  },
+  {
+    "Broadcaster": "TELEONE CONSUMERS PRODUCT PVT. LTD.",
+    "Channel": "DHANSU (EARLIER MAHA CARTOON TV, EARLIER TELESHOP)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DHANSUEARLIERMAHACARTOONTVEARLIERTELESHOP.jpg"
+  },
+  {
+    "Broadcaster": "SAANVI STUDIOZ LIMITED",
+    "Channel": "DHEERAN TV (ARADHANA)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DHEERANTVARADHANA.jpg"
+  },
+  {
+    "Broadcaster": "BRAND VALUE COMMUNICATIONS PRIVATE LIMITED",
+    "Channel": "DHOOM MUSIC BANGLA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DHOOMMUSICBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "VRL MEDIA LIMITED",
+    "Channel": "DIGHVIJAY TV 24X 7 NEWS (EARLIER DIGHVIJAY TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DIGHVIJAYTV24X7NEWSEARLIERDIGHVIJAYTV.jpg"
+  },
+  {
+    "Broadcaster": "KRISHNA SHOWBIZ SERVICES PVT. LTD.",
+    "Channel": "DILLAGIII",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DILLAGIII.jpg"
+  },
+  {
+    "Broadcaster": "DISHA MEDIA PVT. LTD. (earlier DHALIWAL ENTERTAINMENT PVT LTD)",
+    "Channel": "DISHA NEWS CHANNEL\u00c2 (Earlier known as DHALIWAL TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DISHANEWSCHANNELEarlierknownasDHALIWALTV.jpg"
+  },
+  {
+    "Broadcaster": "DIVYA BROADCASTING NETWORK PRIVATE LIMITED",
+    "Channel": "DIVYA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DIVYA.jpg"
+  },
+  {
+    "Broadcaster": "DILIP BUILDCON PRIVATE LIMITED",
+    "Channel": "DNN",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DNN.jpg"
+  },
+  {
+    "Broadcaster": "Squoosh Entertainment Pvt. Ltd.",
+    "Channel": "Dream TV (Earlier Fata Fati)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DreamTVEarlierFataFati.jpg"
+  },
+  {
+    "Broadcaster": "DISCOVERY COMMUNICATION LIMITED",
+    "Channel": "DSPORT HD",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DSPORTHD.jpg"
+  },
+  {
+    "Broadcaster": "CABSAT CHANNEL PRIVATE LIMITED",
+    "Channel": "DW TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DWTV.jpg"
+  },
+  {
+    "Broadcaster": "BRAHMAPUTRA TELE-PRODUCTIONS PRIVATE LIMITED",
+    "Channel": "DY 365",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/DY365.jpg"
+  },
+  {
+    "Broadcaster": "E24 Glamour Ltd. (Earlier known as B.A.G. GLAMOUR LIMITED)",
+    "Channel": "E 24",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/E24.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA GURU BROADCAST PVT LTD",
+    "Channel": "EDU TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/EDUTV.jpg"
+  },
+  {
+    "Broadcaster": "ENTER 10 TELEVISION PRIVATE LIMITED",
+    "Channel": "Enter 10 Bangla",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Enter10Bangla.jpg"
+  },
+  {
+    "Broadcaster": "ENTER 10 TELEVISION PRIVATE LIMITED",
+    "Channel": "ENTERR 10",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ENTERR10.jpg"
+  },
+  {
+    "Broadcaster": "CATVISION LTD. (Earlier CATVISION PRODUCTS LTDatvision Ltd.",
+    "Channel": "Euro News",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/EuroNews.jpg"
+  },
+  {
+    "Broadcaster": "J.S.D. DATA INFOTECH PRIVATE LIMITED",
+    "Channel": "EXPRESS TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/EXPRESSTV.jpg"
+  },
+  {
+    "Broadcaster": "ENTER 10 TELEVISION PRIVATE LIMITED",
+    "Channel": "FAKT MARATHI (Earlier AAPLA TALKIES, It's CINEMA, (LUCK TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FAKTMARATHIEarlierAAPLATALKIESItsCINEMALUCKTV.jpg"
+  },
+  {
+    "Broadcaster": "MAHUAA MEDIA PRIVATE LIMITED",
+    "Channel": "FIRST INDIA (EARLIER KNOWN AS MAHUAA KHOBOR)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FIRSTINDIAEARLIERKNOWNASMAHUAAKHOBOR.jpg"
+  },
+  {
+    "Broadcaster": "Suryansh Broadcasting Pvt. Ltd.",
+    "Channel": "FLOWERS (Suryansh Melody)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FLOWERSSuryanshMelody.jpg"
+  },
+  {
+    "Broadcaster": "VINTAGE STUDIO PVT LTD",
+    "Channel": "FM NEWS (EARLIER LIVING INDIA AYUR LIVING INDIA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FMNEWSEARLIERLIVINGINDIAAYURLIVINGINDIA.jpg"
+  },
+  {
+    "Broadcaster": "CATVISION LTD. (Earlier CATVISION PRODUCTS LTDatvision Ltd.",
+    "Channel": "FRANCE 24",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FRANCE24.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "Free TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FreeTV.jpg"
+  },
+  {
+    "Broadcaster": "PRIYAMDA MEDIA & INFOTAINMENT PRIVATE LIMITED",
+    "Channel": "FRONTIER TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FRONTIERTV.jpg"
+  },
+  {
+    "Broadcaster": "NEON SOLUTION PVT. LTD",
+    "Channel": "FTV.COM INDIA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/FTVCOMINDIA.jpg"
+  },
+  {
+    "Broadcaster": "SPV Communications India Ltd.",
+    "Channel": "G7 SPV (Earlier known as B TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/G7SPVEarlierknownasBTV.jpg"
+  },
+  {
+    "Broadcaster": "PINKCITY JEWEL HOUSE PVT. LTD.",
+    "Channel": "Gemporia (earlier JEWEL ALLIANCE)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GemporiaearlierJEWELALLIANCE.jpg"
+  },
+  {
+    "Broadcaster": "ANGEL MEDIA NETWORK PVT LTD",
+    "Channel": "GOD TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GODTV.jpg"
+  },
+  {
+    "Broadcaster": "GOODNESS MEDIA PVT LTD",
+    "Channel": "GOODNESS TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GOODNESSTV.jpg"
+  },
+  {
+    "Broadcaster": "GOOD NEWS CHANNEL PRIVATE LIMITED",
+    "Channel": "Goodnews TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GoodnewsTV.jpg"
+  },
+  {
+    "Broadcaster": "ESSENCE TELEVISION PVT.LTD.",
+    "Channel": "GRACE TV (Earlier PHENO TV & NEWS MAKERS)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GRACETVEarlierPHENOTVNEWSMAKERS.jpg"
+  },
+  {
+    "Broadcaster": "Nomad Films Ltd.",
+    "Channel": "Green TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GreenTV.jpg"
+  },
+  {
+    "Broadcaster": "Shreyarth Aaspas Limited (earlier Aaspas Multimedia Ltd.)",
+    "Channel": "GSTV (Earier AASPAS TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GSTVEarierAASPASTV.jpg"
+  },
+  {
+    "Broadcaster": "GULISTAN TV NETWORK PRIVATE LIMITED",
+    "Channel": "GULISTAN NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GULISTANNEWS.jpg"
+  },
+  {
+    "Broadcaster": "YOGI NETWORKS LTD.(EARLIER: BRINDAVAN TELEVISION NETWORK LIMITED)",
+    "Channel": "GYANA YOGI (Earlier BRINDAVAN TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/GYANAYOGIEarlierBRINDAVANTV.jpg"
+  },
+  {
+    "Broadcaster": "VEECON MEDIA AND BROADCASTING PVT LTD",
+    "Channel": "HARVEST TV (EARLIER SHRI S7 NEWS, EARLIER VEE NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HARVESTTVEARLIERSHRIS7NEWSEARLIERVEENEWS.jpg"
+  },
+  {
+    "Broadcaster": "HINDUSTAN BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "HBC NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HBCNEWS.jpg"
+  },
+  {
+    "Broadcaster": "HBN Network Private Limited (Earlier TELEBRANDS INDIA PRIVATE LIMITED)",
+    "Channel": "HBN",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HBN.jpg"
+  },
+  {
+    "Broadcaster": "Landmark Apartment Pvt. Ltd.",
+    "Channel": "Hindi Khabar (Earlier I-Witness)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HindiKhabarEarlierIWitness.jpg"
+  },
+  {
+    "Broadcaster": "Shreya Broadcasting Pvt. Ltd",
+    "Channel": "Hindu Dharmam",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HinduDharmam.jpg"
+  },
+  {
+    "Broadcaster": "AETN 18 Media Pvt. Ltd",
+    "Channel": "History TV 18 Tamil",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HistoryTV18Tamil.jpg"
+  },
+  {
+    "Broadcaster": "HYDERABAD MEDIA HOUSE LIMITED",
+    "Channel": "HM TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HMTV.jpg"
+  },
+  {
+    "Broadcaster": "YPT ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "HNN 24x7 (earlier Hindustan News Earlier GET PUNJABI, NEWS CHAKRA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HNN24x7earlierHindustanNewsEarlierGETPUNJABINEWSCHAKRA.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA NETWORK BROADCASTING PVT LTD",
+    "Channel": "HOLIDAYZ",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HOLIDAYZ.jpg"
+  },
+  {
+    "Broadcaster": "TV 18 HOME SHOPPING NETWORK PVT LTD",
+    "Channel": "HOME SHOP 18",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HOMESHOP18.jpg"
+  },
+  {
+    "Broadcaster": "NOIDA SOFTWARE TECHNOLOGY PARK LTD.",
+    "Channel": "HOPE TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HOPETV.jpg"
+  },
+  {
+    "Broadcaster": "9X MEDIA PRIVATE LIMITED",
+    "Channel": "Housefull Action (earlier 9X BAJAO (Earlier 9X BAJAAO & 9X BANGLA)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HousefullActionearlier9XBAJAOEarlier9XBAJAAO9XBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "VISION CORPORATION LIMITED",
+    "Channel": "HOUSEFULL MOVIES (EARLIER VISION TV, VISION TV MUSIC)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/HOUSEFULLMOVIESEARLIERVISIONTVVISIONTVMUSIC.jpg"
+  },
+  {
+    "Broadcaster": "SAURABH INTERNATIONAL PRIVATE LIMITED",
+    "Channel": "I NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/INEWS.jpg"
+  },
+  {
+    "Broadcaster": "KDM MEDIA PRIVATE LIMITED",
+    "Channel": "I PLUS TV (Earlier SHAKTI TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IPLUSTVEarlierSHAKTITV.jpg"
+  },
+  {
+    "Broadcaster": "S.B.MULTIMEDIA PVT. LTD.",
+    "Channel": "IBC 24 (earlier ZEE 24 GHANTE-CHATTISGARH)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IBC24earlierZEE24GHANTECHATTISGARH.jpg"
+  },
+  {
+    "Broadcaster": "CHANNEL BHARAT ENTERTAINMENT PRIVATE LIMITED",
+    "Channel": "IMAYAM TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IMAYAMTV.jpg"
+  },
+  {
+    "Broadcaster": "DIRECT NEWS PRIVATE LIMITED (Earlier INX NEWS PRIVATE LIMITED)",
+    "Channel": "IMN NEWS (NEWS X)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IMNNEWSNEWSX.jpg"
+  },
+  {
+    "Broadcaster": "PERFECT-OCTAVE MEDIA PROJECTS LIMITED",
+    "Channel": "IN- SYNC",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/INSYNC.jpg"
+  },
+  {
+    "Broadcaster": "ARPAN MEDIA PRIVATE LIMITED",
+    "Channel": "IND 24 (earlier Live India Kannada, NEWS SUPER FAST)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IND24earlierLiveIndiaKannadaNEWSSUPERFAST.jpg"
+  },
+  {
+    "Broadcaster": "ANDHRAPRABHA PUBLICATIONS LIMITED",
+    "Channel": "INDIA AHEAD (EARLIER BHAARAT TODAY, BHARAT TODAY (Earlier YOUR NEWS))",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/INDIAAHEADEARLIERBHAARATTODAYBHARATTODAYEarlierYOURNEWS.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "India News",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaNews.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "India News Haryana",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaNewsHaryana.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "India News Madhya Pradesh Chattisgarh",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaNewsMadhyaPradeshChattisgarh.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "India News Punjab",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaNewsPunjab.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "India News Rajasthan",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaNewsRajasthan.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "India News Uttar Pradesh-Uttarakhand",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaNewsUttarPradeshUttarakhand.jpg"
+  },
+  {
+    "Broadcaster": "INDEPENDENT NEWS SERVICE PVT. LTD",
+    "Channel": "INDIA TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/INDIATV.jpg"
+  },
+  {
+    "Broadcaster": "INDEPENDENT NEWS SERVICE PVT. LTD",
+    "Channel": "INDIA TV WIZ",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/INDIATVWIZ.jpg"
+  },
+  {
+    "Broadcaster": "SENTINEL BROADCASTING PVT LTD",
+    "Channel": "India Voice (Earlier SENTINEL NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaVoiceEarlierSENTINELNEWS.jpg"
+  },
+  {
+    "Broadcaster": "FUTURE VISION BROADCAT PRIVATE LIMITED",
+    "Channel": "India Watch (earlier INDIA NOW , Earlier INE LIVE)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndiaWatchearlierINDIANOWEarlierINELIVE.jpg"
+  },
+  {
+    "Broadcaster": "VISION CORPORATION LIMITED",
+    "Channel": "Indian fashion TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/IndianfashionTV.jpg"
+  },
+  {
+    "Broadcaster": "PRIDE EAST ENTERTAINMENTS PRIVATE LIMITED",
+    "Channel": "INDRADHANU",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/INDRADHANU.jpg"
+  },
+  {
+    "Broadcaster": "Bhole Baba Real Estate Developers Pvt. Ltd.",
+    "Channel": "INH 24x7 (earlier INDIAN CRIME (Earlier NAV JAGRITI & NSN News)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/INH24x7earlierINDIANCRIMEEarlierNAVJAGRITINSNNews.jpg"
+  },
+  {
+    "Broadcaster": "VARUN MEDIA PRIVATE LIMITED",
+    "Channel": "ISHWAR BHAKTI (EARLIER SUKH SAGAR)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ISHWARBHAKTIEARLIERSUKHSAGAR.jpg"
+  },
+  {
+    "Broadcaster": "BHARAT BROADCASTING NETWORK LIMITED",
+    "Channel": "JAI HIND",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JAIHIND.jpeg"
+  },
+  {
+    "Broadcaster": "SAHANA FILMS PRIVATE LIMITED",
+    "Channel": "JAI MAHARASHTRA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JAIMAHARASHTRA.jpg"
+  },
+  {
+    "Broadcaster": "PARSHAVNATH MEDIA PVT. LTD.",
+    "Channel": "JAI PARAS TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JAIPARASTV.jpg"
+  },
+  {
+    "Broadcaster": "JAIN STUDIOS LIMITED",
+    "Channel": "JAIN TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JAINTV.jpg"
+  },
+  {
+    "Broadcaster": "CSL INFOMEDIA PRIVATE LIMITED",
+    "Channel": "JAN TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JANTV.jpg"
+  },
+  {
+    "Broadcaster": "SANGEET AUDIO INDIA PRIVATE LIMITED",
+    "Channel": "Jan-Tantra TV (earlier A1 TEHELKA HIMACHAL-HARYANA (Earlier known as HINDUSTAN LIVE \/NEWS 17)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JanTantraTVearlierA1TEHELKAHIMACHALHARYANAEarlierknownasHINDUSTANLIVENEWS17.jpg"
+  },
+  {
+    "Broadcaster": "Janam Multi Media Ltd.",
+    "Channel": "Janam",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Janam.jpg"
+  },
+  {
+    "Broadcaster": "YASH BROADCASTING INDUSTRIES PRIVATE LIMITED",
+    "Channel": "JANASRI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JANASRI.jpg"
+  },
+  {
+    "Broadcaster": "NEESA TECHNOLOGIES PVT.LTD.",
+    "Channel": "JANO DUNIYA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JANODUNIYA.jpg"
+  },
+  {
+    "Broadcaster": "HARI BHOOMI COMMUNICATIONS PVT. LIMITED (EARLIER KNOWN AS LEGEND TRAVEL\u00c2 PVT LTD)",
+    "Channel": "JANTA TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JANTATV.jpg"
+  },
+  {
+    "Broadcaster": "JEEVAN TELECASTING CORPORATION LIMITED",
+    "Channel": "JEEVAN TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JEEVANTV.jpeg"
+  },
+  {
+    "Broadcaster": "PRABHATAM ADVERTISING PVT LTD",
+    "Channel": "JIA News (earlier PRABHATAM NEWS GUJARAT)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JIANewsearlierPRABHATAMNEWSGUJARAT.jpg"
+  },
+  {
+    "Broadcaster": "SEA TV NETWORK LIMITED",
+    "Channel": "JINVANI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JINVANI.jpg"
+  },
+  {
+    "Broadcaster": "News 24 Broadcast India Ltd.(Earlier known as B.A.G. GLAMOUR LIMITED)",
+    "Channel": "JK 24*7 (Earlier JK CHANNEL , AAPNO 24 (BIZ 24)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JK247EarlierJKCHANNELAAPNO24BIZ24.jpg"
+  },
+  {
+    "Broadcaster": "BRAHMAPUTRA TELE-PRODUCTIONS PRIVATE LIMITED",
+    "Channel": "Jonack (earlier DHOOM \/DY 365 ENTERTAINMENT)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/JonackearlierDHOOMDY365ENTERTAINMENT.jpg"
+  },
+  {
+    "Broadcaster": "ALLIANCE STRATEGIES LIMITED",
+    "Channel": "K NEWS INDIA (earlier MAGIK\u00c2 \/ Bhojpuria Magic)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KNEWSINDIAearlierMAGIKBhojpuriaMagic.jpg"
+  },
+  {
+    "Broadcaster": "MALAYALAM COMMUNICATIONS LIMITED",
+    "Channel": "KAIRALI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KAIRALI.jpg"
+  },
+  {
+    "Broadcaster": "KALAIGNAR TV PRIVATE LIMITED",
+    "Channel": "KALAIGNAR CHITHIRAM",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KALAIGNARCHITHIRAM.jpg"
+  },
+  {
+    "Broadcaster": "KALAIGNAR TV PRIVATE LIMITED",
+    "Channel": "KALAIGNAR ISAI ARUVI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KALAIGNARISAIARUVI.jpg"
+  },
+  {
+    "Broadcaster": "KALAIGNAR TV PRIVATE LIMITED",
+    "Channel": "KALAIGNAR MURASU",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KALAIGNARMURASU.jpg"
+  },
+  {
+    "Broadcaster": "KALAIGNAR TV PRIVATE LIMITED",
+    "Channel": "KALAIGNAR SEITHIGAL",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KALAIGNARSEITHIGAL.jpg"
+  },
+  {
+    "Broadcaster": "KALAIGNAR TV PRIVATE LIMITED",
+    "Channel": "KALAIGNAR SIRIPPOLI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KALAIGNARSIRIPPOLI.jpg"
+  },
+  {
+    "Broadcaster": "KALAIGNAR TV PRIVATE LIMITED",
+    "Channel": "KALAIGNAR TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KALAIGNARTV.jpg"
+  },
+  {
+    "Broadcaster": "Kalinga Media & Entertainment Pvt. Ltd.",
+    "Channel": "Kalinga TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KalingaTV.jpg"
+  },
+  {
+    "Broadcaster": "SRM INFOTAINMENT MEDIA PVT. LTD.",
+    "Channel": "KALKI KANNADA (EARLIER: KALVI\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KalkiTVearlierSatyaveedaTVBHOJPURIATVERACHANNEL.jpg"
+  },
+  {
+    "Broadcaster": "YPT ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "Kalki TV (earlier Satyaveeda TV, BHOJPURIA TV ,ERA CHANNEL)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KalkiTVearlierSatyaveedaTVBHOJPURIATVERACHANNEL.jpg"
+  },
+  {
+    "Broadcaster": "EASTERN MEDIA LIMITED",
+    "Channel": "KANAK NEWS (Earlier KANAK TV & KANAK SAMBAD)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KANAKNEWSEarlierKANAKTVKANAKSAMBAD.jpg"
+  },
+  {
+    "Broadcaster": "THE MATHRUBHUMI PRINTING AND PUBLISHING COMPANY LIMITED",
+    "Channel": "Kappa TV (earlier MATHRUBHUMI NEWS CENTRAL)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KappaTVearlierMATHRUBHUMINEWSCENTRAL.jpg"
+  },
+  {
+    "Broadcaster": "KASHISH DEVELOPERS LTD.",
+    "Channel": "KASHISH NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KASHISHNEWS.jpg"
+  },
+  {
+    "Broadcaster": "KASTHURI MEDIAS PRIVATE LIMITED",
+    "Channel": "Kasthuri",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Kasthuri.jpg"
+  },
+  {
+    "Broadcaster": "KASTHURI MEDIAS PRIVATE LIMITED",
+    "Channel": "Kasthuri News 24",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KasthuriNews24.jpg"
+  },
+  {
+    "Broadcaster": "VEECON MEDIA AND BROADCASTING PVT LTD",
+    "Channel": "KATYAYANI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KATYAYANI.jpg"
+  },
+  {
+    "Broadcaster": "KERELA KAUMUDI PVT LTD",
+    "Channel": "KAUMUDY",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KAUMUDY.jpg"
+  },
+  {
+    "Broadcaster": "COXSWAIN TECHNOLOGIES LIMITED",
+    "Channel": "KAVASAM TV (Earlier Archana, SPACETOON KIDS TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KAVASAMTVEarlierArchanaSPACETOONKIDSTV.jpg"
+  },
+  {
+    "Broadcaster": "kerala communications cable ltd.",
+    "Channel": "Kerala Vision",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KeralaVision.jpg"
+  },
+  {
+    "Broadcaster": "DEVBHUMI BROADCAST PRIVATE LIMITED",
+    "Channel": "KHABAR FAST",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KHABARFAST.jpg"
+  },
+  {
+    "Broadcaster": "VINMEHTA FILMS PRIVATE LIMITED (Earlier known as PPALTECH COOLING TOWERS AND EQUIPMENTS LIMITED)",
+    "Channel": "KHABRAIN ABHI TAK(ABHI TAK)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KHABRAINABHITAKABHITAK.jpg"
+  },
+  {
+    "Broadcaster": "Nexgen Telelinks Pvt. Ltd",
+    "Channel": "Khalsa Channel",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KhalsaChannel.jpg"
+  },
+  {
+    "Broadcaster": "KHUSBOO MULTIMEDIA PVT. LTD.",
+    "Channel": "KHUSBOO BANGLA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KHUSBOOBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "MITCON INFRASPROJECT PRIVATE LIMITED",
+    "Channel": "KHUSHI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KHUSHI.jpg"
+  },
+  {
+    "Broadcaster": "RP TECHVISION INDIA PRIVATE LIMITED",
+    "Channel": "KOLKATTA 24*7",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KOLKATTA247.jpg"
+  },
+  {
+    "Broadcaster": "SST MEDIA PRIVATE LIMITED",
+    "Channel": "KOLKATTA TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/KOLKATTATV.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA NETWORK BROADCASTING PVT LTD",
+    "Channel": "LIFE STYLE ASIA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/LIFESTYLEASIA.jpg"
+  },
+  {
+    "Broadcaster": "BROADCAST INITIATIVES LIMITED",
+    "Channel": "LIVE INDIA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/LIVEINDIA.jpg"
+  },
+  {
+    "Broadcaster": "Live Today TV & Web Private Limited (earlier Pavitar Entertainment Pvt Ltd)",
+    "Channel": "LIVE TODAY",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/LIVETODAY.jpg"
+  },
+  {
+    "Broadcaster": "BPL MEDIA LIMITED",
+    "Channel": "LIVING INDIA NEWS (Earlier FW News (REPORTER 24*7)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/LIVINGINDIANEWSEarlierFWNewsREPORTER247.jpg"
+  },
+  {
+    "Broadcaster": "EXCLUSIVE VISION BROADCAST PVT. LTD.",
+    "Channel": "Lord Buddha TV (earlier LORD BUDDHA SHARNAM TV (Earlier SHARNAM)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/LordBuddhaTVearlierLORDBUDDHASHARNAMTVEarlierSHARNAM.jpg"
+  },
+  {
+    "Broadcaster": "LIVE NEWS INDIA NETWORK PVT LTD",
+    "Channel": "Lotus News (Earlier known as NATION NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/LotusNewsEarlierknownasNATIONNEWS.jpg"
+  },
+  {
+    "Broadcaster": "MADHA MEDIA RENAISSANCE PVT. LTD. (Earlier Krishnaswamy Associates Media Renaissance Pvt. Ltd. (Earlier known as KRISHNASWAMY ASSOCIATES MEDIA RENAISSANCE)",
+    "Channel": "Madha TV (earlier KRISHANA TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MadhaTVearlierKRISHANATV.jpg"
+  },
+  {
+    "Broadcaster": "TELEONE CONSUMERS PRODUCT PVT. LTD.",
+    "Channel": "MAHA MOVIE",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAHAMOVIE.jpg"
+  },
+  {
+    "Broadcaster": "MONICA BROADCASTING PRIVATE LIMITED",
+    "Channel": "MAHAA NEWS (MAHAA TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAHAANEWSMAHAATV.jpg"
+  },
+  {
+    "Broadcaster": "SHARP EYE ADVERTISING PRIVATE LIMITED",
+    "Channel": "MAHARASHTRA 1 (Earlier SADHANA NEWS-UTTARAKHAND\/HIMACHAL PRADESH)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAHARASHTRA1EarlierSADHANANEWSUTTARAKHANDHIMACHALPRADESH.jpg"
+  },
+  {
+    "Broadcaster": "AADRI ENTERTAINMENT AND MEDIA WORKS PVT.LTD.",
+    "Channel": "Mahua Plus (earlier AGRO ROYAL TV (Earlier AADRI WELLNESS)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MahuaPlusearlierAGROROYALTVEarlierAADRIWELLNESS.jpg"
+  },
+  {
+    "Broadcaster": "MAHUAA MEDIA PRIVATE LIMITED",
+    "Channel": "MAHUAA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAHUAA.jpg"
+  },
+  {
+    "Broadcaster": "MAHUAA MEDIA PRIVATE LIMITED",
+    "Channel": "MAHUAA MOVIES",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAHUAAMOVIES.jpg"
+  },
+  {
+    "Broadcaster": "MAHUAA MEDIA PRIVATE LIMITED",
+    "Channel": "MAHUAA MUSIC (MAHUAA NEWS LINE UTTAR PRADESH\/UTTRAKHAND) (EARLIER MAHUAA BANGLA)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAHUAAMUSICMAHUAANEWSLINEUTTARPRADESHUTTRAKHANDEARLIERMAHUAABANGLA.jpg"
+  },
+  {
+    "Broadcaster": "MAHUAA MEDIA PRIVATE LIMITED",
+    "Channel": "MAHUAA NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAHUAANEWS.jpg"
+  },
+  {
+    "Broadcaster": "MPCR BROADCASTING SERVICE PRIVATE LIMITED",
+    "Channel": "Maiboli (earlier DHAMAKAA \/APNA TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MaiboliearlierDHAMAKAAAPNATV.jpg"
+  },
+  {
+    "Broadcaster": "MAKKAL THOLAI THODARPU KUZHUMAM LIMITED",
+    "Channel": "MAKKAL TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAKKALTV.jpg"
+  },
+  {
+    "Broadcaster": "HORIZON SATELLITE SERVICE PVT LTD",
+    "Channel": "Malai Murasu (Earlier Jai Tamil TV Earlier known as HORIZON NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MalaiMurasuEarlierJaiTamilTVEarlierknownasHORIZONNEWS.jpg"
+  },
+  {
+    "Broadcaster": "Chennai Murasu Private Limited",
+    "Channel": "Malai Murasu Seithikal",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MalaiMurasuSeithikal.jpg"
+  },
+  {
+    "Broadcaster": "GN INFOMEDIA PVT LTD",
+    "Channel": "MANGALAM (Earlier REPORTER 24X7, GN News, GNN NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MANGALAMEarlierREPORTER24X7GNNewsGNNNEWS.jpg"
+  },
+  {
+    "Broadcaster": "MM TV LIMITED",
+    "Channel": "MANORAMA NEWS CENTRAL",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MANORAMANEWSCENTRAL.jpg"
+  },
+  {
+    "Broadcaster": "MM TV LIMITED",
+    "Channel": "MANORAMA NEWS NORTH",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MANORAMANEWSNORTH.jpg"
+  },
+  {
+    "Broadcaster": "CREATIVE CHANNEL ADVERTISING AND MARKETING PRIVATE",
+    "Channel": "MANORANJAN MOVIES (Earlier Manoranjan Music)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MANORANJANMOVIESEarlierManoranjanMusic.jpg"
+  },
+  {
+    "Broadcaster": "CREATIVE CHANNEL ADVERTISING AND MARKETING PRIVATE",
+    "Channel": "MANORANJAN TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MANORANJANTV.jpg"
+  },
+  {
+    "Broadcaster": "MONICA BROADCASTING PRIVATE LIMITED",
+    "Channel": "MANTAVYA NEWS (Earlier XTRA\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MANTAVYANEWSEarlierXTRA.jpg"
+  },
+  {
+    "Broadcaster": "TV VISION PVT. LTD.",
+    "Channel": "MASTIII",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MASTIII.jpg"
+  },
+  {
+    "Broadcaster": "THE MATHRUBHUMI PRINTING AND PUBLISHING COMPANY LIMITED",
+    "Channel": "MATHRUBHUMI NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MATHRUBHUMINEWS.jpg"
+  },
+  {
+    "Broadcaster": "THE MATHRUBHUMI PRINTING AND PUBLISHING COMPANY LIMITED",
+    "Channel": "MATHRUBHUMI NEWS NORTH",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MATHRUBHUMINEWSNORTH.jpg"
+  },
+  {
+    "Broadcaster": "THE MATHRUBHUMI PRINTING AND PUBLISHING COMPANY LIMITED",
+    "Channel": "MATHRUBHUMI NEWS SOUTH",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MATHRUBHUMINEWSSOUTH.jpg"
+  },
+  {
+    "Broadcaster": "KRISHNA SHOWBIZ SERVICES PVT. LTD.",
+    "Channel": "MAUJA MOSTII",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAUJAMOSTII.jpg"
+  },
+  {
+    "Broadcaster": "MM TV LIMITED",
+    "Channel": "MAZHAVIL MANORAMA (MANORAMA VISION)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAZHAVILMANORAMAMANORAMAVISION.jpg"
+  },
+  {
+    "Broadcaster": "MM TV LIMITED",
+    "Channel": "MAZHAVIL MANORAMA HD (Earlier MANORAMA NEWS SOUTH)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAZHAVILMANORAMAHDEarlierMANORAMANEWSSOUTH.jpg"
+  },
+  {
+    "Broadcaster": "MM TV LIMITED",
+    "Channel": "MAZHAVIL MANORAMA INTERNATIONAL (earlier MANORAMA NEWS INTERNATIONAL)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MAZHAVILMANORAMAINTERNATIONALearlierMANORAMANEWSINTERNATIONAL.jpg"
+  },
+  {
+    "Broadcaster": "JOSH MEDIA VISION PVT LTD",
+    "Channel": "MBC TV (VON JANTA KI AWAAZ)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MBCTVVONJANTAKIAWAAZ.jpg"
+  },
+  {
+    "Broadcaster": "MADHYAMAM BROADCASTING LTD",
+    "Channel": "MEDIA ONE LIFE",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MEDIAONELIFE.jpg"
+  },
+  {
+    "Broadcaster": "MADHYAMAM BROADCASTING LTD",
+    "Channel": "MEDIA ONE TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MEDIAONETV.jpg"
+  },
+  {
+    "Broadcaster": "Meenakshi Networks Pvt. Ltd.",
+    "Channel": "Meenakshi TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MeenakshiTV.jpg"
+  },
+  {
+    "Broadcaster": "MGK PRINTING WORKS PVT LTD",
+    "Channel": "MGK NAAPTOL TAMIL (Earlier MGK)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MGKNAAPTOLTAMILEarlierMGK.jpg"
+  },
+  {
+    "Broadcaster": "M.H. ONE TV NETWORK LIMITED",
+    "Channel": "MH 1",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MH1.png\n"
+  },
+  {
+    "Broadcaster": "M.H. ONE TV NETWORK LIMITED",
+    "Channel": "MH ONE NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MHONENEWS.jpg"
+  },
+  {
+    "Broadcaster": "M.H. ONE TV NETWORK LIMITED",
+    "Channel": "MH ONE SHRADDHA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MHONESHRADDHA.jpg"
+  },
+  {
+    "Broadcaster": "Mi Marathi Media Ltd. (Earlier:SRI ADHIKARI BROTHERS MEDIA LIMITED\u00c2 )",
+    "Channel": "MI MARATHI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MIMARATHI.jpg"
+  },
+  {
+    "Broadcaster": "MADURAI KRISHNA NETWORK PVT. LTD.",
+    "Channel": "MK Six",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MKSix.jpg"
+  },
+  {
+    "Broadcaster": "MADURAI KRISHNA NETWORK PVT. LTD.",
+    "Channel": "MK TELEVISION",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MKTELEVISION.jpg"
+  },
+  {
+    "Broadcaster": "MADURAI KRISHNA NETWORK PVT. LTD.",
+    "Channel": "MK Tunes",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MKTunes.jpg"
+  },
+  {
+    "Broadcaster": "PIGEON INFORMATION TECHNOLOGY PRIVATE LIMITED",
+    "Channel": "MOJO TV (earlier K News 24*7 (earlier NEWS & VIEWS\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MOJOTVearlierKNews247earlierNEWSVIEWS.jpg"
+  },
+  {
+    "Broadcaster": "MOON VISION PRIVATE LIMITED",
+    "Channel": "MOON TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MOONTV.jpg"
+  },
+  {
+    "Broadcaster": "ASHIRWAD TELENETWORK PRIVATE LIMITED",
+    "Channel": "MOVIES HOUSE (Earleir ASHIRWAD CLASSIC)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MOVIESHOUSEEarleirASHIRWADCLASSIC.jpg"
+  },
+  {
+    "Broadcaster": "VIACOM 18 MEDIA PRIVATE LIMITED",
+    "Channel": "MTV INDIES (EARLIER COLORS INTERNATIONAL\/ V.18 MOVIES)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MTVINDIESEARLIERCOLORSINTERNATIONALV18MOVIES.jpg"
+  },
+  {
+    "Broadcaster": "Mass Telecasting pvt. Ltd.",
+    "Channel": "MUBU TV (EARLIER MT)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MUBUTVEARLIERMT.jpg"
+  },
+  {
+    "Broadcaster": "VISION CORPORATION LIMITED",
+    "Channel": "MULTIPLEX (EARLIER VISION TV SHIKSHA)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MULTIPLEXEARLIERVISIONTVSHIKSHA.jpg"
+  },
+  {
+    "Broadcaster": "DERA TELEVISIONS PRIVATE LIMITED",
+    "Channel": "MUNSIF TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MUNSIFTV.jpg"
+  },
+  {
+    "Broadcaster": "ROYALRAJ MEDIA PRIVATE LIMITED",
+    "Channel": "MUSIC F (earlier M3M music..movie..masti \/ VARDAAN)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MUSICFearlierM3MmusicmoviemastiVARDAAN.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA WORLDWIDE LIMITED",
+    "Channel": "MUSIC INDIA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MUSICINDIA.jpg"
+  },
+  {
+    "Broadcaster": "COXSWAIN TECHNOLOGIES LIMITED",
+    "Channel": "Music Zone (earlier 7 S MUSIC, NILCHAKARA)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/MusicZoneearlier7SMUSICNILCHAKARA.jpg"
+  },
+  {
+    "Broadcaster": "RACHANA TELEVISION PRIVATE LIMITED",
+    "Channel": "N TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NTV.jpg"
+  },
+  {
+    "Broadcaster": "MGK PRINTING WORKS PVT LTD",
+    "Channel": "NAAPTOL BANGLA (Earlier MGK STAR)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NAAPTOLBANGLAEarlierMGKSTAR.jpg"
+  },
+  {
+    "Broadcaster": "MGK PRINTING WORKS PVT LTD",
+    "Channel": "NAAPTOL BLUE (Earlier Blue)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NAAPTOLBLUEEarlierBlue.jpg"
+  },
+  {
+    "Broadcaster": "Sunny ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "Naaptol Kannada (earlier Gnext Discovery)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NaaptolKannadaearlierGnextDiscovery.jpg"
+  },
+  {
+    "Broadcaster": "DHARM MEDIA VENTURES PRIVATE LIMITED",
+    "Channel": "Naaptol Malayalam (earlier DHARM SANGEET)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NaaptolMalayalamearlierDHARMSANGEET.jpg"
+  },
+  {
+    "Broadcaster": "GLOBAL TELECASTING PVT. LTD.",
+    "Channel": "Naaptol telugu (earlier Cine 21, GT ENTERTAINMENT)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NaaptolteluguearlierCine21GTENTERTAINMENT.jpg"
+  },
+  {
+    "Broadcaster": "GOOD NEWS CHANNEL PRIVATE LIMITED",
+    "Channel": "Nambikkai Television",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NambikkaiTelevision.jpg"
+  },
+  {
+    "Broadcaster": "SCAN MEDIA PVT.LTD.",
+    "Channel": "National Voice Uttarpradesh\/Uttrakhand (earlier SHALINI TV \/GURU DIKSHA NEWS\/ VEDA TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NationalVoiceUttarpradeshUttrakhandearlierSHALINITVGURUDIKSHANEWSVEDATV.jpg"
+  },
+  {
+    "Broadcaster": "N K MEDIA VENTURES PVT LTD",
+    "Channel": "NAXATRA NEWS JHARKHAND BIHAR (NAXTRA BARNALII)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NAXATRANEWSJHARKHANDBIHARNAXTRABARNALII.jpg"
+  },
+  {
+    "Broadcaster": "N K MEDIA VENTURES PVT LTD",
+    "Channel": "NAXATRA TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NAXATRATV.jpg"
+  },
+  {
+    "Broadcaster": "NEO SPORTS BROADCAST PRIVATE LIMITED",
+    "Channel": "NEO PRIME (earlier NEO CRICKET\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEOPRIMEearlierNEOCRICKET.jpg"
+  },
+  {
+    "Broadcaster": "NEO SPORTS BROADCAST PRIVATE LIMITED",
+    "Channel": "NEO SPORTS",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEOSPORTS.jpg"
+  },
+  {
+    "Broadcaster": "TV LIVE INDIA PRIVATE LIMITED",
+    "Channel": "NEPAL 1 (EARLIER KNOWN AS TV LIVE)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEPAL1EARLIERKNOWNASTVLIVE.jpg"
+  },
+  {
+    "Broadcaster": "BHARAT HYDEL PROJECTS PRIVATE LIMITED",
+    "Channel": "NETWORK 10",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NETWORK10.png"
+  },
+  {
+    "Broadcaster": "ASHOKA PRODUCTIONS AND COMMUNICATION PVT LTD",
+    "Channel": "News 1 India (earlier High News (earlier News1 India, CEE NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/News1IndiaearlierHighNewsearlierNews1IndiaCEENEWS.jpg"
+  },
+  {
+    "Broadcaster": "BRAHMAPUTRA TELE-PRODUCTIONS PRIVATE LIMITED",
+    "Channel": "NEWS 11 (Earlier DY-365 UP)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS11EarlierDY365UP.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA GURU NEWS PVT. LTD.",
+    "Channel": "News 30 (Earlier known as NEWS GURU)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/News30EarlierknownasNEWSGURU.jpg"
+  },
+  {
+    "Broadcaster": "SUMMA REAL MEDIA PRIVATE LIMITED",
+    "Channel": "NEWS 7 (PRAMEYA NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS7PRAMEYANEWS.jpg"
+  },
+  {
+    "Broadcaster": "ALLIANCE BROADCASTING PRIVATE LIMITED",
+    "Channel": "NEWS 7 TAMIL (Earlier REAL ESTATE\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS7TAMILEarlierREALESTATE.jpg"
+  },
+  {
+    "Broadcaster": "ASSOCIATED BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "NEWS 9",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS9.jpg"
+  },
+  {
+    "Broadcaster": "OMEGA TV MEDIA PVT LTD",
+    "Channel": "News India 24x7 (earlier UK NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NewsIndia24x7earlierUKNEWS.jpg"
+  },
+  {
+    "Broadcaster": "POLIMER MEDIA PRIVATE LIMITED",
+    "Channel": "News J (earlier Polimer Kannada)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NewsJearlierPolimerKannada.jpg"
+  },
+  {
+    "Broadcaster": "PRIDE EAST ENTERTAINMENTS PRIVATE LIMITED",
+    "Channel": "NEWS LIVE",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWSLIVE.jpg"
+  },
+  {
+    "Broadcaster": "PRIDE EAST ENTERTAINMENTS PRIVATE LIMITED",
+    "Channel": "NEWS LIVE ODISHA (NOURTH EAST LIVE)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWSLIVEODISHANOURTHEASTLIVE.jpg"
+  },
+  {
+    "Broadcaster": "News Nation Network Pvt. Ltd (Earlier known as ALPHA DEALCOM PRIVATE LIMITED)",
+    "Channel": "NEWS NATION (Earlier NATION TODAY, TULIP NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWSNATIONEarlierNATIONTODAYTULIPNEWS.jpg"
+  },
+  {
+    "Broadcaster": "NEWSPLUS TELEVISION PRIVATE LIMITED",
+    "Channel": "News Plus",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NewsPlus.jpg"
+  },
+  {
+    "Broadcaster": "News Nation Network Pvt. Ltd (Earlier known as ALPHA DEALCOM PRIVATE LIMITED)",
+    "Channel": "News State Madhya Pradesh\/Chhatttisgarh",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NewsStateMadhyaPradeshChhatttisgarh.jpg"
+  },
+  {
+    "Broadcaster": "News Nation Network Pvt. Ltd (Earlier known as ALPHA DEALCOM PRIVATE LIMITED)",
+    "Channel": "NEWS STATE UTTARAKHAND\/UTTAR PRADESH (Earlier UPASANA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWSSTATEUTTARAKHANDUTTARPRADESHEarlierUPASANA.jpg"
+  },
+  {
+    "Broadcaster": "BRAND VALUE COMMUNICATIONS PRIVATE LIMITED",
+    "Channel": "NEWS TIME ASSAM",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWSTIMEASSAM.jpg"
+  },
+  {
+    "Broadcaster": "BRAND VALUE COMMUNICATIONS PRIVATE LIMITED",
+    "Channel": "NEWS TIME BANGLA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWSTIMEBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "F7 BROADCAST PVT. LTD. (Earlier R & AAR Communication (P) Ltd.)",
+    "Channel": "NEWS WORLD INDIA (earlier NAMOSTUTE INDIA, RR News )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWSWORLDINDIAearlierNAMOSTUTEINDIARRNews.jpg"
+  },
+  {
+    "Broadcaster": "TV 18 BROADCAST LTD.",
+    "Channel": "News18 Bharat (earlier NEWS18 PUNJAB)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/News18BharatearlierNEWS18PUNJAB.jpg"
+  },
+  {
+    "Broadcaster": "TV 18 BROADCAST LTD.",
+    "Channel": "NEWS18 GOA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS18GOA.jpg"
+  },
+  {
+    "Broadcaster": "TV 18 BROADCAST LTD.",
+    "Channel": "News18 India (earlier KHABAR 18, Earlier IBN 7\u00c2 & JTV Channel-7)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS7TAMILEarlierREALESTATE.jpg"
+  },
+  {
+    "Broadcaster": "TV 18 BROADCAST LTD.",
+    "Channel": "NEWS18 J&K",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS18JK.jpg"
+  },
+  {
+    "Broadcaster": "News 24 Broadcast India Ltd.(Earlier known as B.A.G. GLAMOUR LIMITED)",
+    "Channel": "NEWS24 THINK FIRST",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NEWS24THINKFIRST.jpg"
+  },
+  {
+    "Broadcaster": "INFORMATION TV PRIVATE LIMITED",
+    "Channel": "NewsX Kannada",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NewsXKannada.jpg"
+  },
+  {
+    "Broadcaster": "NOIDA SOFTWARE TECHNOLOGY PARK LTD.",
+    "Channel": "NHK WORLD TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NHKWORLDTV.jpg"
+  },
+  {
+    "Broadcaster": "Shopping Zone India TV Pvt. Ltd",
+    "Channel": "Nireekshana TV",
+    "category": "Non-News",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NireekshanaTV.jpg"
+  },
+  {
+    "Broadcaster": "VIKAAS TV ALLIANCE PVT LTD",
+    "Channel": "NIRMANA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NIRMANA.jpg"
+  },
+  {
+    "Broadcaster": "VAARTHA BROADCASTING LTD",
+    "Channel": "NO.1 NEWS (EARLIER VAARTHA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NO1NEWSEARLIERVAARTHA.jpg"
+  },
+  {
+    "Broadcaster": "SEA TV NETWORK LIMITED",
+    "Channel": "Non-Stop Samachar India (Initially Sea News then changed to Sea News Uttar Pradesh & Uttrakhand",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NonStopSamacharIndiaInitiallySeaNewsthenchangedtoSeaNewsUttarPradeshUttrakhand.jpg"
+  },
+  {
+    "Broadcaster": "Cinema 24x7 Pvt. Ltd",
+    "Channel": "NT1",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NT1.jpg"
+  },
+  {
+    "Broadcaster": "Cinema 24x7 Pvt. Ltd",
+    "Channel": "NT2",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NT2.jpg"
+  },
+  {
+    "Broadcaster": "Cinema 24x7 Pvt. Ltd",
+    "Channel": "NT3",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NT3.jpg"
+  },
+  {
+    "Broadcaster": "Cinema 24x7 Pvt. Ltd",
+    "Channel": "NT4",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NT4.jpg"
+  },
+  {
+    "Broadcaster": "Cinema 24x7 Pvt. Ltd",
+    "Channel": "NT5",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NT5.jpg"
+  },
+  {
+    "Broadcaster": "Cinema 24x7 Pvt. Ltd",
+    "Channel": "NT6",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NT6.jpg"
+  },
+  {
+    "Broadcaster": "Cinema 24x7 Pvt. Ltd",
+    "Channel": "NT7",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/NT7.jpg"
+  },
+  {
+    "Broadcaster": "ODISHA TELEVISION LIMITED",
+    "Channel": "O TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/OTV.jpg"
+  },
+  {
+    "Broadcaster": "KAMYAB TELEVISION PRIVATE LIMITED",
+    "Channel": "ODISHA TIME (earlier KAMYAB TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ODISHATIMEearlierKAMYABTV.jpg"
+  },
+  {
+    "Broadcaster": "Landmark Infonet Pvt. Ltd.",
+    "Channel": "Ok India (earlier known as L-TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/OkIndiaearlierknownasLTV.jpg"
+  },
+  {
+    "Broadcaster": "V S BROADCASTING PVT. LT.",
+    "Channel": "OK MUSIC (EARLIER V S ENTERTAINMENT)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/OKMUSICEARLIERVSENTERTAINMENT.jpg"
+  },
+  {
+    "Broadcaster": "ONKAR ENTERTAINMENT PRIVATE LIMITED",
+    "Channel": "ONKAR ONLY TRUTH",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ONKARONLYTRUTH.jpg"
+  },
+  {
+    "Broadcaster": "T. SARKAR PVT. LTD.",
+    "Channel": "ORANGE TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ORANGETV.jpg"
+  },
+  {
+    "Broadcaster": "OSCAR MEDIA PRIVATE LIMITED",
+    "Channel": "Oscar Movies Bhojpuri (earlier MARATHI MUSIC)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/OscarMoviesBhojpuriearlierMARATHIMUSIC.jpg"
+  },
+  {
+    "Broadcaster": "JANVANI BROADCASTING CORPORATION LIMITED (Earlier PEARLS BROADCASTING CORPORATION PRIVATE LIMITED)",
+    "Channel": "P7 GUJARATI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/P7GUJARATI.jpg"
+  },
+  {
+    "Broadcaster": "TOURISM AND TRAVEL MEDIA ENTERTAINMENT PRIVATE LIMITED",
+    "Channel": "Paras Gold (earlier TRAVEL TRENDZ TV\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ParasGoldearlierTRAVELTRENDZTV.jpg"
+  },
+  {
+    "Broadcaster": "City Pulse Media India Pvt. Ltd. ( transferred from ANOLI HOLDINGS PRIVATE LIMITED\u00c2 )",
+    "Channel": "Paras-CITY Pulse",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ParasCITYPulse.jpg"
+  },
+  {
+    "Broadcaster": "Rajasthan Patrika Pvt. Ltd.",
+    "Channel": "Patrika TV Rajasthan",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PatrikaTVRajasthan.jpg"
+  },
+  {
+    "Broadcaster": "JAINSON MEDIA PRIVATE LIMITED",
+    "Channel": "PBN (earlier SAMACHAR 24X7)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PBNearlierSAMACHAR24X7.jpg"
+  },
+  {
+    "Broadcaster": "God Media Pvt. Ltd.",
+    "Channel": "Peace of Mind",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PeaceofMind.jpg"
+  },
+  {
+    "Broadcaster": "YASH TV MEDIA PRIVATE LIMITED",
+    "Channel": "Pearls Haryana Express (earlier Pearls NCR-Haryana-Rajasthan \/PEARLS PUNJABI)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PearlsHaryanaExpressearlierPearlsNCRHaryanaRajasthanPEARLSPUNJABI.jpg"
+  },
+  {
+    "Broadcaster": "EASWARI MEDIA PRIVATE LIMITED",
+    "Channel": "PENGAL",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PENGAL.jpg"
+  },
+  {
+    "Broadcaster": "MALAYALAM COMMUNICATIONS LIMITED",
+    "Channel": "PEOPLE (earlier KALAIGNAR TV\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PEOPLEearlierKALAIGNARTV.jpg"
+  },
+  {
+    "Broadcaster": "N&D COMMUNICATIONS PVT. LTD.",
+    "Channel": "PEPPERS",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PEPPERS.jpg"
+  },
+  {
+    "Broadcaster": "Paul E Commerce Pvt. Ltd.",
+    "Channel": "PITAARA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PITAARA.jpg"
+  },
+  {
+    "Broadcaster": "ZEUS NETWORKING PRIVATE LIMITED",
+    "Channel": "PLANET NEWS (earlier ZEUS NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PLANETNEWSearlierZEUSNEWS.jpg"
+  },
+  {
+    "Broadcaster": "POLIMER MEDIA PRIVATE LIMITED",
+    "Channel": "POLIMER",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/POLIMER.jpg"
+  },
+  {
+    "Broadcaster": "POLIMER MEDIA PRIVATE LIMITED",
+    "Channel": "POLIMER NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/POLIMERNEWS.jpg"
+  },
+  {
+    "Broadcaster": "Page 3 Entertainment India Pvt. Ltd.",
+    "Channel": "Power of God TV (Earlier known as Page 3)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PowerofGodTVEarlierknownasPage3.jpg"
+  },
+  {
+    "Broadcaster": "VALUE VISION BROADCASTING PRIVATE LIMITED",
+    "Channel": "POWER VISION",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/POWERVISION.jpg"
+  },
+  {
+    "Broadcaster": "AM Television Pvt. Ltd",
+    "Channel": "PRAG (earlier NEWS BANGLA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PRAGearlierNEWSBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "PRABHATAM ADVERTISING PVT LTD",
+    "Channel": "PRAJAA KANNADA TV (Earlier PRABHATAM NEWS RAJASTHAN)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PRAJAAKANNADATVEarlierPRABHATAMNEWSRAJASTHAN.jpg"
+  },
+  {
+    "Broadcaster": "PALM BROADCASTING PRIVATE LIMITED",
+    "Channel": "PRARTHANA BHAWAN TV (GATHA TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PRARTHANABHAWANTVGATHATV.jpg"
+  },
+  {
+    "Broadcaster": "OMEGA BROADCAST PVT LTD",
+    "Channel": "PRATINIDHI (earlier 4 REAL NEWS \/DEV BHUMI)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PRATINIDHIearlier4REALNEWSDEVBHUMI.jpg"
+  },
+  {
+    "Broadcaster": "Graphisads Private Limited",
+    "Channel": "PRERNA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PRERNA.jpg"
+  },
+  {
+    "Broadcaster": "YASH TV ENTERTAINEMENT PVT.LTD.",
+    "Channel": "PROTIDIN TIME (earlier KHABAR 365 DIN, REPORTER HARYANA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PROTIDINTIMEearlierKHABAR365DINREPORTERHARYANA.jpg"
+  },
+  {
+    "Broadcaster": "G-NEXT MEDIA PRIVATE LIMITED",
+    "Channel": "PTC CHAK DE",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PTCCHAKDE.jpg"
+  },
+  {
+    "Broadcaster": "G-NEXT MEDIA PRIVATE LIMITED",
+    "Channel": "PTC NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PTCNEWS.jpg"
+  },
+  {
+    "Broadcaster": "G-NEXT MEDIA PRIVATE LIMITED",
+    "Channel": "PTC PUNJABI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PTCPUNJABI.jpg"
+  },
+  {
+    "Broadcaster": "WRITEMEN MEDIA PRIVATE LIMITED",
+    "Channel": "Public Movies (earlier Public Comedy)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PublicMoviesearlierPublicComedy.jpg"
+  },
+  {
+    "Broadcaster": "WRITEMEN MEDIA PRIVATE LIMITED",
+    "Channel": "Public Music",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PublicMusic.jpg"
+  },
+  {
+    "Broadcaster": "WRITEMEN MEDIA PRIVATE LIMITED",
+    "Channel": "Public TV(TOP TV \/KARNATAKA NEWS 24X7)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PublicTVTOPTVKARNATAKANEWS24X7.jpg"
+  },
+  {
+    "Broadcaster": "STV ENTERPRISES LIMITED",
+    "Channel": "PUNJAB TODAY",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PUNJABTODAY.jpg"
+  },
+  {
+    "Broadcaster": "NEW GENERATION MEDIA CORPORATION PVT LTD (EARLIER KNOWN AS M\/S GENERATION NOW MEDIA PVT LTD)",
+    "Channel": "PUTHIYA THAILAIMURAI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PUTHIYATHAILAIMURAI.jpg"
+  },
+  {
+    "Broadcaster": "NEW ERA MEDIA CORPORATION CHENNAI PRIVATE LIMITED (earlier TRP MEDIA PRIVATE LIMITED)",
+    "Channel": "Puthu Yugam (earlier KALAI SARAL)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/PuthuYugamearlierKALAISARAL.jpg"
+  },
+  {
+    "Broadcaster": "RAHUL SPRINGS PVT LTD",
+    "Channel": "R PLUS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RPLUS.jpg"
+  },
+  {
+    "Broadcaster": "RAHUL SPRINGS PVT LTD",
+    "Channel": "R PLUS GOLD (earlier R PLUS NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RPLUSGOLDearlierRPLUSNEWS.jpg"
+  },
+  {
+    "Broadcaster": "RAYUDU VISION MEDIA LIMITED",
+    "Channel": "R TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RTV.jpg"
+  },
+  {
+    "Broadcaster": "R-VISION INDIA PVT. LTD.",
+    "Channel": "R VISION",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RVISION.jpg"
+  },
+  {
+    "Broadcaster": "RAFTAAR MEDIA PRIVATE LIMITED",
+    "Channel": "RAFTAAR MEDIA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAFTAARMEDIA.jpg"
+  },
+  {
+    "Broadcaster": "RAJ TELEVISION NETWORK LIMITED",
+    "Channel": "RAJ MUSIX MALAYALAM",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAJMUSIXMALAYALAM.jpg"
+  },
+  {
+    "Broadcaster": "RAJ TELEVISION NETWORK LIMITED",
+    "Channel": "RAJ MUSIX TELUGU",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAJMUSIXTELUGU.jpg"
+  },
+  {
+    "Broadcaster": "RAJ TELEVISION NETWORK LIMITED",
+    "Channel": "RAJ NEWS KANNADA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAJNEWSKANNADA.jpg"
+  },
+  {
+    "Broadcaster": "RAJ TELEVISION NETWORK LIMITED",
+    "Channel": "RAJ NEWS MALAYALAM",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAJNEWSMALAYALAM.jpg"
+  },
+  {
+    "Broadcaster": "RAJ TELEVISION NETWORK LIMITED",
+    "Channel": "RAJ NEWS TELUGU",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAJNEWSTELUGU.jpg"
+  },
+  {
+    "Broadcaster": "RAJ TELEVISION NETWORK LIMITED",
+    "Channel": "RAJ PARIWAR",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAJPARIWAR.jpg"
+  },
+  {
+    "Broadcaster": "COXSWAIN TECHNOLOGIES LIMITED",
+    "Channel": "RAKSHANA TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAKSHANATV.jpg"
+  },
+  {
+    "Broadcaster": "PRIDE EAST ENTERTAINMENTS PRIVATE LIMITED",
+    "Channel": "RAMDHENU",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RAMDHENU.jpg"
+  },
+  {
+    "Broadcaster": "PRIDE EAST ENTERTAINMENTS PRIVATE LIMITED",
+    "Channel": "RANG",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RANG.jpg"
+  },
+  {
+    "Broadcaster": "AM Television Pvt. Ltd",
+    "Channel": "RENGONI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RENGONI.jpg"
+  },
+  {
+    "Broadcaster": "INDO ASIAN NEWS CHANNEL PVT LTD",
+    "Channel": "REPORTER",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/REPORTER.jpg"
+  },
+  {
+    "Broadcaster": "ARG Outlier Media Pvt. Ltd",
+    "Channel": "Republic TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RepublicTV.jpg"
+  },
+  {
+    "Broadcaster": "PRABHATAM ADVERTISING PVT LTD",
+    "Channel": "RK News (earlier PRABHATAM NEWS PUNJAB)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RKNewsearlierPRABHATAMNEWSPUNJAB.jpg"
+  },
+  {
+    "Broadcaster": "IMPACT TELEVISION PRIVATE LIMITED",
+    "Channel": "RM-RUJUMARGAM FROM DARKNESS TO LIGHT (earlier MU ODIA, KATHA TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RMRUJUMARGAMFROMDARKNESSTOLIGHTearlierMUODIAKATHATV.jpg"
+  },
+  {
+    "Broadcaster": "SUB NEWS AND BROADCASTING CORPORATION LTD",
+    "Channel": "ROSE TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ROSETV.jpg"
+  },
+  {
+    "Broadcaster": "PRABHATAM ADVERTISING PVT LTD",
+    "Channel": "RT (earlier known as PRABHATAM NEWS",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RTearlierknownasPRABHATAMNEWS.jpg"
+  },
+  {
+    "Broadcaster": "BRAND VALUE COMMUNICATIONS PRIVATE LIMITED",
+    "Channel": "RUPASI BANGLA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RUPASIBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "LAMHAS SATELLITE SERVICES LIMITED",
+    "Channel": "RUSSIA TODAY",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RUSSIATODAY.jpg"
+  },
+  {
+    "Broadcaster": "RVS NETWORK INDIA LIMITED",
+    "Channel": "RVS CHANNEL",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/RVSCHANNEL.jpg"
+  },
+  {
+    "Broadcaster": "SANCTUARY TELEVISION PVT LTD",
+    "Channel": "S. NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SNEWS.jpg"
+  },
+  {
+    "Broadcaster": "NEO TELEVISION LIMITED",
+    "Channel": "SAAM TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAAMTV.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SAB MARATHI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SABMARATHI.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SAB PUNJABI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SABPUNJABI.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SAB TAMIL",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SABTAMIL.jpg"
+  },
+  {
+    "Broadcaster": "HBN ENTERTAINMENT AND BROADCASTING PVT LTD",
+    "Channel": "SADA CHANNEL",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SADACHANNEL.jpg"
+  },
+  {
+    "Broadcaster": "NAMAN BROADCASTING AND TELECOMMUNICATIONS PVT. LTD.",
+    "Channel": "SADHANA ARYAN NEWS (Earlier 24X7 BTV NEWS , Prabhatam LIFELINE)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SADHNAPLUSNEWSEarlierSADHANAMADHYAPRADESH.jpg"
+  },
+  {
+    "Broadcaster": "NAMAN BROADCASTING AND TELECOMMUNICATIONS PVT. LTD.",
+    "Channel": "Sadhna Bangla (earlier ISHWAR)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SadhnaBanglaearlierISHWAR.jpg"
+  },
+  {
+    "Broadcaster": "SHARP EYE ADVERTISING PRIVATE LIMITED",
+    "Channel": "Sadhna National (R.K. NEWS\/KATYAYANI)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SadhnaNationalRKNEWSKATYAYANI.jpg"
+  },
+  {
+    "Broadcaster": "SHARP EYE ADVERTISING PRIVATE LIMITED",
+    "Channel": "Sadhna News Madhya Pradesh\/ Chhatisgarh\/ Rajasthan ( earlier SADHNA NEWS BIHAR\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SADHNAPLUSNEWSEarlierSADHANAMADHYAPRADESH.jpg"
+  },
+  {
+    "Broadcaster": "SHARP EYE ADVERTISING PRIVATE LIMITED",
+    "Channel": "SADHNA PLUS NEWS (Earlier SADHANA MADHYA PRADESH)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SADHNAPLUSNEWSEarlierSADHANAMADHYAPRADESH.jpg"
+  },
+  {
+    "Broadcaster": "SADHNA MEDIA NETWORK PVT. LTD.",
+    "Channel": "SADHNA PRIME NEWS (EARLIER: POSITIVE HEALTH)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SADHNAPRIMENEWSEARLIERPOSITIVEHEALTH.jpg"
+  },
+  {
+    "Broadcaster": "SAFARI MULTIMEDIA PVT. LTD",
+    "Channel": "SAFARI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAFARI.jpg"
+  },
+  {
+    "Broadcaster": "POLIMER MEDIA PRIVATE LIMITED",
+    "Channel": "Sahana",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Sahana.jpg"
+  },
+  {
+    "Broadcaster": "SAHANA FILMS PRIVATE LIMITED",
+    "Channel": "SAHANA NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHANANEWS.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA FILMY",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARAFILMY.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA FIRANGI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARAFIRANGI.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA ONE",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARAONE.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA SAMAY BIHAR",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARASAMAYBIHAR.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA SAMAY MP",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARASAMAYMP.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA SAMAY MUMBAI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARASAMAYMUMBAI.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA SAMAY NCR",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARASAMAYNCR.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA SAMAY UP",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARASAMAYUP.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAHARA TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAHARATV.jpg"
+  },
+  {
+    "Broadcaster": "Sai Babha Network Pvt. Ltd",
+    "Channel": "Sai TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SaiTV.jpg"
+  },
+  {
+    "Broadcaster": "SAIRAM MEDIA NETWORK PVT. LTD.",
+    "Channel": "SAIRAM TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAIRAMTV.jpg"
+  },
+  {
+    "Broadcaster": "TWO STAR MEDIA PVT.LTD.",
+    "Channel": "Sakhi TV (earlier CHANNEL 5)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SakhiTVearlierCHANNEL5.jpg"
+  },
+  {
+    "Broadcaster": "INDIRA TELEVISION LIMITED",
+    "Channel": "Sakshi",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Sakshi.jpg"
+  },
+  {
+    "Broadcaster": "YPT ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "Salvation (earlier KALASH TV \/ERA MOVIES)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SalvationearlierKALASHTVERAMOVIES.jpg"
+  },
+  {
+    "Broadcaster": "YPT ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "Samachar Plus Rajasthan (earlier Buland News)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SamacharPlusRajasthanearlierBulandNews.jpg"
+  },
+  {
+    "Broadcaster": "Sahara India Commercial Corporation Ltd.",
+    "Channel": "SAMAY",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAMAY.jpg"
+  },
+  {
+    "Broadcaster": "SATISH SUGARS LIMITED",
+    "Channel": "SAMAYA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SAMAYA.jpg"
+  },
+  {
+    "Broadcaster": "SANATAN INDIA NETWORKING PRIVATE LIMITED",
+    "Channel": "SANATAN TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SANATANTV.jpg"
+  },
+  {
+    "Broadcaster": "THE SANDESH LIMITED",
+    "Channel": "SANDESH NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SANDESHNEWS.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA WORLDWIDE LIMITED",
+    "Channel": "SANGEET BANGLA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SANGEETBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA WORLDWIDE LIMITED",
+    "Channel": "SANGEET BHOJPURI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SANGEETBHOJPURI.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA WORLDWIDE LIMITED",
+    "Channel": "SANGEET MARATHI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SANGEETMARATHI.jpg"
+  },
+  {
+    "Broadcaster": "SANSKAR INFO TV PRIVATE LIMITED",
+    "Channel": "Sanskar (Initially known as Sanskar then changed to Sanskar HD)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SanskarInitiallyknownasSanskarthenchangedtoSanskarHD.jpg"
+  },
+  {
+    "Broadcaster": "EXPRESS BROADCASTING PRIVATE LIMITED",
+    "Channel": "Sanskriti TV (earlier Zonet Zawlbuk , earlier EN TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SanskritiTVearlierZonetZawlbukearlierENTV.jpg"
+  },
+  {
+    "Broadcaster": "YASH SATELLITE INDUSTRIES PRIVATE LIMITED",
+    "Channel": "Saral Jeevan (earlier GREEN \/ SAMACHAR 365)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SaralJeevanearlierGREENSAMACHAR365.jpg"
+  },
+  {
+    "Broadcaster": "KCB Builders & Developers Pvt Ltd",
+    "Channel": "Sarthi",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Sarthi.jpg"
+  },
+  {
+    "Broadcaster": "OMEGA BROADCAST PVT LTD",
+    "Channel": "Sarv Dharm Sangam (Earlier known as 4 Real Entertainment)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SarvDharmSangamEarlierknownas4RealEntertainment.jpg"
+  },
+  {
+    "Broadcaster": "SATHIYAM MEDIA VISION PRIVATE LIMITED",
+    "Channel": "SATHIYAM",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SATHIYAM.jpg"
+  },
+  {
+    "Broadcaster": "Cobol Communications Pvt. Ltd.",
+    "Channel": "Satkar",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Satkar.jpg"
+  },
+  {
+    "Broadcaster": "SANSKAR INFO TV PRIVATE LIMITED",
+    "Channel": "Satsang (earlier SANSKAR SATSANG (EARLIER: SATSANG)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SatsangearlierSANSKARSATSANGEARLIERSATSANG.jpg"
+  },
+  {
+    "Broadcaster": "A.R. RAIL VIKAS SERVICES PVT. LTD.",
+    "Channel": "SATYA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SATYA.jpg"
+  },
+  {
+    "Broadcaster": "SAB GLOBAL ENTERTAINMENT MEDIA PVT. LTD.",
+    "Channel": "Seven (earlier SEVEN SISTERS RAINBOW)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SevenearlierSEVENSISTERSRAINBOW.jpg"
+  },
+  {
+    "Broadcaster": "ENTER 10 TELEVISION PRIVATE LIMITED",
+    "Channel": "Shaandaar Cinema",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ShaandaarCinema.jpg"
+  },
+  {
+    "Broadcaster": "VERTENT MEDIA SOFT PRIVATE LIMITED",
+    "Channel": "SHAGUN (EARLIER PRABHAT NEWS UTTRAKHAND)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SHAGUNEARLIERPRABHATNEWSUTTRAKHAND.jpg"
+  },
+  {
+    "Broadcaster": "SOFIYA ENTERTAINMENT PRIVATE LIMITED",
+    "Channel": "Shalini Plus (earlier MK NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ShaliniPlusearlierMKNEWS.jpg"
+  },
+  {
+    "Broadcaster": "SHALOM COMMUNICATIONS LIMITED",
+    "Channel": "SHALOM TELEVISION",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SHALOMTELEVISION.jpg"
+  },
+  {
+    "Broadcaster": "AADRI ENTERTAINMENT AND MEDIA WORKS PVT.LTD.",
+    "Channel": "Shiva Shakthi Sai TV (earlier BENZE TV (Earlier AADRI ENRICH)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ShivaShakthiSaiTVearlierBENZETVEarlierAADRIENRICH.jpg"
+  },
+  {
+    "Broadcaster": "Shopping Zone India TV Pvt. Ltd",
+    "Channel": "Shop 5",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Shop5.jpg"
+  },
+  {
+    "Broadcaster": "Shop CJ Network Pvt. Ltd",
+    "Channel": "SHOP CJ (Earlier Shop CJ alive, STAR\/CJ ALIVE\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SADHNAPLUSNEWSEarlierSADHANAMADHYAPRADESH.jpg"
+  },
+  {
+    "Broadcaster": "Shop CJ Network Pvt. Ltd",
+    "Channel": "Shop CJ Tamil",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ShopCJTamil.jpg"
+  },
+  {
+    "Broadcaster": "Shop CJ Network Pvt. Ltd",
+    "Channel": "Shop CJ Telugu",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ShopCJTelugu.jpg"
+  },
+  {
+    "Broadcaster": "COXSWAIN TECHNOLOGIES LIMITED",
+    "Channel": "SHOPPING ZONE",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SHOPPINGZONE.jpg"
+  },
+  {
+    "Broadcaster": "Sunny ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "Shri Navgrah Channel (earlier Harvest TV 24x7 cristian Channel (earlier Gnext)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ShriNavgrahChannelearlierHarvestTV24x7cristianChannelearlierGnext.jpg"
+  },
+  {
+    "Broadcaster": "SHUBH MEDIA PVT. LTD.",
+    "Channel": "Shubh Cinema",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ShubhCinema.jpg"
+  },
+  {
+    "Broadcaster": "SHUBH MEDIA PVT. LTD.",
+    "Channel": "SHUBH TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SHUBHTV.jpg"
+  },
+  {
+    "Broadcaster": "SANCTUARY TELEVISION PVT LTD",
+    "Channel": "SINEMA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SINEMA.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SIX 2",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SIX2.jpg"
+  },
+  {
+    "Broadcaster": "Sky Star Entertainment Private Limited",
+    "Channel": "Skystar Movies (earlier Sky Star)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SkystarMoviesearlierSkyStar.jpg"
+  },
+  {
+    "Broadcaster": "JANVANI BROADCASTING CORPORATION LIMITED (Earlier PEARLS BROADCASTING CORPORATION PRIVATE LIMITED)",
+    "Channel": "SNEHA TV (EARLIER P7 NEWS BEFORE THAT PBC TV)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SNEHATVEARLIERP7NEWSBEFORETHATPBCTV.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Sony Pix 2 HD",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SonyPix2HD.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Sony Pix-2",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SonyPix2.jpg"
+  },
+  {
+    "Broadcaster": "Bangla Entertainment Pvt. Ltd",
+    "Channel": "Sony Tec",
+    "category": "Non-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SonyTec.jpg"
+  },
+  {
+    "Broadcaster": "KAMADHENU TELEFILMS PRIVATE LIMITED",
+    "Channel": "SRI SANKARA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SRISANKARA.jpg"
+  },
+  {
+    "Broadcaster": "SRI VENKATESWARA BHAKTI CHANNEL PRIVATE LIMITED",
+    "Channel": "SRI VENKATESWARA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SRIVENKATESWARA.jpg"
+  },
+  {
+    "Broadcaster": "NARNE NETWORKS PRIVATE LIMITED",
+    "Channel": "STUDIO N NEWS (Earlier STUDIO N)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/STUDIONNEWSEarlierSTUDION.jpg"
+  },
+  {
+    "Broadcaster": "ASHIRWAD TELENETWORK PRIVATE LIMITED",
+    "Channel": "Studio One + (earlier ASHIRWAD Gold)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/StudioOneearlierASHIRWADGold.jpg"
+  },
+  {
+    "Broadcaster": "STV ENTERPRISES LIMITED",
+    "Channel": "STV HARYANA NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/STVHARYANANEWS.jpg"
+  },
+  {
+    "Broadcaster": "STV ENTERPRISES LIMITED",
+    "Channel": "STV JAMMU-KASHMIR NEWS (EARLIER STV-MARATHI NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/STVJAMMUKASHMIRNEWSEARLIERSTVMARATHINEWS.jpg"
+  },
+  {
+    "Broadcaster": "STV ENTERPRISES LIMITED",
+    "Channel": "STV UP NEWS (STV-RAJASTHAN) (EARLIAR STV BIHAR-JHARKHAND NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/STVUPNEWSSTVRAJASTHANEARLIARSTVBIHARJHARKHANDNEWS.jpg"
+  },
+  {
+    "Broadcaster": "GOOD NEWS CHANNEL PRIVATE LIMITED",
+    "Channel": "SUBHA VAARTHA",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SUBHAVAARTHA.jpg"
+  },
+  {
+    "Broadcaster": "SUBHARTI MEDIA LIMITED",
+    "Channel": "SUBHARTI",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SUBHARTI.jpg"
+  },
+  {
+    "Broadcaster": "GOOD NEWS CHANNEL PRIVATE LIMITED",
+    "Channel": "SUBHSANDESH",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SUBHSANDESH.jpg"
+  },
+  {
+    "Broadcaster": "YASH TECHNO MEDIA PVT.LTD.",
+    "Channel": "Suddhi TV(Earlier: MAHA BODHI CHANNEL (earlier REPORTER MAHARASHTRA)\u00c2 )",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SuddhiTVEarlierMAHABODHICHANNELearlierREPORTERMAHARASHTRA.jpg"
+  },
+  {
+    "Broadcaster": "ASHOKA PRODUCTIONS AND COMMUNICATION PVT LTD",
+    "Channel": "SUPER TV (earlier CEE VANDANA\/Adhyatm)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SUPERTVearlierCEEVANDANAAdhyatm.jpg"
+  },
+  {
+    "Broadcaster": "Surya Processed Food Pvt. Ltd",
+    "Channel": "Surya Bhakti",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SuryaBhakti.jpg"
+  },
+  {
+    "Broadcaster": "Surya Processed Food Pvt. Ltd",
+    "Channel": "Surya Sagar Entertainment",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SuryaSagarEntertainment.jpg"
+  },
+  {
+    "Broadcaster": "Surya Processed Food Pvt. Ltd",
+    "Channel": "Surya Samachar",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SuryaSamachar.jpg"
+  },
+  {
+    "Broadcaster": "ASIANET NEWS NETWORK PRIVATE LIMITED",
+    "Channel": "SUVARNA NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SUVARNANEWS.jpg"
+  },
+  {
+    "Broadcaster": "SRI VENKATESWARA BHAKTI CHANNEL PRIVATE LIMITED",
+    "Channel": "SVBC-2",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SVBC2.jpg"
+  },
+  {
+    "Broadcaster": "SRI SAI MEDIA PVT. LTD.",
+    "Channel": "SWADESH NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SWADESHNEWS.jpg"
+  },
+  {
+    "Broadcaster": "COXSWAIN TECHNOLOGIES LIMITED",
+    "Channel": "SWARA SAGAR (Earlier LAKSHYYA ENTERTAINMENT, SUPER STAR-JOSH)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SWARASAGAREarlierLAKSHYYAENTERTAINMENTSUPERSTARJOSH.jpg"
+  },
+  {
+    "Broadcaster": "YASH SATELLITE INDUSTRIES PRIVATE LIMITED",
+    "Channel": "Swaraj Express (Earlier NEWS TIME 24X7, JANSANDESH PLUS, FAST NEWS)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SwarajExpressEarlierNEWSTIME24X7JANSANDESHPLUSFASTNEWS.jpg"
+  },
+  {
+    "Broadcaster": "SEE MEDIA SERVICES PVT LTD",
+    "Channel": "Swaraj Express SMBC (earlier SMBC Insight (earlier VOICE OF CENTRAL INDIA VOICE)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/SwarajExpressSMBCearlierSMBCInsightearlierVOICEOFCENTRALINDIAVOICE.jpg"
+  },
+  {
+    "Broadcaster": "TELANGANA BROADCASTING PRIVATE LIMITED",
+    "Channel": "T NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TNEWS.jpg"
+  },
+  {
+    "Broadcaster": "TELEONE CONSUMERS PRODUCT PVT. LTD.",
+    "Channel": "T TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TTV.jpg"
+  },
+  {
+    "Broadcaster": "TAAZA INFOTAINMENT PRIVATE LIMITED",
+    "Channel": "TAAZA TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TAAZATV.jpg"
+  },
+  {
+    "Broadcaster": "KRISHNA SHOWBIZ SERVICES PVT. LTD.",
+    "Channel": "TAK DHINA DIN",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TAKDHINADIN.jpg"
+  },
+  {
+    "Broadcaster": "TAMILAN KALAI KOODAM PRIVATE LIMITED",
+    "Channel": "TAMILAN TELEVISION",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TAMILANTELEVISION.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "TEN 4 (earlier name Le Plex HD)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TEN4.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "TEN 4 HD (earlier name Sony Rox HD)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TEN4HD.jpg"
+  },
+  {
+    "Broadcaster": "DAKSHIN MEDIA GAMING SOLUTIONS PRIVATE LIMITED",
+    "Channel": "TEN CRICKET (Earlier known as PLAY TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TENCRICKETEarlierknownasPLAYTV.jpg"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "TEN GOLF HD (earlier TEN GOLF)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TENGOLFHDearlierTENGOLF.jpg"
+  },
+  {
+    "Broadcaster": "METRONATION CHENNAI TELEVISION PVT LTD\u00c2 (Earlier METRONATION CHENNAI TELEVISION LTD)",
+    "Channel": "THANTHI TV (earlier NDTV HINDU CHENNAI)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/THANTHITVearlierNDTVHINDUCHENNAI.jpg"
+  },
+  {
+    "Broadcaster": "MGM PROGRAMMING SERVICES INDIA PVT. LTD.",
+    "Channel": "THE MGM",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/THEMGM.jpg"
+  },
+  {
+    "Broadcaster": "MUKUNDHAA NETWORK PRIVATE LIMITED",
+    "Channel": "THENDREL\u00c2 TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/THENDRELTV.jpg"
+  },
+  {
+    "Broadcaster": "UNISSION NETWORK MEDIA PVT.LTD.",
+    "Channel": "Tirupathi",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/Tirupathi.jpg"
+  },
+  {
+    "Broadcaster": "ASPIRATION MEDIA PVT. LTD.",
+    "Channel": "TOLLY WOOD",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TOLLYWOOD.jpg"
+  },
+  {
+    "Broadcaster": "K.K. MEDIA PRODUCTION PVT.LTD.",
+    "Channel": "TOP(EARLIER: OM BANGLA\u00c2 )",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TOPEARLIEROMBANGLA.jpg"
+  },
+  {
+    "Broadcaster": "V S BROADCASTING PVT. LT.",
+    "Channel": "TORAN TV (EARLIER VS TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TORANTVEARLIERVSTV.jpg"
+  },
+  {
+    "Broadcaster": "Total Telefilms Pvt. Ltd",
+    "Channel": "Total Haryana",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TotalHaryana.jpg"
+  },
+  {
+    "Broadcaster": "Total Telefilms Pvt. Ltd",
+    "Channel": "TOTAL TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TOTALTV.jpg"
+  },
+  {
+    "Broadcaster": "TRANSMEDIA SOFTWARE LIMITED",
+    "Channel": "TRANSMEDIA SOHAM",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TRANSMEDIASOHAM.jpg"
+  },
+  {
+    "Broadcaster": "Munny Entertainments Pvt Ltd.",
+    "Channel": "True Sports(earlier MANGAL KALASH, Oye Music)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TrueSportsearlierMANGALKALASHOyeMusic.jpg"
+  },
+  {
+    "Broadcaster": "YASH SATELLITE INDUSTRIES PRIVATE LIMITED",
+    "Channel": "TTC (earlier JANADESH)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TTCearlierJANADESH.jpg"
+  },
+  {
+    "Broadcaster": "Tulasi Broadcasting Network Ltd",
+    "Channel": "TULASI NEWS (earlier TULASI)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TULASINEWSearlierTULASI.jpg"
+  },
+  {
+    "Broadcaster": "RKM NEWS AND ENTERTAINMENT CHANNEL PVT LTD",
+    "Channel": "TUNES 6 (earlier RKM GOLD NEC PULSE)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TUNES6earlierRKMGOLDNECPULSE.jpg"
+  },
+  {
+    "Broadcaster": "Movements Digital India Pvt. Ltd.",
+    "Channel": "TUNES 6 MUSIC",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TUNES6MUSIC.jpg"
+  },
+  {
+    "Broadcaster": "ASSOCIATED BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "TV 1",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV1.jpg"
+  },
+  {
+    "Broadcaster": "AVANTI MEDIA LIMITED",
+    "Channel": "TV 100\u00c2 (Earlier known as AVANTI SAMACHAR)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV100EarlierknownasAVANTISAMACHAR.jpg"
+  },
+  {
+    "Broadcaster": "A ONE NEWS TIME BROADCASTING PRIVATE LIMITED",
+    "Channel": "TV 24",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV24.jpg"
+  },
+  {
+    "Broadcaster": "Shreya Broadcasting Pvt. Ltd",
+    "Channel": "TV 5 Kannada",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV5Kannada.jpg"
+  },
+  {
+    "Broadcaster": "CATVISION LTD. (Earlier CATVISION PRODUCTS LTDatvision Ltd.",
+    "Channel": "TV 5 MONDE",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV5MONDE.jpg"
+  },
+  {
+    "Broadcaster": "Shreya Broadcasting Pvt. Ltd",
+    "Channel": "TV 5 NEWS",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV5NEWS.jpg"
+  },
+  {
+    "Broadcaster": "COMSAT SYSTEM PRIVATE LIMITED",
+    "Channel": "TV 7\/ TV3 HEALTH PLANET",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV7TV3HEALTHPLANET.jpg"
+  },
+  {
+    "Broadcaster": "ASSOCIATED BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "TV 9",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV9.jpg"
+  },
+  {
+    "Broadcaster": "Lakshmi Gold Khazaanaa Pvt. Ltd.",
+    "Channel": "TV1 News 24*7",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV1News247.jpg"
+  },
+  {
+    "Broadcaster": "ASSOCIATED BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "TV9 AP (Earlier known as TV 9 KOLKATA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV9APEarlierknownasTV9KOLKATA.jpg"
+  },
+  {
+    "Broadcaster": "ASSOCIATED BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "TV9 GUJARAT",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV9GUJARAT.jpg"
+  },
+  {
+    "Broadcaster": "ASSOCIATED BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "TV9 KANNADA",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV9KANNADA.jpg"
+  },
+  {
+    "Broadcaster": "ASSOCIATED BROADCASTING COMPANY PRIVATE LIMITED",
+    "Channel": "TV9 MUMBAI",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TV9MUMBAI.jpg"
+  },
+  {
+    "Broadcaster": "JANAPRIYA COMMUNICATION LTD.",
+    "Channel": "TWENTY FOUR (Earlier JANAPRIYA)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/TWENTYFOUREarlierJANAPRIYA.jpg"
+  },
+  {
+    "Broadcaster": "DISNEY BROADCASTING INDIA LTD. (Earlier UTV ENTERTAINMENT TELEVISION LIMITED)",
+    "Channel": "UTV MOVIES INTERNATIONAL",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/UTVMOVIESINTERNATIONAL.jpg"
+  },
+  {
+    "Broadcaster": "GUJARAT NEWS BROADCASTING PVT.LTD.",
+    "Channel": "V TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VTV.jpg"
+  },
+  {
+    "Broadcaster": "VIL MEDIA PVT. LTD. (EARLIER NIKIT INVESTMENT PRIVATE LIMITED)",
+    "Channel": "V6",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/V6.jpg"
+  },
+  {
+    "Broadcaster": "VIL MEDIA PVT. LTD. (EARLIER NIKIT INVESTMENT PRIVATE LIMITED)",
+    "Channel": "V6 ENT",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/V6ENT.jpg"
+  },
+  {
+    "Broadcaster": "YPT ENTERTAINMENT HOUSE PRIVATE LIMITED",
+    "Channel": "Vaa Movies (earlier GSI \/ ERA SPORTS then Fight Sports)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VaaMoviesearlierGSIERASPORTSthenFightSports.jpg"
+  },
+  {
+    "Broadcaster": "MAYAJAAL ENTERTAINMENT LIMITED",
+    "Channel": "VAANAVIL TV (Earlier SPLASH TV)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VAANAVILTVEarlierSPLASHTV.jpg"
+  },
+  {
+    "Broadcaster": "RACHANA TELEVISION PRIVATE LIMITED",
+    "Channel": "VANITHA TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VANITHATV.jpg"
+  },
+  {
+    "Broadcaster": "VASANTH AND CO MEDIA NETWORK PRIVATE LIMITED",
+    "Channel": "VASANTH",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VASANTH.jpg"
+  },
+  {
+    "Broadcaster": "VEDIC BROADCASTINGS LIMITED",
+    "Channel": "VEDIC",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VEDIC.jpg"
+  },
+  {
+    "Broadcaster": "SOUND TELENETWORKS PRIVATE LIMITED",
+    "Channel": "VELICHAM PLUS (Earlier FAST 24*7)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VELICHAMPLUSEarlierFAST247.jpg"
+  },
+  {
+    "Broadcaster": "TRAC MEDIA PVT LTD",
+    "Channel": "VENDHAR TV (NEWS 4U)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VENDHARTVNEWS4U.jpg"
+  },
+  {
+    "Broadcaster": "VIKAAS TV ALLIANCE PVT LTD",
+    "Channel": "VIKAAS TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VIKAASTV.jpg"
+  },
+  {
+    "Broadcaster": "NAMAN BROADCASTING AND TELECOMMUNICATIONS PVT. LTD.",
+    "Channel": "VIP News (Earlier known as Prabhatam HSB)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/VIPNewsEarlierknownasPrabhatamHSB.jpg"
+  },
+  {
+    "Broadcaster": "MALAYALAM COMMUNICATIONS LIMITED",
+    "Channel": "WE",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/WE.jpg"
+  },
+  {
+    "Broadcaster": "GN INFOMEDIA PVT LTD",
+    "Channel": "WHISTLE TV (Earlier known as GN Bhakti GNN BHAKTI \/GNN ENTERTAINMENT)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/WHISTLETVEarlierknownasGNBhaktiGNNBHAKTIGNNENTERTAINMENT.jpg"
+  },
+  {
+    "Broadcaster": "DIKSAT TRANSWORLD LIMITED",
+    "Channel": "WIN TV",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/WINTV.jpg"
+  },
+  {
+    "Broadcaster": "DIKSAT TRANSWORLD LIMITED",
+    "Channel": "WIN TV - U.P.",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/WINTVUP.jpg"
+  },
+  {
+    "Broadcaster": "MEDIA NETWORK BROADCASTING PVT LTD",
+    "Channel": "WOW",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/WOW.jpg"
+  },
+  {
+    "Broadcaster": "CITY NETWORK BROADCAST CONVERGENCE PVT LTD",
+    "Channel": "WOW CINEMA (Earlier TV PUNJABI)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/WOWCINEMAEarlierTVPUNJABI.jpg"
+  },
+  {
+    "Broadcaster": "Angel Admark Pvt. Ltd.",
+    "Channel": "XCLUSIVE TV (Anugraha Malyalam)",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/XCLUSIVETVAnugrahaMalyalam.jpg"
+  },
+  {
+    "Broadcaster": "HORIZON SATELLITE SERVICE PVT LTD",
+    "Channel": "Y TV (Earlier known as Voice 24 Tripura\/Horizon News 24x7)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/YTVEarlierknownasVoice24TripuraHorizonNews24x7.jpg"
+  },
+  {
+    "Broadcaster": "YASH SATELLITE INDUSTRIES PRIVATE LIMITED",
+    "Channel": "YO TV\u00c2 (Earlier YO MUSIC)",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/YOTVEarlierYOMUSIC.jpg"
+  },
+  {
+    "Broadcaster": "YELAMANCHILI TV PVT. LTD",
+    "Channel": "YONE TV",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/YONETV.jpg"
+  },
+  {
+    "Broadcaster": "EXCLUSIVE VISION MEDIA PVT. LTD.",
+    "Channel": "Zingaat (earlier E AWAZ INDIA (EARLIER:AINDI (EARLIER: TULSI TV (Earlier VEDAS OM TV)))",
+    "category": "NON-NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ZingaatearlierEAWAZINDIAEARLIERAINDIEARLIERTULSITVEarlierVEDASOMTV.jpg"
+  },
+  {
+    "Broadcaster": "ZONET CABLE TV PRIVATE LIMITED",
+    "Channel": "ZONET",
+    "category": "NEWS",
+    "price": 0,
+    "imageurl": "Channellogo\/logo\/ZONET.jpg"
+  }
+]

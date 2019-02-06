@@ -1,0 +1,117 @@
+<div class="container panel-heading-default">
+	<div class="row">
+      <a (click)="refreshPage()">
+        <button style="margin-left:20px" class="btn btn-warning "> Refresh</button>
+      </a>
+      <a style="margin-left:20px" (click)="clearAllChannel()">
+        <button class="btn btn-danger "> Reset All Selected Channel </button>
+      </a>
+      <a (click)="window.print();">
+      <button style="margin-left:20px" class="btn btn-info" 
+        printSectionId="print-section" 
+        ngxPrint
+        printTitle="My Channel Selection"  
+        [printStyle]="{h5 : {'color': 'red'}, h5 : {'border': 'solid 1px'}}"
+      > Print</button>
+      </a>
+   </div>
+</div>
+
+<div id="print-section" >
+  <div  class="container"  *ngIf="mandatorychannels != null &&  mandatorychannels.length > 0">
+  <h5  style="text-align: center;">My Selection & Bill Details</h5>
+  <div style="overflow-x:auto;">
+    <table>
+      <tr>
+        <th>Description</th>
+        <th class="text-right">Qty/Price</th>
+      </tr> 
+      <tr>
+        <td>No. of Free Channels</td>
+        <td class="text-right">{{freechannelCount}}</td>
+      </tr>
+      <tr>
+        <td>No. of Paid Channels</td>
+        <td class="text-right">{{channelCount}}</td>
+      </tr>
+      <tr>
+        <td>Channel Count </td>
+        <td class="text-right">{{billCount}}</td>
+      </tr>
+      <tr>
+        <td>HD channel</td>
+        <td class="text-right">{{hdCount}}</td>
+      </tr>
+      <tr>
+        <td>SD channel</td>
+        <td class="text-right">{{sdCount}}</td>
+      </tr>
+      <tr>
+        <td>Bouquet Price</td>
+        <td class="text-right">{{bouquetPrice}} ₹</td>
+      </tr>
+      <tr>
+        <td>Price(Channel+Bouquet)</td>
+        <td class="text-right">{{totalPrice}} ₹</td>
+      </tr>
+      <tr>
+        <td>Network Capacity Fees</td>
+        <td class="text-right">{{ncf}} ₹</td>
+      </tr>
+      <tr>
+        <td>GST(18%)</td>
+        <td class="text-right">{{gstAmt}} ₹</td>
+      </tr>
+      <tr style="color: #0051a6; font-weight:bold; background-color: #ced4da;">
+        <td>Total Price(Monthly)</td>
+        <td class="text-right" >{{priceChannelUser}} ₹</td>
+      </tr>
+      <tr>
+    </table>
+  </div>
+  </div>
+
+  <div *ngIf="paychannels != null && paychannels.length > 0">
+    <br/>
+    <h5>Pay Channel</h5>
+      <div class="row">
+          <div class="col-auto mb-3" *ngFor="let paychannel of paychannels; let i = index" [attr.data-index]="i">
+              <div class="card" >
+                  <div class="card-body">
+                      <h6 class="card-subtitle mb-2">{{i+1}}.  {{paychannel.Channel}} 
+                        <span class="pull-right">{{paychannel.price}} ₹</span>
+                      </h6>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <div *ngIf="freechannels != null && freechannels.length > 0">
+    <br/>
+    <h5>Free Channel</h5>
+      <div class="row">
+          <div class="col-auto mb-3" *ngFor="let freechannel of freechannels; let i = index" [attr.data-index]="i">
+              <div class="card" >
+                  <div class="card-body">
+                      <h6 class="card-subtitle mb-2">{{i+1}}.  {{freechannel.Channel}}</h6>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <div *ngIf="mandatorychannels != null &&  mandatorychannels.length > 0">
+    <br/>
+    <h5>Mandatory Free Channel</h5>
+      <div class="row">
+          <div class="col-auto mb-3" *ngFor="let mandatorychannel of mandatorychannels; let i = index" [attr.data-index]="i">
+              <div class="card">
+                  <div class="card-body">
+                      <h6 class="card-subtitle mb-2">{{i+1}}.  {{mandatorychannel.Channel}}</h6>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>

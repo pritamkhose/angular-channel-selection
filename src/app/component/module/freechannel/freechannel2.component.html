@@ -1,0 +1,21 @@
+<h2>Free Channel</h2>
+<p>https://channel.trai.gov.in/freechannels.php</p>
+https://channel.trai.gov.in/languages.json
+  <!-- Broadcaster: string;
+  Channel: string;
+  category: string;
+  imageurl: string;
+  price: number; -->
+<!-- <p>
+  Options selected: {{shoes.selectedOptions.selected.length}}
+</p> -->
+<div class="card-container">
+   <div class="card" style="width:400px"  *ngFor="let  freechannel of freechannels">
+    <img class="card-img-top" src="https://channel.trai.gov.in/{{freechannel.imageurl}}" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">{{freechannel.Channel}}</h4>
+      <p class="card-text">{{freechannel.Broadcaster}}</p>
+      <a href="#" class="btn btn-primary">See Profile</a>
+    </div>
+  </div>
+</div>

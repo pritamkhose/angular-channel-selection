@@ -1,0 +1,3302 @@
+[
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "& Flix",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/Flix.jpg",
+    "hashKey": "object:37"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "& Flix HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/FlixHD.jpg",
+    "hashKey": "object:92"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "& Picture",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/Picture.jpg",
+    "hashKey": "object:68"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "& Pictures HD",
+    "category": "Movies",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/PicturesHD.jpg",
+    "hashKey": "object:66"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "& Prive HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/PriveHD.jpg",
+    "hashKey": "object:93"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "& TV",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "12.00",
+    "imageurl": "Channellogo\/logo\/TV.jpg",
+    "hashKey": "object:94"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "& TV HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/TVHD.jpg",
+    "hashKey": "object:95"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "24 Ghanta",
+    "category": "News",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/24Ghanta.jpg",
+    "hashKey": "object:64"
+  },
+  {
+    "Broadcaster": "TV Today Network Ltd.",
+    "Channel": "Aaj Tak",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.75",
+    "imageurl": "Channellogo\/logo\/AajTak.jpg",
+    "hashKey": "object:36"
+  },
+  {
+    "Broadcaster": "TV Today Network Ltd.",
+    "Channel": "AAJ Tak HD",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "1.50",
+    "imageurl": "Channellogo\/logo\/AAJTakHD.jpg",
+    "hashKey": "object:96"
+  },
+  {
+    "Broadcaster": "TV Today Network Ltd.",
+    "Channel": "Aaj Tak Tez",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/AajTakTez.jpg",
+    "hashKey": "object:97"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "AATH",
+    "category": "GEC",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/AATH.jpg",
+    "hashKey": "object:30"
+  },
+  {
+    "Broadcaster": "ABP News Network Private Limited",
+    "Channel": "ABP Ananda",
+    "category": "News",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/ABPAnanda.jpg",
+    "hashKey": "object:13"
+  },
+  {
+    "Broadcaster": "ABP News Network Private Limited",
+    "Channel": "ABP Majha",
+    "category": "News",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/ABPMajha.jpg",
+    "hashKey": "object:70"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Adithya TV",
+    "category": "Movies",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/AdithyaTV.jpg",
+    "hashKey": "object:32"
+  },
+  {
+    "Broadcaster": "Odisha Television Limited",
+    "Channel": "Alankar",
+    "category": "Movies",
+    "language": "Odia",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/Alankar.jpg",
+    "hashKey": "object:27"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Animal Planet",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/AnimalPlanet.jpg",
+    "hashKey": "object:18"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Animal Planet HD World",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/AnimalPlanetHDWorld.jpg",
+    "hashKey": "object:98"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Asianet",
+    "category": "GEC",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/Asianet.jpg",
+    "hashKey": "object:31"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Asianet HD",
+    "category": "GEC",
+    "language": "Malayalam",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/AsianetHD.jpg",
+    "hashKey": "object:99"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Asianet Movies",
+    "category": "Movies",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/AsianetMovies.jpg",
+    "hashKey": "object:140"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Asianet Plus",
+    "category": "GEC",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/AsianetPlus.jpg",
+    "hashKey": "object:141"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "AXN",
+    "category": "GEC",
+    "language": "English",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/AXN.jpg",
+    "hashKey": "object:142"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "AXN HD",
+    "category": "GEC",
+    "language": "English",
+    "HD": "HD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/AXNHD.jpg",
+    "hashKey": "object:143"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Baby TV HD",
+    "category": "Kids",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/BabyTVHD.jpg",
+    "hashKey": "object:144"
+  },
+  {
+    "Broadcaster": "BBC Global News India Private Limited",
+    "Channel": "BBC World News",
+    "category": "News",
+    "language": "English",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/BBCWorldNews.jpg",
+    "hashKey": "object:14"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Big Ganga",
+    "category": "GEC",
+    "language": "Bhojpuri",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/BigGanga.jpg",
+    "hashKey": "object:65"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Big Magic",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/BigMagic.jpg",
+    "hashKey": "object:145"
+  },
+  {
+    "Broadcaster": "Turner International Pvt Ltd.",
+    "Channel": "Cartoon Network",
+    "category": "Kids",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "4.25",
+    "imageurl": "Channellogo\/logo\/CartoonNetwork.jpg",
+    "hashKey": "object:34"
+  },
+  {
+    "Broadcaster": "Turner International Pvt Ltd.",
+    "Channel": "Cartoon Network HD+",
+    "category": "Kids",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/CartoonNetworkHD.jpg",
+    "hashKey": "object:146"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Chintu TV",
+    "category": "Kids",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/ChintuTV.jpg",
+    "hashKey": "object:69"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Chutti TV",
+    "category": "Kids",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/ChitrapatMarathiEarlierPEARLSNEWSMADHYAPRADESHCHATITISGARHearlierPEARLSKANNADA.jpg",
+    "hashKey": "object:147"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Cineplex HD",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/CineplexHD.jpg",
+    "hashKey": "object:35"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "CNBC Awaaz",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/CNBCAwaaz.jpg",
+    "hashKey": "object:148"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "CNBC Bajaar",
+    "category": "News",
+    "language": "Gujarati",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/CNBCBajaar.jpg",
+    "hashKey": "object:67"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "CNBC TV 18",
+    "category": "News",
+    "language": "English",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/CNBCTV18.jpg",
+    "hashKey": "object:149"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "CNBC TV 18 Prime HD",
+    "category": "News",
+    "language": "English",
+    "HD": "HD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/CNBCTV18PrimeHD.jpg",
+    "hashKey": "object:150"
+  },
+  {
+    "Broadcaster": "Turner International Pvt Ltd.",
+    "Channel": "CNN International",
+    "category": "News",
+    "language": "English",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/CNNInternational.jpg",
+    "hashKey": "object:151"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "CNN News 18",
+    "category": "News",
+    "language": "English",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/CNNNews18.jpg",
+    "hashKey": "object:152"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/Colors.jpg",
+    "hashKey": "object:153"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Bangla",
+    "category": "GEC",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/ColorsBangla.jpg",
+    "hashKey": "object:154"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Bangla HD",
+    "category": "GEC",
+    "language": "Bangla",
+    "HD": "HD",
+    "price": "14.00",
+    "imageurl": "Channellogo\/logo\/ColorsBanglaHD.jpg",
+    "hashKey": "object:155"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Gujarati",
+    "category": "GEC",
+    "language": "Gujarati",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/ColorsGujarati.jpg",
+    "hashKey": "object:156"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Gujarati Cinema",
+    "category": "Movies",
+    "language": "Gujarati",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/ColorsGujarati.jpg",
+    "hashKey": "object:157"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ColorsHD.jpg",
+    "hashKey": "object:158"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Infinity",
+    "category": "GEC",
+    "language": "English",
+    "HD": "SD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/ColorsInfinity.jpg",
+    "hashKey": "object:159"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Infinity HD",
+    "category": "GEC",
+    "language": "English",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/ColorsInfinityHD.jpg",
+    "hashKey": "object:160"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Kannada",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ColorsKannada.jpg",
+    "hashKey": "object:161"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Kannada Cinema",
+    "category": "Movies",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/ColorsKannadaCinema.jpg",
+    "hashKey": "object:162"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Kannada HD",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ColorsKannadaHD.jpg",
+    "hashKey": "object:163"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Marathi",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/ColorsMarathi.jpg",
+    "hashKey": "object:164"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Marathi HD",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "HD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/ColorsMarathiHD.jpg",
+    "hashKey": "object:165"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Oriya",
+    "category": "GEC",
+    "language": "Oriya",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/ColorsOriya.jpg",
+    "hashKey": "object:71"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Super",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/ColorsSuper.jpg",
+    "hashKey": "object:166"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Tamil",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/ColorsTamil.jpg",
+    "hashKey": "object:167"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Colors Tamil HD",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "HD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/ColorsTamilHD.jpg",
+    "hashKey": "object:168"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Comedy Central",
+    "category": "GEC",
+    "language": "English",
+    "HD": "SD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/ComedyCentral.jpg",
+    "hashKey": "object:169"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Comedy Central (HD )",
+    "category": "GEC",
+    "language": "English",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/ComedyCentral.jpg",
+    "hashKey": "object:170"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery Channel",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryChannel.jpg",
+    "hashKey": "object:171"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery Channel Tamil",
+    "category": "Infotainment",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryChannelTamil.jpg",
+    "hashKey": "object:172"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery HD World",
+    "category": "Infotainment",
+    "language": "English",
+    "HD": "HD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryHDWorld.jpg",
+    "hashKey": "object:173"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery Jeet",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryJeet.jpg",
+    "hashKey": "object:174"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery Jeet HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryJeetHD.jpg",
+    "hashKey": "object:175"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery Kids Channel",
+    "category": "Kids",
+    "language": "English",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryKidsChannel.jpg",
+    "hashKey": "object:176"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery Science",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryScience.jpg",
+    "hashKey": "object:177"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Discovery Turbo",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/DiscoveryTurbo.jpg",
+    "hashKey": "object:178"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "Disney International HD",
+    "category": "GEC",
+    "language": "English",
+    "HD": "HD",
+    "price": "12.00",
+    "imageurl": "Channellogo\/logo\/DisneyInternationalHD.jpg",
+    "hashKey": "object:19"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "Disney Junior",
+    "category": "Kids",
+    "language": "English",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/DisneyJunior.jpg",
+    "hashKey": "object:179"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "Dsport",
+    "category": "Sports",
+    "language": "English",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/Dsport.jpg",
+    "hashKey": "object:180"
+  },
+  {
+    "Broadcaster": "EPIC Television Networks Pvt Limited",
+    "Channel": "EPIC TV",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/EPICTV.jpg",
+    "hashKey": "object:21"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "ET NOW",
+    "category": "News",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/ETNOW.jpg",
+    "hashKey": "object:15"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/ETV.jpg",
+    "hashKey": "object:20"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV - Telangana",
+    "category": "News",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/ETVTelangana.jpg",
+    "hashKey": "object:181"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Abhiruchi",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/ETVAbhiruchi.jpg",
+    "hashKey": "object:182"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Abhiruchi HD",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/ETVAbhiruchiHD.jpg",
+    "hashKey": "object:183"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Andhra Pradesh",
+    "category": "News",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/ETVAndhraPradesh.jpg",
+    "hashKey": "object:184"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Cinema",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/ETVCinema.jpg",
+    "hashKey": "object:185"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Cinema HD",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "8.00",
+    "imageurl": "Channellogo\/logo\/ETVCinemaHD.jpg",
+    "hashKey": "object:186"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV HD",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ETVHD.jpg",
+    "hashKey": "object:187"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Life",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/ETVLife.jpg",
+    "hashKey": "object:188"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Life HD",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/ETVLifeHD.jpg",
+    "hashKey": "object:189"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Plus",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/ETVPlus.jpg",
+    "hashKey": "object:190"
+  },
+  {
+    "Broadcaster": "Eenadu Television Pvt Limited",
+    "Channel": "ETV Plus HD",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/ETVPlusHD.jpg",
+    "hashKey": "object:191"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Ezmall.com",
+    "category": "Miscellaneous",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/Ezmallcom.jpg",
+    "hashKey": "object:192"
+  },
+  {
+    "Broadcaster": "Turmeric Vision Private Limited",
+    "Channel": "Food Food TV",
+    "category": "Infotainment",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.30",
+    "imageurl": "Channellogo\/logo\/FoodFoodTV.jpg",
+    "hashKey": "object:33"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Fox Life",
+    "category": "Lifestyle",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/FoxLife.jpg",
+    "hashKey": "object:193"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Fox Life HD",
+    "category": "Lifestyle",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/FoxLifeHD.jpg",
+    "hashKey": "object:194"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "FY1 TV18",
+    "category": "Infotainment",
+    "language": "English",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/FY1TV18.jpg",
+    "hashKey": "object:195"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "FY1 TV18 (HD)",
+    "category": "Infotainment",
+    "language": "English",
+    "HD": "HD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/FY1TV18HD.jpg",
+    "hashKey": "object:196"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini Comedy",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/GeminiComedy.jpg",
+    "hashKey": "object:197"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini Life",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/GeminiLife.jpg",
+    "hashKey": "object:198"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini Movies",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/GeminiMovies.jpg",
+    "hashKey": "object:199"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini Movies HD",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/GeminiMoviesHD.jpg",
+    "hashKey": "object:200"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini Music",
+    "category": "Music",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/GeminiMusic.jpg",
+    "hashKey": "object:201"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini Music HD",
+    "category": "Music",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/GeminiMusicHD.jpg",
+    "hashKey": "object:202"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini News",
+    "category": "News",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/GeminiNews.jpg",
+    "hashKey": "object:203"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini TV",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/GeminiTV.jpg",
+    "hashKey": "object:204"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Gemini TV HD",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/GeminiTVHD.jpg",
+    "hashKey": "object:205"
+  },
+  {
+    "Broadcaster": "New Delhi Television Limited (NDTV)",
+    "Channel": "Good Times",
+    "category": "Lifestyle",
+    "language": "English",
+    "HD": "SD",
+    "price": "1.50",
+    "imageurl": "Channellogo\/logo\/GoodTimes.jpg",
+    "hashKey": "object:25"
+  },
+  {
+    "Broadcaster": "Turner International Pvt Ltd.",
+    "Channel": "HBO",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/HBO.jpg",
+    "hashKey": "object:206"
+  },
+  {
+    "Broadcaster": "Turner International Pvt Ltd.",
+    "Channel": "HBO HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/HBOHD.jpg",
+    "hashKey": "object:207"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Histroy TV 18 HD",
+    "category": "Infotainment",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/HistroyTV18HD.jpg",
+    "hashKey": "object:208"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "Hungama TV",
+    "category": "Kids",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/HungamaTV.jpg",
+    "hashKey": "object:209"
+  },
+  {
+    "Broadcaster": "TV Today Network Ltd.",
+    "Channel": "India Today",
+    "category": "News",
+    "language": "English",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/IndiaToday.jpg",
+    "hashKey": "object:210"
+  },
+  {
+    "Broadcaster": "Mavis Satcom Limted",
+    "Channel": "J Movies",
+    "category": "Movies",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "3.75",
+    "imageurl": "Channellogo\/logo\/JMovies.jpg",
+    "hashKey": "object:23"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Jalsha Movies",
+    "category": "Movies",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/JalshaMovies.jpg",
+    "hashKey": "object:211"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Jalsha Movies HD",
+    "category": "Movies",
+    "language": "Bangla",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/JalshaMoviesHD.jpg",
+    "hashKey": "object:212"
+  },
+  {
+    "Broadcaster": "CSL Info Media Private Limited",
+    "Channel": "JAN TV PLUS",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "50.00",
+    "imageurl": "Channellogo\/logo\/JANTVPLUS.jpg",
+    "hashKey": "object:17"
+  },
+  {
+    "Broadcaster": "Mavis Satcom Limted",
+    "Channel": "Jaya Max",
+    "category": "Music",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "3.75",
+    "imageurl": "Channellogo\/logo\/JayaMax.jpg",
+    "hashKey": "object:213"
+  },
+  {
+    "Broadcaster": "Mavis Satcom Limted",
+    "Channel": "Jaya Plus",
+    "category": "News",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/JayaPlus.jpg",
+    "hashKey": "object:214"
+  },
+  {
+    "Broadcaster": "Mavis Satcom Limted",
+    "Channel": "Jaya TV HD",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/JayaTVHD.jpg",
+    "hashKey": "object:215"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Kochu TV",
+    "category": "Kids",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/KochuTV.jpg",
+    "hashKey": "object:216"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "KTV",
+    "category": "Movies",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/KTV.jpg",
+    "hashKey": "object:217"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "KTV HD",
+    "category": "Movies",
+    "language": "Tamil",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/KTVHD.jpg",
+    "hashKey": "object:218"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Kushi TV",
+    "category": "Kids",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/KushiTV.jpg",
+    "hashKey": "object:219"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Living Foodz",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/LivingFoodz.jpg",
+    "hashKey": "object:220"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Living Foodz HD",
+    "category": "Infotainment",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/LivingFoodzHD.jpg",
+    "hashKey": "object:221"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Living Travelz",
+    "category": "Infotainment",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/LivingTravelz.jpg",
+    "hashKey": "object:222"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Living Zen",
+    "category": "Infotainment",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/LivingZen.jpg",
+    "hashKey": "object:223"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "MAA Gold",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/MAAGold.jpg",
+    "hashKey": "object:224"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "MAA HD",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/MAAHD.jpg",
+    "hashKey": "object:225"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "MAA Movies",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/MAAMovies.jpg",
+    "hashKey": "object:226"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "MAA Movies HD",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/MAAMoviesHD.jpg",
+    "hashKey": "object:227"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "MAA Music",
+    "category": "Music",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/MAAMusic.jpg",
+    "hashKey": "object:228"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "MAA TV",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/MAATV.jpg",
+    "hashKey": "object:229"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "Marvel HQ ",
+    "category": "Kids",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/MarvelHQ.jpg",
+    "hashKey": "object:230"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "MAX 2",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/MAX2.jpg",
+    "hashKey": "object:231"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "MAX HD",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/MAXHD.jpg",
+    "hashKey": "object:232"
+  },
+  {
+    "Broadcaster": "Sliverstar Communications Ltd.",
+    "Channel": "Mega 24",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/Mega24.jpg",
+    "hashKey": "object:29"
+  },
+  {
+    "Broadcaster": "Sliverstar Communications Ltd.",
+    "Channel": "Mega Musiq",
+    "category": "Music",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/MegaMusiq.jpg",
+    "hashKey": "object:233"
+  },
+  {
+    "Broadcaster": "Sliverstar Communications Ltd.",
+    "Channel": "Mega TV",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/MegaTV.jpg",
+    "hashKey": "object:234"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Mirror Now",
+    "category": "News",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/MirrorNow.jpg",
+    "hashKey": "object:235"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "MIX",
+    "category": "Music",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/MIX.jpg",
+    "hashKey": "object:236"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "MN +",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/MN.jpg",
+    "hashKey": "object:237"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "MNX",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/MNX.jpg",
+    "hashKey": "object:238"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "MNX HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/MNXHD.jpg",
+    "hashKey": "object:239"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Movies Now",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/MoviesNow.jpg",
+    "hashKey": "object:240"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Movies Now HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "12.00",
+    "imageurl": "Channellogo\/logo\/MoviesNowHD.jpg",
+    "hashKey": "object:241"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Movies OK",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/MoviesOK.jpg",
+    "hashKey": "object:242"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "MTV",
+    "category": "Music",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/MTV.jpg",
+    "hashKey": "object:243"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "MTV Beats",
+    "category": "Music",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/MTVBeats.jpg",
+    "hashKey": "object:244"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "MTV Beats HD",
+    "category": "Music",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/MTVBeatsHD.jpg",
+    "hashKey": "object:245"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "MTV HD+",
+    "category": "Music",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/MTVHD.jpg",
+    "hashKey": "object:246"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Nat Geo Music HD",
+    "category": "Music",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/NatGeoMusicHD.jpg",
+    "hashKey": "object:247"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Nat Geo People HD",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/NatGeoPeopleHD.jpg",
+    "hashKey": "object:248"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Nat Geo Wild",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/NatGeoWild.jpg",
+    "hashKey": "object:249"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Nat Geo Wild HD",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/NatGeoWildHD.jpg",
+    "hashKey": "object:250"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "National Geographic CHANNEL (NGC)",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/NationalGeographicChannelNGC.jpg",
+    "hashKey": "object:251"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "National Geographic HD",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/NationalGeographicHD.jpg",
+    "hashKey": "object:252"
+  },
+  {
+    "Broadcaster": "New Delhi Television Limited (NDTV)",
+    "Channel": "NDTV 24*7",
+    "category": "News",
+    "language": "English",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/NDTV247.jpg",
+    "hashKey": "object:253"
+  },
+  {
+    "Broadcaster": "New Delhi Television Limited (NDTV)",
+    "Channel": "NDTV India",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/NDTVIndia.jpg",
+    "hashKey": "object:254"
+  },
+  {
+    "Broadcaster": "New Delhi Television Limited (NDTV)",
+    "Channel": "NDTV Profit",
+    "category": "News",
+    "language": "English",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/NDTVProfit.jpg",
+    "hashKey": "object:255"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Assam \/ North East",
+    "category": "News",
+    "language": "Assamese",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18AssamNorthEast.jpg",
+    "hashKey": "object:63"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Bangla",
+    "category": "News",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Bangla.jpg",
+    "hashKey": "object:256"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Bihar Jharkhand",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18BiharJharkhand.jpg",
+    "hashKey": "object:257"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Gujarati",
+    "category": "News",
+    "language": "Gujarati",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Gujarati.jpg",
+    "hashKey": "object:258"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 India",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/News18India.jpg",
+    "hashKey": "object:259"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Kannada",
+    "category": "News",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Kannada.jpg",
+    "hashKey": "object:260"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Kerala",
+    "category": "News",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Kerala.jpg",
+    "hashKey": "object:261"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Lokmat",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Lokmat.jpg",
+    "hashKey": "object:262"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Madhya Pradesh \/ Chattisgarh",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18MadhyaPradeshChattisgarh.jpg",
+    "hashKey": "object:263"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Odia",
+    "category": "News",
+    "language": "Odia",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Odia.jpg",
+    "hashKey": "object:264"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Punjab \/ Haryana \/ Himanchal Pradesh",
+    "category": "News",
+    "language": "Punjabi",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18PunjabHaryanaHimanchalPradesh.jpg",
+    "hashKey": "object:72"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Rajasthan",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Rajasthan.jpg",
+    "hashKey": "object:265"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Tamil Nadu",
+    "category": "News",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18TamilNadu.jpg",
+    "hashKey": "object:266"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Urdu",
+    "category": "News",
+    "language": "Urdu",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18Urdu.jpg",
+    "hashKey": "object:73"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "News 18 Uttar Pradesh\/ Uttaranchal",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/News18UttarPradeshUttarakhand.jpg",
+    "hashKey": "object:267"
+  },
+  {
+    "Broadcaster": "NOIDA Software Technology Park Limited",
+    "Channel": "NHK World Premium (HD Distribution)",
+    "category": "Infotainment",
+    "language": "Japanese ",
+    "HD": "HD",
+    "price": "1800.00",
+    "imageurl": "Channellogo\/logo\/NHKWorldPremiumHDDistribution.jpg",
+    "hashKey": "object:26"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "NICK",
+    "category": "Kids",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/NICK.jpg",
+    "hashKey": "object:268"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "NICK JR",
+    "category": "Kids",
+    "language": "English",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/NICKJR.jpg",
+    "hashKey": "object:269"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "NICKS HD+",
+    "category": "Kids",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/NICKHD.jpg",
+    "hashKey": "object:270"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "PAL",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/PAL.jpg",
+    "hashKey": "object:271"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "PIX",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/PIX.jpg",
+    "hashKey": "object:272"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "PIX HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/PIXHD.jpg",
+    "hashKey": "object:273"
+  },
+  {
+    "Broadcaster": "Turner International Pvt Ltd.",
+    "Channel": "POGO",
+    "category": "Kids",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "4.25",
+    "imageurl": "Channellogo\/logo\/POGO.jpg",
+    "hashKey": "object:274"
+  },
+  {
+    "Broadcaster": "Odisha Television Limited",
+    "Channel": "Prarthana",
+    "category": "Devotional",
+    "language": "Odia",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/Prarthana.jpg",
+    "hashKey": "object:275"
+  },
+  {
+    "Broadcaster": "Raj Television Network Limited",
+    "Channel": "Raj Digital Plus",
+    "category": "Movies",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "1.50",
+    "imageurl": "Channellogo\/logo\/RajDigitalPlus.jpg",
+    "hashKey": "object:28"
+  },
+  {
+    "Broadcaster": "Raj Television Network Limited",
+    "Channel": "Raj Musix",
+    "category": "Music",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/RajMusix.jpg",
+    "hashKey": "object:276"
+  },
+  {
+    "Broadcaster": "Raj Television Network Limited",
+    "Channel": "Raj Musix Kannada",
+    "category": "Music",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/RajMusixKannada.jpg",
+    "hashKey": "object:277"
+  },
+  {
+    "Broadcaster": "Raj Television Network Limited",
+    "Channel": "Raj News",
+    "category": "News",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "0.25",
+    "imageurl": "Channellogo\/logo\/RajNews.jpg",
+    "hashKey": "object:278"
+  },
+  {
+    "Broadcaster": "Raj Television Network Limited",
+    "Channel": "Raj TV",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/RajTV.jpg",
+    "hashKey": "object:279"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Rishtey",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/Rishtey.jpg",
+    "hashKey": "object:280"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "Rishtey Cineplex",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/RishteyCineplex.jpg",
+    "hashKey": "object:281"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Romedy Now",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/RomedyNow.jpg",
+    "hashKey": "object:282"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Romedy Now HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/RomedyNowHD.jpg",
+    "hashKey": "object:283"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SAB",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SAB.jpg",
+    "hashKey": "object:284"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SAB HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SABHD.jpg",
+    "hashKey": "object:285"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Sarthak TV",
+    "category": "GEC",
+    "language": "Odia",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SarthakTV.jpg",
+    "hashKey": "object:286"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SET HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SETHD.jpg",
+    "hashKey": "object:287"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SET MAX",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/SETMAX.jpg",
+    "hashKey": "object:288"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SIX",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/SIX.jpg",
+    "hashKey": "object:289"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SIX HD",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SIXHD.jpg",
+    "hashKey": "object:290"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "SONIC",
+    "category": "Kids",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/SONIC.jpg",
+    "hashKey": "object:291"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SONY BBC EARTH",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/SONYBBCEARTH.jpg",
+    "hashKey": "object:292"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SONY BBC EARTH HD",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/SONYBBCEARTHHD.jpg",
+    "hashKey": "object:293"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SONY ENTERTAINMENT CHANNEL (SET)",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SONYENTERTAINMENTCHANNELSET.jpg",
+    "hashKey": "object:294"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SONY ESPN",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/SONYESPN.jpg",
+    "hashKey": "object:295"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SONY ESPN HD",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/SONYESPNHD.jpg",
+    "hashKey": "object:296"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SONY Marathi",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/SONYMarathi.jpg",
+    "hashKey": "object:297"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "SONY Wah",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/SONYWah.jpg",
+    "hashKey": "object:298"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Sony YAY!",
+    "category": "Kids",
+    "language": "English",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/SonyYAY.jpg",
+    "hashKey": "object:299"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Bharat",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/StarBharat.jpg",
+    "hashKey": "object:300"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Bharat HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarBharatHD.jpg",
+    "hashKey": "object:301"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Gold",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "8.00",
+    "imageurl": "Channellogo\/logo\/StarGold.jpg",
+    "hashKey": "object:302"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Gold HD",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/StarGoldHD.jpg",
+    "hashKey": "object:303"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Gold Select",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/StarGoldSelect.jpg",
+    "hashKey": "object:304"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Gold Select HD",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "HD ",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/StarGoldSelectHD.jpg",
+    "hashKey": "object:305"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Jalsha",
+    "category": "GEC",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarJalsha.jpg",
+    "hashKey": "object:306"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Jalsha HD",
+    "category": "GEC",
+    "language": "Bangla",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarJalshaHD.jpg",
+    "hashKey": "object:307"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Movies",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "12.00",
+    "imageurl": "Channellogo\/logo\/StarMovies.jpg",
+    "hashKey": "object:308"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Movies HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarMoviesHD.jpg",
+    "hashKey": "object:309"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Movies Select HD",
+    "category": "Movies",
+    "language": "English",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/StarMoviesSelectHD.jpg",
+    "hashKey": "object:310"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Plus",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarPlus.jpg",
+    "hashKey": "object:311"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Plus HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarPlusHD.jpg",
+    "hashKey": "object:312"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Pravah",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/StarPravah.jpg",
+    "hashKey": "object:313"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Pravah HD",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "HD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/StarPravahHD.jpg",
+    "hashKey": "object:314"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports 1",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSports1.jpg",
+    "hashKey": "object:315"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports 1 HD Hindi",
+    "category": "Sports",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSports1HDHindi.jpg",
+    "hashKey": "object:316"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports 1 Hindi",
+    "category": "Sports",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSports1Hindi.jpg",
+    "hashKey": "object:317"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "STAR SPORTS 1 KANNADA",
+    "category": "Sports",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSport1Kannada.jpg",
+    "hashKey": "object:318"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports 1 Tamil",
+    "category": "Sports",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/StarSports1Tamil.jpg",
+    "hashKey": "object:319"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports 1 Telugu",
+    "category": "Sports",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSport1Telugu.jpg",
+    "hashKey": "object:320"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports 2",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/StarSports2.jpg",
+    "hashKey": "object:321"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports 3",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/StarSports3.jpg",
+    "hashKey": "object:322"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports First",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/StarSportsFirst.jpg",
+    "hashKey": "object:323"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports HD 1",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSportsHD1.jpg",
+    "hashKey": "object:324"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports HD 2",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSportsHD2.jpg",
+    "hashKey": "object:325"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports Select 1",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSportsSelect1.jpg",
+    "hashKey": "object:326"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports Select 2",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "7.00",
+    "imageurl": "Channellogo\/logo\/StarSportsSelect2.jpg",
+    "hashKey": "object:327"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports Select HD 1",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSportsSelectHD1.jpg",
+    "hashKey": "object:328"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Sports Select HD 2",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/StarSportsSelectHD2.jpg",
+    "hashKey": "object:329"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Suvarna",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSuvarna.jpg",
+    "hashKey": "object:330"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Suvarna HD",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/StarSuvarnaHD.jpg",
+    "hashKey": "object:331"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Utsav",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/StarUtsav.jpg",
+    "hashKey": "object:332"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star Utsav Movies",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/StarUtsavMovies.jpg",
+    "hashKey": "object:333"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star World",
+    "category": "GEC",
+    "language": "English",
+    "HD": "SD",
+    "price": "8.00",
+    "imageurl": "Channellogo\/logo\/StarWorld.jpg",
+    "hashKey": "object:334"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star World HD",
+    "category": "GEC",
+    "language": "English",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/StarWorldHD.jpg",
+    "hashKey": "object:335"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Star World Premiere HD",
+    "category": "GEC",
+    "language": "English",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/StarWorldPrmiereHD.jpg",
+    "hashKey": "object:336"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "SUN Life",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/SUNLife.jpg",
+    "hashKey": "object:337"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Sun Music",
+    "category": "Music",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/SunMusic.jpg",
+    "hashKey": "object:338"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Sun Music HD",
+    "category": "Music",
+    "language": "Tamil",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SunMusicHD.jpg",
+    "hashKey": "object:339"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Sun News",
+    "category": "News",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/SunNews.jpg",
+    "hashKey": "object:340"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "SUN TV",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SUNTV.jpg",
+    "hashKey": "object:341"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Sun TV HD",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SunTVHD.jpg",
+    "hashKey": "object:342"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Surya Comedy",
+    "category": "Movies",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/SuryaComedy.jpg",
+    "hashKey": "object:343"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Surya Movies",
+    "category": "Movies",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "11.00",
+    "imageurl": "Channellogo\/logo\/SuryaMovies.jpg",
+    "hashKey": "object:344"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Surya Music",
+    "category": "Music",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/SuryaMusic.jpg",
+    "hashKey": "object:345"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Surya TV",
+    "category": "GEC",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "12.00",
+    "imageurl": "Channellogo\/logo\/SuryaTV.jpg",
+    "hashKey": "object:346"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Surya TV HD",
+    "category": "GEC",
+    "language": "Malayalam",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/SuryaTVHD.jpg",
+    "hashKey": "object:347"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Suvarna Plus",
+    "category": "Movies",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/SuvarnaPlus.jpg",
+    "hashKey": "object:348"
+  },
+  {
+    "Broadcaster": "Odisha Television Limited",
+    "Channel": "Tarang",
+    "category": "GEC",
+    "language": "Odia",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/Tarang.jpg",
+    "hashKey": "object:349"
+  },
+  {
+    "Broadcaster": "Odisha Television Limited",
+    "Channel": "Tarang Music",
+    "category": "Music",
+    "language": "Odia",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/TarangMusic.jpg",
+    "hashKey": "object:350"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Ten 1",
+    "category": "Sports",
+    "language": "English",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/Ten1.jpg",
+    "hashKey": "object:351"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Ten 1 HD",
+    "category": "Sports",
+    "language": "English",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/Ten1HD.jpg",
+    "hashKey": "object:352"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Ten 2",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/Ten2.jpg",
+    "hashKey": "object:353"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Ten 2 HD",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/Ten2HD.jpg",
+    "hashKey": "object:354"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Ten 3",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/Ten3.jpg",
+    "hashKey": "object:355"
+  },
+  {
+    "Broadcaster": "Sony Pictures Networks India Private Limited",
+    "Channel": "Ten 3 HD",
+    "category": "Sports",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/Ten3HD.jpg",
+    "hashKey": "object:356"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "The Disney Channel",
+    "category": "Kids",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "8.00",
+    "imageurl": "Channellogo\/logo\/TheDisneyChannel.jpg",
+    "hashKey": "object:357"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "The History Channel",
+    "category": "Infotainment",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/TheHistoryChannel.jpg",
+    "hashKey": "object:358"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "The office",
+    "category": "Movies",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/TheOffice.jpg",
+    "hashKey": "object:359"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Times Now",
+    "category": "News",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/TimesNow.jpg",
+    "hashKey": "object:360"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Times Now HD",
+    "category": "News",
+    "language": "English",
+    "HD": "HD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/TimesNowHD.jpg",
+    "hashKey": "object:361"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "TLC",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/TLC.jpg",
+    "hashKey": "object:362"
+  },
+  {
+    "Broadcaster": "Discovery Communications India",
+    "Channel": "TLC HD world",
+    "category": "Infotainment",
+    "language": "English\/Hindi",
+    "HD": "HD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/TLCHDworld.jpg",
+    "hashKey": "object:363"
+  },
+  {
+    "Broadcaster": "Greycells18 Media Limited",
+    "Channel": "Topper TV",
+    "category": "Miscellaneous",
+    "language": "English",
+    "HD": "SD",
+    "price": "59.32",
+    "imageurl": "Channellogo\/logo\/TopperTV.jpg",
+    "hashKey": "object:22"
+  },
+  {
+    "Broadcaster": "Media World Wide Limited",
+    "Channel": "Travel XP",
+    "category": "Lifestyle",
+    "language": "English",
+    "HD": "SD",
+    "price": "3.00",
+    "imageurl": "Channellogo\/logo\/TravelXP.jpg",
+    "hashKey": "object:24"
+  },
+  {
+    "Broadcaster": "Celebrities Management Pvt Limited",
+    "Channel": "Travel XP HD",
+    "category": "Lifestyle",
+    "language": "English",
+    "HD": "HD",
+    "price": "9.00",
+    "imageurl": "Channellogo\/logo\/TravelXPHD.jpg",
+    "hashKey": "object:16"
+  },
+  {
+    "Broadcaster": "Celebrities Management Pvt Limited",
+    "Channel": "Travel XP Tamil",
+    "category": "Lifestyle",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "1.50",
+    "imageurl": "Channellogo\/logo\/TravelXPTamil.jpg",
+    "hashKey": "object:364"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Udaya Comedy",
+    "category": "Movies",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/UdayaComedy.jpg",
+    "hashKey": "object:365"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Udaya Movies",
+    "category": "Movies",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "16.00",
+    "imageurl": "Channellogo\/logo\/UdayaMovies.jpg",
+    "hashKey": "object:366"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Udaya Music",
+    "category": "Music",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "6.00",
+    "imageurl": "Channellogo\/logo\/UdayaMusic.jpg",
+    "hashKey": "object:367"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Udaya News",
+    "category": "News",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/UdayaNews.jpg",
+    "hashKey": "object:368"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Udaya TV",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/UdayaTV.jpg",
+    "hashKey": "object:369"
+  },
+  {
+    "Broadcaster": "SUN TV Network Limited",
+    "Channel": "Udaya TV HD",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/UdayaTVHD.jpg",
+    "hashKey": "object:370"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "UTV Action",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/UTVAction.jpg",
+    "hashKey": "object:371"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "UTV Bindass",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/UTVBindass.jpg",
+    "hashKey": "object:372"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "UTV HD",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "8.00",
+    "imageurl": "Channellogo\/logo\/UTVHD.jpg",
+    "hashKey": "object:373"
+  },
+  {
+    "Broadcaster": "Disney Broadcasting (India) Limited",
+    "Channel": "UTV Movies",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/UTVMovies.jpg",
+    "hashKey": "object:374"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "VH 1",
+    "category": "Music",
+    "language": "English",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/VH1.jpg",
+    "hashKey": "object:375"
+  },
+  {
+    "Broadcaster": "TV 18 Broadcast Ltd.",
+    "Channel": "VH 1 (HD Distribution)",
+    "category": "Music",
+    "language": "English",
+    "HD": "HD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/VH1HD.jpg",
+    "hashKey": "object:376"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Vijay HD",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/VijayHD.jpg",
+    "hashKey": "object:377"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Vijay Super",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/VijaySuper.jpg",
+    "hashKey": "object:378"
+  },
+  {
+    "Broadcaster": "STAR India India Private Limited",
+    "Channel": "Vijay TV",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "17.00",
+    "imageurl": "Channellogo\/logo\/VijayTV.jpg",
+    "hashKey": "object:379"
+  },
+  {
+    "Broadcaster": "Raj Television Network Limited",
+    "Channel": "Vissa TV",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/VissaTV.jpg",
+    "hashKey": "object:380"
+  },
+  {
+    "Broadcaster": "Turner International Pvt Ltd.",
+    "Channel": "WB",
+    "category": "Movies",
+    "language": "English",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/WB.jpg",
+    "hashKey": "object:381"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "WION",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/WION.jpg",
+    "hashKey": "object:382"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee 24 Kalak",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/Zee24Kalak.jpg",
+    "hashKey": "object:383"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee 24 Taas",
+    "category": "News",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/Zee24Taas.jpg",
+    "hashKey": "object:384"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Action",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "1.00",
+    "imageurl": "Channellogo\/logo\/ZeeAction.jpg",
+    "hashKey": "object:385"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Anmol",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeAnmol.jpg",
+    "hashKey": "object:386"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Anmol Cinema",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeAnmolCinema.jpg",
+    "hashKey": "object:387"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Bangla",
+    "category": "GEC",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeBangla.jpg",
+    "hashKey": "object:388"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Bangla Cinema",
+    "category": "Movies",
+    "language": "Bangla",
+    "HD": "SD",
+    "price": "5.00",
+    "imageurl": "Channellogo\/logo\/ZeeBanglaCinema.jpg",
+    "hashKey": "object:389"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Bangla HD",
+    "category": "GEC",
+    "language": "Bangla",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeBanglaHD.jpg",
+    "hashKey": "object:390"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Bihar Jharkhand",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeBiharJharkhand.jpg",
+    "hashKey": "object:391"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Bollywood",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "2.00",
+    "imageurl": "Channellogo\/logo\/ZeeBollywood.jpg",
+    "hashKey": "object:392"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Business",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeBusiness.jpg",
+    "hashKey": "object:393"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Cafe",
+    "category": "GEC",
+    "language": "English",
+    "HD": "SD",
+    "price": "15.00",
+    "imageurl": "Channellogo\/logo\/ZeeCaf.jpg",
+    "hashKey": "object:394"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Cafe HD",
+    "category": "GEC",
+    "language": "English",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeCafHD.jpg",
+    "hashKey": "object:395"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Cinema",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeCinema.jpg",
+    "hashKey": "object:396"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Cinema HD",
+    "category": "Movies",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeCinemaHD.jpg",
+    "hashKey": "object:397"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Cinemalu",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "10.00",
+    "imageurl": "Channellogo\/logo\/ZeeCinemalu.jpg",
+    "hashKey": "object:398"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Cinemalu HD",
+    "category": "Movies",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "16.00",
+    "imageurl": "Channellogo\/logo\/ZeeCinemaluHD.jpg",
+    "hashKey": "object:399"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee ETC",
+    "category": "Music",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeETC.jpg",
+    "hashKey": "object:400"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Hindustan",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeHindustan.jpg",
+    "hashKey": "object:401"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Kannada",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeKannada.jpg",
+    "hashKey": "object:402"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Kannada HD",
+    "category": "GEC",
+    "language": "Kannada",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeKannadaHD.jpg",
+    "hashKey": "object:403"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Keralam",
+    "category": "GEC",
+    "language": "Malayalam",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeKeralam.jpg",
+    "hashKey": "object:404"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Keralam HD",
+    "category": "GEC",
+    "language": "Malayalam",
+    "HD": "HD",
+    "price": "8.00",
+    "imageurl": "Channellogo\/logo\/ZeeKeralamHD.jpg",
+    "hashKey": "object:405"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Madhya Pradesh Chattisgarh",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeMadhyaPradeshChattisgarh.jpg",
+    "hashKey": "object:406"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Marathi",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeMarathi.jpg",
+    "hashKey": "object:407"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Marathi HD",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeMarathiHD.jpg",
+    "hashKey": "object:408"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee News",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeNews.jpg",
+    "hashKey": "object:409"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Odisha ",
+    "category": "News",
+    "language": "Odia",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeOdisha.jpg",
+    "hashKey": "object:410"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Punjab Haryana Himachal",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeePunjabHaryanaHimachal.jpg",
+    "hashKey": "object:411"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Rajasthan News",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeRajasthanNews.jpg",
+    "hashKey": "object:412"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Salaam",
+    "category": "News",
+    "language": "Urdu",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeSalaam.jpg",
+    "hashKey": "object:413"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Talkies",
+    "category": "Movies",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "12.00",
+    "imageurl": "Channellogo\/logo\/ZeeTalkies.jpg",
+    "hashKey": "object:414"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Talkies HD",
+    "category": "Movies",
+    "language": "Marathi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeTalkiesHD.jpg",
+    "hashKey": "object:415"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Tamil",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "SD",
+    "price": "12.00",
+    "imageurl": "Channellogo\/logo\/ZeeTamil.jpg",
+    "hashKey": "object:416"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Tamil HD",
+    "category": "GEC",
+    "language": "Tamil",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeTamilHD.jpg",
+    "hashKey": "object:417"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Telugu",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeTelugu.jpg",
+    "hashKey": "object:418"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Telugu HD",
+    "category": "GEC",
+    "language": "Telugu",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeTeluguHD.jpg",
+    "hashKey": "object:419"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee TV",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeTV.jpg",
+    "hashKey": "object:420"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee TV HD",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "HD",
+    "price": "19.00",
+    "imageurl": "Channellogo\/logo\/ZeeTVHD.jpg",
+    "hashKey": "object:421"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Uttar Pradesh Uttrakhand",
+    "category": "News",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/ZeeUttarPradeshUttrakhand.jpg",
+    "hashKey": "object:422"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zee Yuva",
+    "category": "GEC",
+    "language": "Marathi",
+    "HD": "SD",
+    "price": "4.00",
+    "imageurl": "Channellogo\/logo\/ZeeYuva.jpg",
+    "hashKey": "object:423"
+  },
+  {
+    "Broadcaster": "Zee Entertainment Enterprises Limited",
+    "Channel": "Zing",
+    "category": "Music",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.10",
+    "imageurl": "Channellogo\/logo\/Zing.jpg",
+    "hashKey": "object:424"
+  },
+  {
+    "Broadcaster": "Bennett, Coleman & Company Limited (Times Network)",
+    "Channel": "Zoom",
+    "category": "GEC",
+    "language": "Hindi",
+    "HD": "SD",
+    "price": "0.50",
+    "imageurl": "Channellogo\/logo\/Zoom.jpg",
+    "hashKey": "object:425"
+  }
+]
