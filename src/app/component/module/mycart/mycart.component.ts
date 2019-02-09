@@ -1,7 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
+
+// https://www.npmjs.com/package/jspdf
+//import jsPDF from 'jspdf';
+import html2canvas from 'html2canvas';
 
 import { FreeChannel } from '../freechannel/freechannel.model';
 import { PayChannel } from '../paychannel/paychannel.model';
+import { BouquetList } from '../bouquet/bouquetlist.model';
 
 import { LocalStorageService } from '../local-storage.service';
 import { MandatorychannelService } from '../mandatorychannel.service';
@@ -15,9 +20,10 @@ export class MycartComponent implements OnInit {
 
   freechannels: Array<FreeChannel> = [];
   paychannels: Array<PayChannel> = [];
+  bouquetList: Array<BouquetList> = [];
   mandatorychannels: Array<FreeChannel> = [];
 
-  channelCount: number = 0;
+  channelCount: string = "";
   freechannelCount: string = "";
   priceChannelUser: string = "";
   hdCount: string = "";
@@ -25,10 +31,13 @@ export class MycartComponent implements OnInit {
   billCount: string = "";
   gstAmt: string = "";
   ncf: number = 0;
-  totalPrice: number = 0;
-  bouquetPrice: number = 0; 
+  channelPrice: number = 0;
+  bouquetPrice: number = 0;
+
+  @ViewChild('printhtml') d1: ElementRef;
 
   constructor(
+    private elementRef: ElementRef,
     private localStorageService: LocalStorageService,
     private mandatorychannelService: MandatorychannelService,
   ) { }
@@ -36,8 +45,9 @@ export class MycartComponent implements OnInit {
   ngOnInit() {
     this.freechannels = this.localStorageService.getFreeChannel();
     this.paychannels = this.localStorageService.getPayChannel();
-
+    this.bouquetList = this.localStorageService.getBouquetList();
     this.mandatorychannels = this.localStorageService.getMandatoryChannel();
+
     if (this.mandatorychannels.length == 0) {
       this.mandatorychannelService.getChannel()
         .subscribe(data => {
@@ -64,14 +74,15 @@ export class MycartComponent implements OnInit {
   calculateBillPage(): void {
 
     let manchannel: number = 25;
+
+    // Free Channel
     let fchannel: number = this.localStorageService.getFreeChannel().length;
     this.freechannelCount = fchannel + ' + ' + manchannel + ' = ' + (fchannel + manchannel);
 
+    // Paid Channel
     let aListChannel: PayChannel[] = this.localStorageService.getPayChannel();
-    this.channelCount = aListChannel.length;
-
     let price = 0;
-    let billCount: number = manchannel + fchannel;
+    let billCount: number = 0;
     let hdCountNo: number = 0;
     for (let j = 0; j < aListChannel.length; j++) {
       // console.log('price -->' + aListChannel[j].price);
@@ -83,31 +94,57 @@ export class MycartComponent implements OnInit {
         billCount = billCount + 1;
       }
     }
+    this.channelPrice = price;
 
-    let totalBillCount = 0;
+    // BouquetList
+    let aListBouquet = this.localStorageService.getBouquetList();
+    let priceBouquet = 0;
+    let billCountBouquet = 0;
+    for (let j = 0; j < aListBouquet.length; j++) {
+      priceBouquet = (priceBouquet + parseFloat(aListBouquet[j].price));
+      billCountBouquet = billCountBouquet + aListBouquet[j].channelcount + aListBouquet[j].hdcount;
+      hdCountNo = hdCountNo + aListBouquet[j].hdcount;
+    }
+    this.bouquetPrice = priceBouquet;
+
+    // calculation price
+    let paidChannelCount = billCount + billCountBouquet;
+    this.channelCount = billCount + ' + ' + billCountBouquet + ' = ' + paidChannelCount;
+    billCount = paidChannelCount + fchannel + manchannel;
+
+    let totalBillCount = 100;
     let ncfee = 130;
     if (billCount > 100) {
       let block: number = ((billCount - 100) / 25);
-      console.log('block -->' + billCount + ' ' + block + ' ' + parseInt(block));
+      // console.log('block -->' + billCount + ' ' + block + ' ' + parseInt(block));
       if (block > parseInt(block)) {
         block = parseInt(block) + 1;
       }
-      // console.log('block -->' + block);
-      //price = price + 130 + (block * 20);
       ncfee = ncfee + (block * 20);
-    } else {
-      totalBillCount = 100;
+      totalBillCount = 100 + (block * 25);
     }
 
-    this.totalPrice = price;
-    price = price + ncfee;
+    let totalPrice = price + priceBouquet + ncfee;
 
     this.ncf = ncfee;
     this.hdCount = hdCountNo + '';
-    this.sdCount = (this.channelCount - hdCountNo) + '';
+    this.sdCount = (billCount - hdCountNo) + '';
     this.billCount = billCount + ' / ' + totalBillCount;
-    let gst = (price * 0.18);
+    let gst = (totalPrice * 0.18);
     this.gstAmt = gst + '';
-    this.priceChannelUser = (price + gst) + ' ';
+    this.priceChannelUser = (totalPrice + gst) + ' ';
   }
+
+  savePDF(): void {
+    var d1 = this.elementRef.nativeElement.querySelector('.printhtml');
+    //console.log('savePDF -->' + d1.innerHTML);
+
+    var doc = new jsPDF('p', 'pt', 'letter');
+    doc.canvas.height = 72 * 11;
+    doc.canvas.width = 72 * 8.5;
+    doc.fromHTML(d1, 10, 10);
+    //doc.autoPrint();
+    doc.save('My Channel Selection.pdf');
+  }
+
 }

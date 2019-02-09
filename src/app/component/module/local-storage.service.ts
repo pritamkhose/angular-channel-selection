@@ -6,7 +6,7 @@ import { LocalStorage, SharedStorage } from 'ngx-store';
 
 import { FreeChannel } from './freechannel/freechannel.model';
 import { PayChannel } from './paychannel/paychannel.model';
-
+import { BouquetList } from './bouquet/bouquetlist.model';
 
 @Injectable()
 export class LocalStorageService {
@@ -14,6 +14,8 @@ export class LocalStorageService {
   @LocalStorage() freechannels: Array<FreeChannel> = [];
   @LocalStorage() paychannels: Array<PayChannel> = [];
   @LocalStorage() mandatorychannels: Array<FreeChannel> = [];
+  @LocalStorage() bouquetList: Array<BouquetList> = [];
+
   //@LocalStorage() user_name: String = null;
 
   constructor() {
@@ -23,6 +25,7 @@ export class LocalStorageService {
     this.freechannels = [];
     this.paychannels = [];
     this.mandatorychannels = [];
+    this.bouquetList = [];
     // this.user_name = null;
   }
 
@@ -53,7 +56,7 @@ export class LocalStorageService {
         b = false;
         break;
       } else {
-       // console.log('add -->>' + i);
+        // console.log('add -->>' + i);
       }
     }
     if (b) {
@@ -77,7 +80,7 @@ export class LocalStorageService {
     let b = true;
     for (let i = 0; i < this.paychannels.length; i++) {
       if (payChannel.idPayChannel == this.paychannels[i].idPayChannel) {
-       
+
         for (let j = 0; j < this.paychannels.length; j++) {
           if (payChannel.idPayChannel == this.paychannels[j].idPayChannel) {
             this.paychannels.splice(j, 1);
@@ -87,7 +90,7 @@ export class LocalStorageService {
         b = false;
         break;
       } else {
-       // console.log('add -->>' + i);
+        // console.log('add -->>' + i);
       }
     }
     if (b) {
@@ -102,12 +105,37 @@ export class LocalStorageService {
     this.paychannels = [];
   }
 
+  public getBouquetList() {
+    return this.bouquetList;
+  }
+
+  public setBouquetList(objBoquet: BouquetList) {
+    let b = true;
+    for (let i = 0; i < this.bouquetList.length; i++) {
+      if (objBoquet.broadcaster === this.bouquetList[i].broadcaster &&
+        objBoquet.bouque === this.bouquetList[i].bouque) {
+        this.bouquetList.splice(i, 1);
+        b = false;
+        break;
+      }
+    }
+    if (b) {
+      this.bouquetList.push(objBoquet);
+    }
+
+  }
+
+  public clearBouquetList() {
+    this.bouquetList = [];
+  }
+
+
   public getMandatoryChannel() {
     return this.mandatorychannels;
   }
 
   public setMandatoryChannel(arrChannels: Array<FreeChannel>) {
-      this.mandatorychannels = arrChannels;
+    this.mandatorychannels = arrChannels;
   }
 
   public clearMandatoryChannel() {

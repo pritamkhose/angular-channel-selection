@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+//import { NgxSpinnerService } from 'ngx-spinner';
 
 import { FreeChannel } from './freechannel.model';
 import { FreechannelService } from './freechannel.service';
@@ -23,6 +24,7 @@ export class FreechannelComponent implements OnInit {
   ChannelCount: number = 0;
 
   constructor(private router: Router,
+    //private spinner: NgxSpinnerService,
     private aService: FreechannelService,
     private localStorageService: LocalStorageService) {
 
@@ -39,6 +41,7 @@ export class FreechannelComponent implements OnInit {
     }
     // console.log('this.stringArrfreechannels.length  --> ' + this.stringArrfreechannels.length);
 
+    //this.spinner.show();
     this.aService.getFreeChannel()
       .subscribe(data => {
         // this.freechannels = data;
@@ -60,9 +63,13 @@ export class FreechannelComponent implements OnInit {
           }
           this.freechannels.push(v);
         }
-
+          //this.spinner.hide();
         // console.log('-->' + JSON.stringify(this.freechannels));
-      });
+      }
+      // , error => {
+      //     window.alert('Something went wrong!\n We will get back to you soon...');
+      // }
+      );
   }
 
   refreshPage(): void {

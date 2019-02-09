@@ -93,7 +93,7 @@ export class PaychannelComponent implements OnInit {
     this.ChannelCount = aListChannel.length;
 
     let price = 0;
-    let billCount: number = this.localStorageService.getFreeChannel().length;
+    let billCount: number = 0;
     for (let j = 0; j < aListChannel.length; j++) {
       // console.log('price -->' + aListChannel[j].price);
       price = (price + parseFloat(aListChannel[j].price));

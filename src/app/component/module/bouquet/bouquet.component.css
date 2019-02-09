@@ -1,0 +1,42 @@
+.BroadcasterList {
+  color: white;
+  background: blue;
+  padding: 6px;
+  margin-bottom: 6px;
+}
+
+.PackList {
+  color: black;
+  background: #f2f2f2;
+  padding: 6px;
+  margin: 6px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+.card {
+  width: 14rem;
+}
+
+.buy {
+ width: 3rem;
+ color: white;
+ /* background: #592ef5; */
+}
+
+text-right{
+  text-align: right;
+  padding: 8 px;
+} 
+
+.card {
+  width: 14rem;
+}

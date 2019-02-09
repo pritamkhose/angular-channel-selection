@@ -6,6 +6,8 @@ import { HttpClientModule } from "@angular/common/http";
 import { WebStorageModule } from 'ngx-store';
 // https://www.npmjs.com/package/ngx-print
 import { NgxPrintModule } from 'ngx-print';
+// https://www.npmjs.com/package/ngx-spinner
+import { NgxSpinnerModule } from 'ngx-spinner';
 
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -34,13 +36,13 @@ import { LocalStorageService } from './component/module/local-storage.service';
 
 import { startsWithPipe } from './component/module/freechannel/customstart.pipes';
 import { CustomPayPipe } from './component/module/paychannel/custompay.pipes';
-
+import { CustomBouquetPipe } from './component/module/bouquet/custombouquet.pipes';
 
 
 @NgModule({
-  imports: [BrowserModule, FormsModule, AppRoutingModule, MaterialModule, BrowserAnimationsModule, HttpClientModule, WebStorageModule, NgxPrintModule],
+  imports: [BrowserModule, FormsModule, AppRoutingModule, MaterialModule, BrowserAnimationsModule, HttpClientModule, WebStorageModule, NgxPrintModule, NgxSpinnerModule],
   declarations: [AppComponent, NavComponent, FooterComponent, HomeComponent, PaychannelComponent, FreechannelComponent, BouquetComponent, AboutComponent, MycartComponent,
-    startsWithPipe, CustomPayPipe
+    startsWithPipe, CustomPayPipe, CustomBouquetPipe
   ],
   bootstrap: [AppComponent],
   providers: [FreechannelService, LocalStorageService, PaychannelService, MandatorychannelService, BouquetlistService]

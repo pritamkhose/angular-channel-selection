@@ -8,7 +8,7 @@ export class BouquetlistService {
 
    constructor(private http: HttpClient) { }
 
-  private aUrl = 'https://angular-db-fa163.firebaseio.com/TRAIChannel/bouquetlistTest.json';
+  private aUrl = 'https://angular-db-fa163.firebaseio.com/TRAIChannel/bouquetlist.json'; // Test
 
   public getChannel() {
     console.log('get List --> ' + this.aUrl);

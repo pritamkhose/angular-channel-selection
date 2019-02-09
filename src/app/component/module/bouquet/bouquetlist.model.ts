@@ -1,14 +1,9 @@
 export class BouquetList {
 
-  idFreeChannel: number;
-  Broadcaster: string;
-  Channel: string;
-  category: string;
-  imageurl: string;
+  broadcaster: string;
+  bouque: string;
+  channelcount: number;
+  hdcount: number;
   price: number;
-  color: boolean = false;
 
-  /*
-
-   */
 }
