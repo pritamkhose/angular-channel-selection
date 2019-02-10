@@ -8,6 +8,8 @@ import { WebStorageModule } from 'ngx-store';
 import { NgxPrintModule } from 'ngx-print';
 // https://www.npmjs.com/package/ngx-spinner
 import { NgxSpinnerModule } from 'ngx-spinner';
+// https://www.npmjs.com/package/ngx-device-detector
+import { DeviceDetectorModule } from 'ngx-device-detector';
 
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -40,7 +42,7 @@ import { CustomBouquetPipe } from './component/module/bouquet/custombouquet.pipe
 
 
 @NgModule({
-  imports: [BrowserModule, FormsModule, AppRoutingModule, MaterialModule, BrowserAnimationsModule, HttpClientModule, WebStorageModule, NgxPrintModule, NgxSpinnerModule],
+  imports: [BrowserModule, FormsModule, AppRoutingModule, MaterialModule, BrowserAnimationsModule, HttpClientModule, WebStorageModule, NgxPrintModule, NgxSpinnerModule,   DeviceDetectorModule.forRoot()],
   declarations: [AppComponent, NavComponent, FooterComponent, HomeComponent, PaychannelComponent, FreechannelComponent, BouquetComponent, AboutComponent, MycartComponent,
     startsWithPipe, CustomPayPipe, CustomBouquetPipe
   ],

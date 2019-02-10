@@ -41,32 +41,59 @@ export class PaychannelComponent implements OnInit {
     }
     // console.log('this.stringArrPaychannels.length  --> ' + this.stringArrPaychannels.length);
 
-    this.aService.getPayChannel()
-      .subscribe(data => {
-        //this.paychannels = data;
-        for (let i = 0; i < data.length; i++) {
-          let v: PayChannel = data[i];
-          v.idPayChannel = i + 1;
+    let data = this.localStorageService.getBackupPayChannel();
+    if (data.length == 0) {
+      console.log('WebService --> getPayChannel');
+      this.aService.getPayChannel()
+        .subscribe(data => {
+          //this.paychannels = data;
 
-          if (this.memorypaychannels.length > 0) {
-            //console.log('index  --> ' + this.stringArrPaychannels.indexOf(v.Channel));
-            if (this.stringArrPaychannels.indexOf(v.Channel) != -1) {
-              v.color = true;
-              //console.log('--> ' + v.Channel);
+          this.localStorageService.setBackupPayChannel(data);
+
+          for (let i = 0; i < data.length; i++) {
+            let v: PayChannel = data[i];
+            v.idPayChannel = i + 1;
+
+            if (this.memorypaychannels.length > 0) {
+              //console.log('index  --> ' + this.stringArrPaychannels.indexOf(v.Channel));
+              if (this.stringArrPaychannels.indexOf(v.Channel) != -1) {
+                v.color = true;
+                //console.log('--> ' + v.Channel);
+              } else {
+                v.color = false;
+              }
+
             } else {
               v.color = false;
             }
+            this.paychannels.push(v);
+          }
+          // console.log('-->' + JSON.stringify(this.paychannels));
+        });
+    } else {
+      for (let i = 0; i < data.length; i++) {
+        let v: PayChannel = data[i];
+        v.idPayChannel = i + 1;
 
+        if (this.memorypaychannels.length > 0) {
+          //console.log('index  --> ' + this.stringArrPaychannels.indexOf(v.Channel));
+          if (this.stringArrPaychannels.indexOf(v.Channel) != -1) {
+            v.color = true;
+            //console.log('--> ' + v.Channel);
           } else {
             v.color = false;
           }
-          this.paychannels.push(v);
+
+        } else {
+          v.color = false;
         }
-        // console.log('-->' + JSON.stringify(this.paychannels));
-      });
+        this.paychannels.push(v);
+      }
+    }
   }
 
   refreshPage(): void {
+     this.localStorageService.clearBackupPayChannel();
     this.ngOnInit();
   }
 

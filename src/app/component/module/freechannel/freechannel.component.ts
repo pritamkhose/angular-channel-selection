@@ -35,44 +35,69 @@ export class FreechannelComponent implements OnInit {
     this.stringArrfreechannels = [];
     this.memoryfreechannels = this.localStorageService.getFreeChannel();
     this.ChannelCount = this.localStorageService.getFreeChannel().length;
-    
+
     for (let j = 0; j < this.memoryfreechannels.length; j++) {
       this.stringArrfreechannels.push(this.memoryfreechannels[j].Channel)
     }
-    // console.log('this.stringArrfreechannels.length  --> ' + this.stringArrfreechannels.length);
 
     //this.spinner.show();
-    this.aService.getFreeChannel()
-      .subscribe(data => {
-        // this.freechannels = data;
-        for (let i = 0; i < data.length; i++) {
-          let v: FreeChannel = data[i];
-          v.idFreeChannel = i + 1;
 
-          if (this.memoryfreechannels.length > 0) {
-            //console.log('index  --> ' + this.stringArrfreechannels.indexOf(v.Channel));
-            if (this.stringArrfreechannels.indexOf(v.Channel) != -1) {
-              v.color = true;
-              //console.log('--> ' + v.Channel);
+    let data = this.localStorageService.getBackupFreeChannel();
+    if (data.length == 0) {
+      console.log('WebService --> getFreeChannel');
+      this.aService.getFreeChannel()
+        .subscribe(data => {
+          
+          this.localStorageService.setBackupFreeChannel(data);
+          //this.spinner.hide();
+
+          for (let i = 0; i < data.length; i++) {
+            let v: FreeChannel = data[i];
+            v.idFreeChannel = i + 1;
+
+            if (this.memoryfreechannels.length > 0) {
+              //console.log('index  --> ' + this.stringArrfreechannels.indexOf(v.Channel));
+              if (this.stringArrfreechannels.indexOf(v.Channel) != -1) {
+                v.color = true;
+                //console.log('--> ' + v.Channel);
+              } else {
+                v.color = false;
+              }
+
             } else {
               v.color = false;
             }
+            this.freechannels.push(v);
+          }
 
+        });
+    } else {
+       
+      for (let i = 0; i < data.length; i++) {
+        let v: FreeChannel = data[i];
+        v.idFreeChannel = i + 1;
+
+        if (this.memoryfreechannels.length > 0) {
+          //console.log('index  --> ' + this.stringArrfreechannels.indexOf(v.Channel));
+          if (this.stringArrfreechannels.indexOf(v.Channel) != -1) {
+            v.color = true;
+            //console.log('--> ' + v.Channel);
           } else {
             v.color = false;
           }
-          this.freechannels.push(v);
+
+        } else {
+          v.color = false;
         }
-          //this.spinner.hide();
-        // console.log('-->' + JSON.stringify(this.freechannels));
+        this.freechannels.push(v);
       }
-      // , error => {
-      //     window.alert('Something went wrong!\n We will get back to you soon...');
-      // }
-      );
+    }
+
+    // console.log('-->' + JSON.stringify(this.freechannels));
   }
 
   refreshPage(): void {
+    this.localStorageService.clearBackupFreeChannel();
     this.ngOnInit();
   }
 
@@ -95,6 +120,5 @@ export class FreechannelComponent implements OnInit {
 
 
   }
-
 
 }

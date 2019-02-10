@@ -2,7 +2,8 @@ import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 
 // https://www.npmjs.com/package/jspdf
 //import jsPDF from 'jspdf';
-import html2canvas from 'html2canvas';
+import { html2canvas } from 'html2canvas';
+import { DeviceDetectorService } from 'ngx-device-detector';
 
 import { FreeChannel } from '../freechannel/freechannel.model';
 import { PayChannel } from '../paychannel/paychannel.model';
@@ -23,6 +24,8 @@ export class MycartComponent implements OnInit {
   bouquetList: Array<BouquetList> = [];
   mandatorychannels: Array<FreeChannel> = [];
 
+  printbtnshow: boolean = false;
+
   channelCount: string = "";
   freechannelCount: string = "";
   priceChannelUser: string = "";
@@ -38,6 +41,7 @@ export class MycartComponent implements OnInit {
 
   constructor(
     private elementRef: ElementRef,
+    private deviceService: DeviceDetectorService,
     private localStorageService: LocalStorageService,
     private mandatorychannelService: MandatorychannelService,
   ) { }
@@ -59,7 +63,7 @@ export class MycartComponent implements OnInit {
     } else {
       this.calculateBillPage();
     }
-
+    this.deviceFunction();
   }
 
   refreshPage(): void {
@@ -131,8 +135,8 @@ export class MycartComponent implements OnInit {
     this.sdCount = (billCount - hdCountNo) + '';
     this.billCount = billCount + ' / ' + totalBillCount;
     let gst = (totalPrice * 0.18);
-    this.gstAmt = gst + '';
-    this.priceChannelUser = (totalPrice + gst) + ' ';
+    this.gstAmt = gst.toFixed(2) + '';
+    this.priceChannelUser = (totalPrice + gst).toFixed(2) + ' ';
   }
 
   savePDF(): void {
@@ -145,6 +149,17 @@ export class MycartComponent implements OnInit {
     doc.fromHTML(d1, 10, 10);
     //doc.autoPrint();
     doc.save('My Channel Selection.pdf');
+  }
+
+  deviceFunction(): void {
+    if(this.deviceService.isDesktop()){
+        this.printbtnshow = true;
+    }
+    // let deviceInfo = this.deviceService.getDeviceInfo();
+    // console.log(deviceInfo);
+    // console.log(this.deviceService.isMobile());  // returns if the device is a mobile device (android / iPhone / windows-phone etc)
+    // console.log(this.deviceService.isTablet());  // returns if the device us a tablet (iPad etc)
+    // console.log(this.deviceService.isDesktop()); // returns if the device is a Desktop device
   }
 
 }

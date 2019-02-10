@@ -12,7 +12,7 @@ export class MandatorychannelService {
   private aUrl = 'https://angular-db-fa163.firebaseio.com/TRAIChannel/mandatorychannel.json';
 
   public getChannel() {
-    console.log('get List --> ' + this.aUrl);
+    //console.log('get List --> ' + this.aUrl);
     return this.http.get<FreeChannel[]>(this.aUrl);
   }
 

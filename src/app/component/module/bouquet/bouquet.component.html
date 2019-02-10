@@ -1,36 +1,28 @@
 <h2>Bouquet Channel List</h2>
-<div class="panel-heading-default">
-	<input type="text" [(ngModel)]="query" placeholder="Search">
-    <!-- <div>
-    <select [(ngModel)]="filterBroadcaster" id="filterBroadcaster" value="1">
-        <option value="" selected>All</option>
-        <option value="NEWS" >NEWS</option>
-        <option value="NON-NEWS">NON-NEWS</option>
-    </select>
-    </div> -->
 
-      <a (click)="refreshPage()"><button style="margin-left:20px" class="btn btn-info pull-right">
-                  Refresh
-                </button></a>
-              <a style="margin-left:10px" (click)="clearBouquetList()"
-                ><button
-                  style="margin-left:20px"
-                  class="btn btn-warning pull-right"
-                >
-                  Clear
-                </button></a>
-    </div>
-      <h5>Bouquet Price = {{priceChannelUser}}</h5>
-      <br/>
-<div >
+<div class="panel-heading-default row container">
+    <h6 style="margin-top:10px;">
+	 Bouquet Price = {{priceChannelUser}}
+	</h6>
 
-<mat-progress-spinner mode="indeterminate" color="accent" *ngIf="BroadcasterList?.length == 0" ></mat-progress-spinner>
+    <input style="margin-left:20px" type="text" [(ngModel)]="query" placeholder="Search">
+
+    <a (click)="refreshPage()">
+        <button style="margin-left:20px" class="btn btn-info pull-right"> Refresh </button>
+    </a>
+    <a (click)="clearBouquetList()">
+        <button style="margin-left:20px" class="btn btn-warning pull-right"> Clear </button>
+    </a>
+</div>
+
+<mat-progress-spinner mode="indeterminate" color="accent" *ngIf="BroadcasterList?.length == 0"></mat-progress-spinner>
 <!-- <div [innerHtml]="htmlVariable"></div> -->
 
-<div *ngFor="let objBroadcaster of BroadcasterList ; let i = index" [attr.data-index]="i">
-     <h5 class="BroadcasterList">{{objBroadcaster.broadcastname}}</h5>  
-      <div  *ngFor="let objPack of objBroadcaster.broadcastArr ; let j = index" [attr.data-index]="j">
-        <h6 *ngIf="objPack.buy ; else loggedOut" style="height: 90%; width: 100%; background:lightskyblue;" >
+<br/>
+<div *ngFor="let objBroadcaster of BroadcasterList | CustomBouquetPipe : query  ; let i = index" [attr.data-index]="i">
+    <h5 class="BroadcasterList">{{objBroadcaster.broadcastname}}</h5>
+    <div *ngFor="let objPack of objBroadcaster.broadcastArr ; let j = index" [attr.data-index]="j">
+        <h6 *ngIf="objPack.buy ; else loggedOut" style="height: 90%; width: 100%; background:lightskyblue;">
           <table>
             <tr >
               <td (click)="getVisibility(objPack , i, j)" >{{objPack.index}}. &nbsp;&nbsp;&nbsp;<b>{{objPack.bouquetname}}</b> &nbsp;&nbsp;&nbsp; {{objPack.bouquetprice}} ₹ [ {{objPack.channelsCount}} ] </td>
@@ -41,8 +33,8 @@
             </tr>
           </table>
         </h6>
-        <ng-template #loggedOut >
-        <h6 style="height: 100%; width: 100%;">
+        <ng-template #loggedOut>
+            <h6 style="height: 100%; width: 100%;">
           <table>
             <tr class="PackList">
               <td (click)="getVisibility(objPack , i, j)" >{{objPack.index}}.&nbsp;&nbsp;<b>{{objPack.bouquetname}}</b> &nbsp;&nbsp;&nbsp; {{objPack.bouquetprice}} ₹ [ {{objPack.channelsCount}} ] </td>
@@ -54,15 +46,15 @@
         </h6>
         </ng-template>
 
-       <div *ngIf="objPack.show" class="row">
-          <div class="col-auto mb-3" *ngFor="let objChannel of objPack.channelsArr">
-              <div class="card" >
-                  <div class="card-body">
-                     <h6 class="card-subtitle mb-2">{{objChannel.channel}}</h6> 
-                  </div>
-              </div>
-          </div>
-      </div>
+        <div *ngIf="objPack.show" class="row">
+            <div class="col-auto mb-3" *ngFor="let objChannel of objPack.channelsArr">
+                <div class="card">
+                    <div class="card-body">
+                        <h6 class="card-subtitle mb-2">{{objChannel.channel}}</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-      </div>
+    </div>
 </div>

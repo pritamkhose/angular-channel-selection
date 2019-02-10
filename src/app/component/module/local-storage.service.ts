@@ -12,10 +12,12 @@ import { BouquetList } from './bouquet/bouquetlist.model';
 export class LocalStorageService {
 
   @LocalStorage() freechannels: Array<FreeChannel> = [];
+  @LocalStorage() BackupFreechannels: Array<FreeChannel> = [];
   @LocalStorage() paychannels: Array<PayChannel> = [];
+  @LocalStorage() BackupPaychannels: Array<PayChannel> = [];
   @LocalStorage() mandatorychannels: Array<FreeChannel> = [];
   @LocalStorage() bouquetList: Array<BouquetList> = [];
-
+  @LocalStorage() BackupBouquetList = new Object();
   //@LocalStorage() user_name: String = null;
 
   constructor() {
@@ -129,7 +131,7 @@ export class LocalStorageService {
     this.bouquetList = [];
   }
 
-
+  // Local Backup data
   public getMandatoryChannel() {
     return this.mandatorychannels;
   }
@@ -141,4 +143,41 @@ export class LocalStorageService {
   public clearMandatoryChannel() {
     this.mandatorychannels = [];
   }
+
+  public getBackupFreeChannel() {
+    return this.BackupFreechannels;
+  }
+
+  public setBackupFreeChannel(arrChannels: Array<FreeChannel>) {
+    this.BackupFreechannels = arrChannels;
+  }
+
+  public clearBackupFreeChannel() {
+    this.BackupFreechannels = [];
+  }
+
+  public getBackupPayChannel() {
+    return this.BackupPaychannels;
+  }
+
+  public setBackupPayChannel(arrChannels: Array<PayChannel>) {
+    this.BackupPaychannels = arrChannels;
+  }
+
+  public clearBackupPayChannel() {
+    this.BackupPaychannels = [];
+  }
+
+  public getBackupBouquetList() {
+    return this.BackupBouquetList;
+  }
+
+  public setBackupBouquetList(obj: Object) {
+    this.BackupBouquetList = obj;
+  }
+
+  public clearBackupBouquetList() {
+    this.BackupBouquetList = new Object();
+  }
+  
 }
