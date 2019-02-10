@@ -5,7 +5,6 @@ import { PayChannel } from './paychannel.model';
 import { PaychannelService } from './paychannel.service';
 import { LocalStorageService } from '../local-storage.service';
 
-import { CustomPayPipe } from './custompay.pipes';
 import { FormsModule } from '@angular/forms';
 
 @Component({
@@ -13,15 +12,26 @@ import { FormsModule } from '@angular/forms';
   templateUrl: './paychannel.component.html',
   styleUrls: ['./paychannel.component.css']
 })
+
 export class PaychannelComponent implements OnInit {
 
-  paychannels: Array<PayChannel> = []; //Paychannel[];
+  channelLangs: Array<String> = [ 'Assamese', 'Bangla', 'Bhojpuri', 'English', 'English/Hindi', 'Gujarati',
+   'Hindi', 'Japanese', 'Kannada', 'Malayalam', 'Marathi', 'Odia', 'Punjabi', 'Tamil', 'Telugu', 'Urdu'];
+  channelCats: Array<String> = [ 'Devotional' , 'GEC' , 'Infotainment' , 'Kids' , 'Lifestyle'
+    , 'Movies' , 'Music' , 'News' , 'Sports' , 'Miscellaneous'];
+  channelBroadcasters: Array<String> = [ ];
+
+  paychannels: Array<PayChannel> = []; // Paychannel[];
   memorypaychannels: Array<PayChannel> = [];
-  stringArrPaychannels: Array<String> = [];
-  query: string = '';
-  filterBroadcaster: string = '';
-  ChannelCount: number = 0;
-  priceChannelUser: string = "";
+  StringArrPaychannels: Array<String> = [];
+  query: String = '';
+  filterHD: String = '';
+  filterCategory: String = '';
+  filterLang: String = '';
+  filterBroadcaster: String = '';
+  filterPrice: String = '';
+  ChannelCount = 0;
+  priceChannelUser: String = '';
 
   constructor(private router: Router,
     private aService: PaychannelService,
@@ -31,34 +41,34 @@ export class PaychannelComponent implements OnInit {
 
   ngOnInit() {
     this.paychannels = [];
-    this.stringArrPaychannels = [];
+    this.StringArrPaychannels = [];
     this.memorypaychannels = this.localStorageService.getPayChannel();
-    //this.ChannelCount = this.localStorageService.getPayChannel().length;
+    // this.ChannelCount = this.localStorageService.getPayChannel().length;
     this.calculateBillPage();
 
     for (let j = 0; j < this.memorypaychannels.length; j++) {
-      this.stringArrPaychannels.push(this.memorypaychannels[j].Channel)
+      this.StringArrPaychannels.push(this.memorypaychannels[j].Channel);
     }
-    // console.log('this.stringArrPaychannels.length  --> ' + this.stringArrPaychannels.length);
+    // console.log('this.StringArrPaychannels.length  --> ' + this.StringArrPaychannels.length);
 
-    let data = this.localStorageService.getBackupPayChannel();
-    if (data.length == 0) {
-      console.log('WebService --> getPayChannel');
+    const data = this.localStorageService.getBackupPayChannel();
+    if (data.length === 0) {
+
       this.aService.getPayChannel()
-        .subscribe(data => {
-          //this.paychannels = data;
+        .subscribe( ( data: PayChannel[] ) => {
+          // this.paychannels = data;
 
           this.localStorageService.setBackupPayChannel(data);
 
           for (let i = 0; i < data.length; i++) {
-            let v: PayChannel = data[i];
+            const v: PayChannel = data[i];
             v.idPayChannel = i + 1;
 
             if (this.memorypaychannels.length > 0) {
-              //console.log('index  --> ' + this.stringArrPaychannels.indexOf(v.Channel));
-              if (this.stringArrPaychannels.indexOf(v.Channel) != -1) {
+              // console.log('index  --> ' + this.StringArrPaychannels.indexOf(v.Channel));
+              if (this.StringArrPaychannels.indexOf(v.Channel) !== -1) {
                 v.color = true;
-                //console.log('--> ' + v.Channel);
+                // console.log('--> ' + v.Channel);
               } else {
                 v.color = false;
               }
@@ -68,18 +78,18 @@ export class PaychannelComponent implements OnInit {
             }
             this.paychannels.push(v);
           }
-          // console.log('-->' + JSON.stringify(this.paychannels));
+          // console.log('-->' + JSON.Stringify(this.paychannels));
         });
     } else {
       for (let i = 0; i < data.length; i++) {
-        let v: PayChannel = data[i];
+        const v: PayChannel = data[i];
         v.idPayChannel = i + 1;
 
         if (this.memorypaychannels.length > 0) {
-          //console.log('index  --> ' + this.stringArrPaychannels.indexOf(v.Channel));
-          if (this.stringArrPaychannels.indexOf(v.Channel) != -1) {
+          // console.log('index  --> ' + this.StringArrPaychannels.indexOf(v.Channel));
+          if (this.StringArrPaychannels.indexOf(v.Channel) !== -1) {
             v.color = true;
-            //console.log('--> ' + v.Channel);
+            // console.log('--> ' + v.Channel);
           } else {
             v.color = false;
           }
@@ -92,8 +102,17 @@ export class PaychannelComponent implements OnInit {
     }
   }
 
+  refreshFilter(): void {
+    this.query = '';
+    this.filterHD = '';
+    this.filterCategory = '';
+    this.filterLang = '';
+    this.filterBroadcaster = '';
+    this.filterPrice = '';
+ }
+
   refreshPage(): void {
-     this.localStorageService.clearBackupPayChannel();
+    this.localStorageService.clearBackupPayChannel();
     this.ngOnInit();
   }
 
@@ -116,14 +135,14 @@ export class PaychannelComponent implements OnInit {
   }
 
   calculateBillPage(): void {
-    let aListChannel = this.localStorageService.getPayChannel();
+    const aListChannel = this.localStorageService.getPayChannel();
     this.ChannelCount = aListChannel.length;
 
     let price = 0;
-    let billCount: number = 0;
+    let billCount = 0;
     for (let j = 0; j < aListChannel.length; j++) {
       // console.log('price -->' + aListChannel[j].price);
-      price = (price + parseFloat(aListChannel[j].price));
+      price = (price + parseFloat(aListChannel[j].price.toString()));
       if (aListChannel[j].HD === 'HD') {
         billCount = billCount + 2;
       } else {

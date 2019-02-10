@@ -16,22 +16,22 @@ export class BouquetComponent implements OnInit {
 
   memorybouquetList: Array<BouquetList> = [];
   BroadcasterList = [];
-  //channelNameArr = [];
+  // channelNameArr = [];
 
-  query: string = '';
-  filterBroadcaster: string = '';
-  priceChannelUser: string = '0';
+  query: String = '';
+  filterBroadcaster: String = '';
+  priceChannelUser: String = '0';
 
   constructor(private router: Router,
     private aService: BouquetlistService,
     private localStorageService: LocalStorageService) { }
 
   ngOnInit() {
-    let data = this.localStorageService.getBackupBouquetList();
-    console.log('WebService --> getChannel' + JSON.stringify(data));
+    const data = this.localStorageService.getBackupBouquetList();
+
     if (Object.keys(data).length === 0) {
       this.aService.getChannel()
-        .subscribe(data => {
+        .subscribe((data: Object) => {
           this.localStorageService.setBackupBouquetList(data);
           this.callWebService(data);
         });
@@ -44,33 +44,33 @@ export class BouquetComponent implements OnInit {
   callWebService(data: Object): void {
 
     this.BroadcasterList = [];
-    //this.channelNameArr = [];
-    let aListChannel = this.localStorageService.getBouquetList();
+    // this.channelNameArr = [];
+    const aListChannel = this.localStorageService.getBouquetList();
 
     for (let i = 0; i < Object.keys(data).length; i++) {
 
-      let BroadcastArr = [];
-      //console.log('i --> ' + Object.keys(data)[i] + '\n'+ JSON.stringify(data[Object.keys(data)[i]]));
+      const BroadcastArr = [];
+      // console.log('i --> ' + Object.keys(data)[i] + '\n'+ JSON.stringify(data[Object.keys(data)[i]]));
 
-      let obj = data[Object.keys(data)[i]];
+      const obj = data[Object.keys(data)[i]];
       for (let j = 0; j < Object.keys(obj).length; j++) {
-        //console.log('j --> ' + Object.keys(obj)[j] + '\n'+ JSON.stringify(obj[Object.keys(obj)[j]]));
-        let cobj = obj[Object.keys(obj)[j]];
-        //console.log('cobj --> ' + Object.keys(obj)[j] + cobj["Bouquetprice"][0]["bouquetprice"]);
+        // console.log('j --> ' + Object.keys(obj)[j] + '\n'+ JSON.stringify(obj[Object.keys(obj)[j]]));
+        const cobj = obj[Object.keys(obj)[j]];
+        // console.log('cobj --> ' + Object.keys(obj)[j] + cobj['Bouquetprice'][0]['bouquetprice']);
 
-        let channelsArr = [];
-        let channels = cobj["Channels"];
+        const channelsArr = [];
+        const channels = cobj['Channels'];
         for (let k = 0; k < channels.length; k++) {
-          //console.log('cobj channel--> ' + channels[k]["Channel"]);
-          let channelObj = {
+          // console.log('cobj channel--> ' + channels[k]['Channel']);
+          const channelObj = {
             index: (k + 1),
-            channel: channels[k]["Channel"],
-            price: channels[k]["price"],
+            channel: channels[k]['Channel'],
+            price: channels[k]['price'],
           };
           channelsArr.push(channelObj);
         }
 
-        let isBuy: boolean = false;
+        let isBuy: Boolean = false;
         for (let m = 0; m < aListChannel.length; m++) {
           if (Object.keys(obj)[j] === aListChannel[m].bouque &&
             Object.keys(data)[i] === aListChannel[m].broadcaster) {
@@ -81,20 +81,20 @@ export class BouquetComponent implements OnInit {
           // console.log('cobj channel--> '+ isBuy + ' ' + Object.keys(obj)[j] + ' '+ Object.keys(data)[i]);
         }
 
-        let packObj = {
+        const packObj = {
           index: (j + 1),
           bouquetname: Object.keys(obj)[j],
-          bouquetprice: cobj["Bouquetprice"][0]["bouquetprice"],
+          bouquetprice: cobj['Bouquetprice'][0]['bouquetprice'],
           channelsCount: channelsArr.length,
           show: false,
           channelsArr: channelsArr,
           buy: isBuy
         };
-        //this.channelNameArr.push(Object.keys(obj)[j]);
+        // this.channelNameArr.push(Object.keys(obj)[j]);
         BroadcastArr.push(packObj);
       }
 
-      let broadcasterObj = {
+      const broadcasterObj = {
         index: (i + 1),
         broadcastname: Object.keys(data)[i],
         broadcastArr: BroadcastArr
@@ -106,28 +106,28 @@ export class BouquetComponent implements OnInit {
   }
 
   getVisibility(obj: Object, no: number, index: number): void {
-    //console.log(b["show"] + ' --> ' + JSON.stringify(this.BroadcasterList[no]["broadcastArr"][index]["show"]));
-    this.BroadcasterList[no]["broadcastArr"][index]["show"] = !(obj["show"]);
+    // console.log(b['show'] + ' --> ' + JSON.stringify(this.BroadcasterList[no]['broadcastArr'][index]['show']));
+    this.BroadcasterList[no]['broadcastArr'][index]['show'] = !(obj['show']);
   }
 
   getBuy(obj: Object, no: number, index: number): void {
-    this.BroadcasterList[no]["broadcastArr"][index]["buy"] = !(obj["buy"]);
+    this.BroadcasterList[no]['broadcastArr'][index]['buy'] = !(obj['buy']);
 
-    let myObj = new BouquetList();;
-    myObj.broadcaster = this.BroadcasterList[no]["broadcastname"] + '';
-    myObj.bouque = obj["bouquetname"] + '';
-    myObj.channelcount = obj["channelsCount"];
+    const myObj = new BouquetList();
+    myObj.broadcaster = this.BroadcasterList[no]['broadcastname'] + '';
+    myObj.bouque = obj['bouquetname'] + '';
+    myObj.channelcount = obj['channelsCount'];
     let hdno = 0;
-    for (let k = 0; k < obj["channelsArr"].length; k++) {
-      let s = obj["channelsArr"][k]["channel"] + '';
-      if (s.toLowerCase().includes("hd")) {
+    for (let k = 0; k < obj['channelsArr'].length; k++) {
+      const s = obj['channelsArr'][k]['channel'] + '';
+      if (s.toLowerCase().includes('hd')) {
         hdno = hdno + 1;
       }
     }
     myObj.hdcount = hdno;
-    myObj.price = obj["bouquetprice"];
+    myObj.price = obj['bouquetprice'];
 
-    //console.log('obj  --> ' + JSON.stringify(obj) + '\n-->' + JSON.stringify(myObj));
+    // console.log('obj  --> ' + JSON.stringify(obj) + '\n-->' + JSON.stringify(myObj));
     this.localStorageService.setBouquetList(myObj);
 
     this.calculation();
@@ -135,11 +135,11 @@ export class BouquetComponent implements OnInit {
 
   calculation(): void {
 
-    let aListChannel = this.localStorageService.getBouquetList();
+    const aListChannel = this.localStorageService.getBouquetList();
     let price = 0;
     let billCount = 0;
     for (let j = 0; j < aListChannel.length; j++) {
-      price = (price + parseFloat(aListChannel[j].price));
+      price = (price + parseFloat(aListChannel[j].price.toString()));
       billCount = billCount + aListChannel[j].channelcount + aListChannel[j].hdcount;
     }
     this.priceChannelUser = price + ' ₹ [ ' + billCount + ' ]';

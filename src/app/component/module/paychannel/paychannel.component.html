@@ -1,73 +1,190 @@
 <h2>Pay Channel</h2>
 
 <div class="panel-heading-default row container">
-	<h6 style="margin-top:10px;">
-		Selected Channel = {{ChannelCount}} &nbsp;&nbsp; Channel Price = {{priceChannelUser}}
-	</h6>
+  <h6 style="margin-top:10px; margin-bottom:10px;">
+    <!--  Selected Channel = {{ ChannelCount }} &nbsp;&nbsp;  -->
+    Channel Price = {{ priceChannelUser }}
+  </h6>
 
-	<input style="margin-left:20px" type="text" [(ngModel)]="query" placeholder="Search">
+  <input
+    style="margin-left:20px; margin-bottom:10px;"
+    type="text"
+    [(ngModel)]="query"
+    placeholder="Search"
+  />
 
-    <select [(ngModel)]="filterBroadcaster" id="filterBroadcaster" value="1" style="margin-left:20px">
-        <option value="" selected>All</option>
-        <option value="SD">SD</option>
-        <option value="HD">HD</option>
-    </select>
+  <select
+    [(ngModel)]="filterHD"
+    id="filterHD"
+    value="1"
+    style="margin-left:10px; margin-bottom:10px;"
+  >
+    <option value="" selected>All SD/HD</option>
+    <option value="SD">SD</option>
+    <option value="HD">HD</option>
+  </select>
 
-    <a (click)="refreshPage()">
-        <button style="margin-left:20px" class="btn btn-info pull-right"> Refresh </button>
-    </a>
-    <a (click)="Clearpaychannel()">
-        <button style="margin-left:20px" class="btn btn-warning pull-right"> Clear </button>
-    </a>
+  <!-- <select
+  [(ngModel)]="filterPrice"
+  id="filterPrice"
+  value="1"
+  style="margin-left:20px; margin-bottom:10px;"
+>
+  <option selected>All Price</option>
+  <option value="5">Below 5</option>
+  <option value="10">Below 10</option>
+  <option value="15">Below 15</option>
+  <option value="20">Below 20</option>
+</select>
+
+<select
+  [(ngModel)]="filterBroadcaster"
+  id="filterBroadcaster"
+  value="1"
+  style="margin-left:20px; margin-bottom:10px;"
+>
+  <option value="" selected>All Broadcaster</option>
+  <option
+    *ngFor="let channelBroadcaster of channelBroadcasters"
+    value="{{ channelBroadcaster }}"
+    >{{ channelBroadcaster }}</option
+  >
+</select> -->
+
+  <select
+    [(ngModel)]="filterLang"
+    id="filterLang"
+    value="1"
+    style="margin-left:20px; margin-bottom:10px;"
+  >
+    <option value="" selected>All Language</option>
+    <option
+      *ngFor="let channelLang of channelLangs"
+      value="{{ channelLang }}"
+      >{{ channelLang }}</option
+    >
+  </select>
+
+  <select
+    [(ngModel)]="filterCategory"
+    id="filterCategory"
+    value="1"
+    style="margin-left:20px; margin-bottom:10px;"
+  >
+    <option value="" selected>All Category</option>
+    <option *ngFor="let channelCat of channelCats" value="{{ channelCat }}">
+      {{ channelCat }}</option
+    >
+  </select>
+
+  <button
+    (click)="refreshFilter()"
+    style="margin-left:20px; margin-bottom:10px;"
+    class="btn btn-success pull-right"
+  >
+    Reset Filter
+  </button>
+
+  <button
+  (click)="refreshPage()"
+  style="margin-left:20px; margin-bottom:10px;"
+  class="btn btn-info pull-right"
+>
+  Refresh
+</button>
+
+<button
+  (click)="Clearpaychannel()"
+  style="margin-left:20px; margin-bottom:10px;"
+  class="btn btn-warning pull-right"
+>
+  Clear
+</button>
 </div>
 
-<mat-progress-spinner mode="indeterminate" color="accent" *ngIf="paychannels?.length == 0"></mat-progress-spinner>
+<div *ngIf="paychannels?.length === 0" style="text-align: center;">
+  <div class="loader"></div>
+</div>
 
-<br/>
 <div class="row">
-    <div class="col-auto mb-3" *ngFor="let paychannel of paychannels | startsWith : query : filterBroadcaster  ; let i = index" [attr.data-index]="i" (click)="OnMatCardClickEvent(paychannel, i)">
-        <div class="card" style="height: 100%; width: 18rem;">
-
-            <div *ngIf="paychannel.color == true; else loggedOut">
-                <div class="card-body" style="background:lightskyblue;">
-                    <h6 class="card-subtitle mb-2">{{paychannel.Channel}}</h6>
-                    <table>
-                        <tr>
-                            <td>
-                                <figure *ngIf="paychannel!= null" class="card__thumbnail">
-                                    <img src="https://channel.trai.gov.in/{{paychannel.imageurl}}" alt="{{paychannel.Broadcaster}}" width="50px" height="50px">
-                                </figure>
-                            </td>
-                            <td>
-                                 <p style="margin-left:10px"><i>{{paychannel.category}}</i>  | <b>{{paychannel.HD}}</b> 
-                                <span class="pull-right" style="color: blueviolet;">{{paychannel.price}} ₹</span>
-                                <br/> {{paychannel.Broadcaster}}</p>
-                            </td>
-                        </tr>
-                    </table>
-                </div>
-            </div>
-            <ng-template #loggedOut>
-                <div class="card-body">
-                    <h6 class="card-subtitle mb-2">{{paychannel.Channel}}</h6>
-                    <table>
-                        <tr>
-                            <td>
-                                <figure *ngIf="paychannel!= null" class="card__thumbnail">
-                                    <img src="https://channel.trai.gov.in/{{paychannel.imageurl}}" alt="{{paychannel.Broadcaster}}" width="50px" height="50px">
-                                </figure>
-                            </td>
-                            <td>
-                                <p style="margin-left:10px"><i>{{paychannel.category}}</i>  | <b>{{paychannel.HD}}</b> 
-                                <span class="pull-right" style="color: blueviolet;">{{paychannel.price}} ₹</span>
-                                <br/> {{paychannel.Broadcaster}}</p>
-                            </td>
-                        </tr>
-                    </table>
-                </div>
-            </ng-template>
+  <div
+    style="margin-top:10px;"
+    class="col-auto mb-3"
+    *ngFor="
+      let paychannel of (paychannels
+        | CustomPayPipe
+          : query
+          : filterHD
+          : filterCategory
+          : filterLang
+          : filterBroadcaster
+          : filterPrice);
+      let i = index
+    "
+    [attr.data-index]="i"
+    (click)="OnMatCardClickEvent(paychannel, i)"
+  >
+    <div class="card" style="height: 100%; width: 18rem;">
+      <div *ngIf="paychannel.color == true; else loggedOut">
+        <div class="card-body" style="background:lightskyblue;">
+          <h6 class="card-subtitle mb-2">{{ paychannel.Channel }}</h6>
+          <table>
+            <tr>
+              <td>
+                <figure *ngIf="paychannel != null" class="card__thumbnail">
+                  <img
+                    src="https://channel.trai.gov.in/{{ paychannel.imageurl }}"
+                    alt="{{ paychannel.Broadcaster }}"
+                    width="50px"
+                    height="50px"
+                  />
+                </figure>
+              </td>
+              <td>
+                <p style="margin-left:10px">
+                  <i>{{ paychannel.category }}</i> | <b>{{ paychannel.HD }}</b>
+                  <span class="pull-right" style="color: blueviolet;"
+                    >{{ paychannel.price }} ₹</span
+                  >
+                  <br />
+                  {{ paychannel.Broadcaster }}
+                </p>
+              </td>
+            </tr>
+          </table>
         </div>
+      </div>
+      <ng-template #loggedOut>
+        <div class="card-body">
+          <h6 class="card-subtitle mb-2">{{ paychannel.Channel }}</h6>
+          <table>
+            <tr>
+              <td>
+                <figure *ngIf="paychannel != null" class="card__thumbnail">
+                  <img
+                    src="https://channel.trai.gov.in/{{ paychannel.imageurl }}"
+                    alt="{{ paychannel.Broadcaster }}"
+                    width="50px"
+                    height="50px"
+                  />
+                </figure>
+              </td>
+              <td>
+                <p style="margin-left:10px">
+                  <i>{{ paychannel.category }}</i> | <b>{{ paychannel.HD }}</b>
+                  <span class="pull-right" style="color: blueviolet;"
+                    >{{ paychannel.price }} ₹</span
+                  >
+                  <br />
+                  {{ paychannel.Broadcaster }}
+                </p>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </ng-template>
     </div>
+  </div>
 </div>
 
 <!-- <div>

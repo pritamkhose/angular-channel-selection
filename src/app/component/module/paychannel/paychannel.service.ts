@@ -11,7 +11,7 @@ export class PaychannelService {
   private aUrl = 'https://angular-db-fa163.firebaseio.com/TRAIChannel/paychannel';
 
   public getPayChannel() {
-    //console.log('get List --> ' + this.aUrl + '.json');
+    console.log('get List --> ' + this.aUrl + '.json');
     return this.http.get<PayChannel[]>(this.aUrl + '.json');
   }
 

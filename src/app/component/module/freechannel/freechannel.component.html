@@ -1,27 +1,43 @@
 <h2>Free Channel</h2>
 
 <div class="panel-heading-default row container">
-    <h6 style="margin-top:10px;">
-		Selected Channel = {{ChannelCount}}
-	</h6>
+  <h6 style="margin-top:10px; margin-bottom:10px;">Selected Channel = {{ ChannelCount }}</h6>
 
-    <input style="margin-left:20px" type="text" [(ngModel)]="query" placeholder="Search">
+  <input
+    style="margin-left:20px; margin-bottom:10px;"
+    type="text"
+    [(ngModel)]="query"
+    placeholder="Search"
+  />
 
-    <select [(ngModel)]="filterBroadcaster" id="filterBroadcaster" value="1" style="margin-left:20px">
-        <option value="" selected>All</option>
-        <option value="NEWS">NEWS</option>
-        <option value="NON-NEWS">NON-NEWS</option>
-    </select>
+  <select
+    [(ngModel)]="filterBroadcaster"
+    id="filterBroadcaster"
+    value="1"
+    style="margin-left:20px; margin-bottom:10px;"
+  >
+    <option value="" selected>All</option>
+    <option value="NEWS">NEWS</option>
+    <option value="NON-NEWS">NON-NEWS</option>
+  </select>
 
-    <a (click)="refreshPage()">
-        <button style="margin-left:20px" class="btn btn-info pull-right"> Refresh </button>
-    </a>
-    <a (click)="ClearFreeChannel()">
-        <button style="margin-left:20px" class="btn btn-warning pull-right"> Clear </button>
-    </a>
+  <a (click)="refreshPage()">
+    <button style="margin-left:20px; margin-bottom:10px;" class="btn btn-info pull-right">
+      Refresh
+    </button>
+  </a>
+  <a (click)="ClearFreeChannel()">
+    <button style="margin-left:20px; margin-bottom:10px;" class="btn btn-warning pull-right">
+      Clear
+    </button>
+  </a>
 </div>
 
-<mat-progress-spinner mode="indeterminate" color="accent" *ngIf="freechannels?.length == 0"></mat-progress-spinner>
+<!-- <mat-progress-spinner
+  mode="indeterminate"
+  color="accent"
+  *ngIf="freechannels?.length == 0"
+></mat-progress-spinner> -->
 
 <!-- <ngx-spinner
   bdColor="rgba(51,51,51,0.8)"
@@ -31,49 +47,72 @@
       <p style="font-size: 20px; color: white">Loading...</p>
 </ngx-spinner> -->
 
-<!-- style="width: 24rem" -->
-<br/>
-<br/>
-<div class="row">
-    <div class="col-auto mb-3" *ngFor="let freechannel of freechannels | startsWith : query : filterBroadcaster  ; let i = index" [attr.data-index]="i" (click)="OnMatCardClickEvent(freechannel, i)">
-        <div class="card" style="height: 100%; width: 18rem;">
+<div *ngIf="freechannels?.length === 0" style="text-align: center;">
+    <div class="loader"></div>
+</div>
 
-            <div *ngIf="freechannel.color == true; else loggedOut">
-                <div class="card-body" style="background:lightskyblue;">
-                    <h6 class="card-subtitle mb-2">{{freechannel.Channel}}</h6>
-                    <table>
-                        <tr>
-                            <td>
-                                <figure *ngIf="freechannel!= null" class="card__thumbnail">
-                                    <img src="https://channel.trai.gov.in/{{freechannel.imageurl}}" alt="{{freechannel.Broadcaster}}" width="50px" height="50px">
-                                </figure>
-                            </td>
-                            <td>
-                                <p style="margin-left:10px"><i>{{freechannel.category}}</i>
-                                    <br/> {{freechannel.Broadcaster}}</p>
-                            </td>
-                        </tr>
-                    </table>
-                </div>
-            </div>
-            <ng-template #loggedOut>
-                <div class="card-body">
-                    <h6 class="card-subtitle mb-2">{{freechannel.Channel}}</h6>
-                    <table>
-                        <tr>
-                            <td>
-                                <figure *ngIf="freechannel!= null" class="card__thumbnail">
-                                    <img src="https://channel.trai.gov.in/{{freechannel.imageurl}}" alt="{{freechannel.Broadcaster}}" width="50px" height="50px">
-                                </figure>
-                            </td>
-                            <td>
-                                <p style="margin-left:10px"><i>{{freechannel.category}}</i>
-                                    <br/> {{freechannel.Broadcaster}}</p>
-                            </td>
-                        </tr>
-                    </table>
-                </div>
-            </ng-template>
+<div class="row">
+  <div
+  style="margin-top:10px;"
+    class="col-auto mb-3"
+    *ngFor="
+      let freechannel of (freechannels | startsWith: query:filterBroadcaster);
+      let i = index
+    "
+    [attr.data-index]="i"
+    (click)="OnMatCardClickEvent(freechannel, i)"
+  >
+    <div class="card" style="height: 100%; width: 18rem;">
+      <div *ngIf="freechannel.color == true; else loggedOut">
+        <div class="card-body" style="background:lightskyblue;">
+          <h6 class="card-subtitle mb-2">{{ freechannel.Channel }}</h6>
+          <table>
+            <tr>
+              <td>
+                <figure *ngIf="freechannel != null" class="card__thumbnail">
+                  <img
+                    src="https://channel.trai.gov.in/{{ freechannel.imageurl }}"
+                    alt="{{ freechannel.Broadcaster }}"
+                    width="50px"
+                    height="50px"
+                  />
+                </figure>
+              </td>
+              <td>
+                <p style="margin-left:10px">
+                  <i>{{ freechannel.category }}</i> <br />
+                  {{ freechannel.Broadcaster }}
+                </p>
+              </td>
+            </tr>
+          </table>
         </div>
+      </div>
+      <ng-template #loggedOut>
+        <div class="card-body">
+          <h6 class="card-subtitle mb-2">{{ freechannel.Channel }}</h6>
+          <table>
+            <tr>
+              <td>
+                <figure *ngIf="freechannel != null" class="card__thumbnail">
+                  <img
+                    src="https://channel.trai.gov.in/{{ freechannel.imageurl }}"
+                    alt="{{ freechannel.Broadcaster }}"
+                    width="50px"
+                    height="50px"
+                  />
+                </figure>
+              </td>
+              <td>
+                <p style="margin-left:10px">
+                  <i>{{ freechannel.category }}</i> <br />
+                  {{ freechannel.Broadcaster }}
+                </p>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </ng-template>
     </div>
+  </div>
 </div>

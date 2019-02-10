@@ -1,8 +1,10 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+// https://material.angular.io/guide/getting-started
 import { MatNativeDateModule } from '@angular/material';
 import { HttpClientModule } from "@angular/common/http";
+// https://www.npmjs.com/package/ngx-store
 import { WebStorageModule } from 'ngx-store';
 // https://www.npmjs.com/package/ngx-print
 import { NgxPrintModule } from 'ngx-print';
@@ -10,6 +12,9 @@ import { NgxPrintModule } from 'ngx-print';
 import { NgxSpinnerModule } from 'ngx-spinner';
 // https://www.npmjs.com/package/ngx-device-detector
 import { DeviceDetectorModule } from 'ngx-device-detector';
+
+// https://www.npmjs.com/package/html2canvas
+// https://www.npmjs.com/package/jspdf
 
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -42,8 +47,10 @@ import { CustomBouquetPipe } from './component/module/bouquet/custombouquet.pipe
 
 
 @NgModule({
-  imports: [BrowserModule, FormsModule, AppRoutingModule, MaterialModule, BrowserAnimationsModule, HttpClientModule, WebStorageModule, NgxPrintModule, NgxSpinnerModule,   DeviceDetectorModule.forRoot()],
-  declarations: [AppComponent, NavComponent, FooterComponent, HomeComponent, PaychannelComponent, FreechannelComponent, BouquetComponent, AboutComponent, MycartComponent,
+  imports: [BrowserModule, FormsModule, AppRoutingModule, MaterialModule, BrowserAnimationsModule,
+     HttpClientModule, WebStorageModule, NgxPrintModule, NgxSpinnerModule,   DeviceDetectorModule.forRoot()],
+  declarations: [AppComponent, NavComponent, FooterComponent, HomeComponent,
+    PaychannelComponent, FreechannelComponent, BouquetComponent, AboutComponent, MycartComponent,
     startsWithPipe, CustomPayPipe, CustomBouquetPipe
   ],
   bootstrap: [AppComponent],

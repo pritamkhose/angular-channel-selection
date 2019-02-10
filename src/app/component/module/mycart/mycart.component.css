@@ -24,3 +24,8 @@ text-right{
 .card {
   width: 14rem;
 }
+
+button {
+  margin-left:20px;
+  margin-bottom:10px;
+}

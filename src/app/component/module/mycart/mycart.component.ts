@@ -1,7 +1,7 @@
 import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 
 // https://www.npmjs.com/package/jspdf
-//import jsPDF from 'jspdf';
+import * as jsPDF from 'jspdf';
 import { html2canvas } from 'html2canvas';
 import { DeviceDetectorService } from 'ngx-device-detector';
 
@@ -24,18 +24,18 @@ export class MycartComponent implements OnInit {
   bouquetList: Array<BouquetList> = [];
   mandatorychannels: Array<FreeChannel> = [];
 
-  printbtnshow: boolean = false;
+  printbtnshow: Boolean = false;
 
-  channelCount: string = "";
-  freechannelCount: string = "";
-  priceChannelUser: string = "";
-  hdCount: string = "";
-  sdCount: string = "";
-  billCount: string = "";
-  gstAmt: string = "";
-  ncf: number = 0;
-  channelPrice: number = 0;
-  bouquetPrice: number = 0;
+  channelCount: String = '';
+  freechannelCount: String = '';
+  priceChannelUser: String = '';
+  hdCount: String = '';
+  sdCount: String = '';
+  billCount: String = '';
+  gstAmt: String = '';
+  ncf = 0;
+  channelPrice = 0;
+  bouquetPrice = 0;
 
   @ViewChild('printhtml') d1: ElementRef;
 
@@ -52,10 +52,10 @@ export class MycartComponent implements OnInit {
     this.bouquetList = this.localStorageService.getBouquetList();
     this.mandatorychannels = this.localStorageService.getMandatoryChannel();
 
-    if (this.mandatorychannels.length == 0) {
+    if (this.mandatorychannels.length === 0) {
       this.mandatorychannelService.getChannel()
         .subscribe(data => {
-          // console.log('-->' + JSON.stringify(data));
+          // console.log('-->' + JSON.Stringify(data));
           this.mandatorychannels = data;
           this.localStorageService.setMandatoryChannel(this.mandatorychannels);
           this.calculateBillPage();
@@ -77,20 +77,20 @@ export class MycartComponent implements OnInit {
 
   calculateBillPage(): void {
 
-    let manchannel: number = 25;
+    const manchannel = 25;
 
     // Free Channel
-    let fchannel: number = this.localStorageService.getFreeChannel().length;
+    const fchannel: number = this.localStorageService.getFreeChannel().length;
     this.freechannelCount = fchannel + ' + ' + manchannel + ' = ' + (fchannel + manchannel);
 
     // Paid Channel
-    let aListChannel: PayChannel[] = this.localStorageService.getPayChannel();
+    const aListChannel: PayChannel[] = this.localStorageService.getPayChannel();
     let price = 0;
-    let billCount: number = 0;
-    let hdCountNo: number = 0;
+    let billCount = 0;
+    let hdCountNo = 0;
     for (let j = 0; j < aListChannel.length; j++) {
       // console.log('price -->' + aListChannel[j].price);
-      price = (price + parseFloat(aListChannel[j].price));
+      price = (price + parseFloat(aListChannel[j].price.toString()));
       if (aListChannel[j].HD === 'HD') {
         billCount = billCount + 2;
         hdCountNo = hdCountNo + 1;
@@ -101,18 +101,18 @@ export class MycartComponent implements OnInit {
     this.channelPrice = price;
 
     // BouquetList
-    let aListBouquet = this.localStorageService.getBouquetList();
+    const aListBouquet = this.localStorageService.getBouquetList();
     let priceBouquet = 0;
     let billCountBouquet = 0;
     for (let j = 0; j < aListBouquet.length; j++) {
-      priceBouquet = (priceBouquet + parseFloat(aListBouquet[j].price));
+      priceBouquet = (priceBouquet + parseFloat(aListBouquet[j].price.toString()));
       billCountBouquet = billCountBouquet + aListBouquet[j].channelcount + aListBouquet[j].hdcount;
       hdCountNo = hdCountNo + aListBouquet[j].hdcount;
     }
     this.bouquetPrice = priceBouquet;
 
     // calculation price
-    let paidChannelCount = billCount + billCountBouquet;
+    const paidChannelCount = billCount + billCountBouquet;
     this.channelCount = billCount + ' + ' + billCountBouquet + ' = ' + paidChannelCount;
     billCount = paidChannelCount + fchannel + manchannel;
 
@@ -121,38 +121,38 @@ export class MycartComponent implements OnInit {
     if (billCount > 100) {
       let block: number = ((billCount - 100) / 25);
       // console.log('block -->' + billCount + ' ' + block + ' ' + parseInt(block));
-      if (block > parseInt(block)) {
-        block = parseInt(block) + 1;
+      if (block > parseInt(block.toString(), 0)) {
+        block = parseInt(block.toString(), 0) + 1;
       }
       ncfee = ncfee + (block * 20);
       totalBillCount = 100 + (block * 25);
     }
 
-    let totalPrice = price + priceBouquet + ncfee;
+    const totalPrice = price + priceBouquet + ncfee;
 
     this.ncf = ncfee;
     this.hdCount = hdCountNo + '';
     this.sdCount = (billCount - hdCountNo) + '';
     this.billCount = billCount + ' / ' + totalBillCount;
-    let gst = (totalPrice * 0.18);
+    const gst = (totalPrice * 0.18);
     this.gstAmt = gst.toFixed(2) + '';
     this.priceChannelUser = (totalPrice + gst).toFixed(2) + ' ';
   }
 
   savePDF(): void {
-    var d1 = this.elementRef.nativeElement.querySelector('.printhtml');
-    //console.log('savePDF -->' + d1.innerHTML);
+    const d1 = this.elementRef.nativeElement.querySelector('.printhtml');
+    // console.log('savePDF -->' + d1.innerHTML);
 
-    var doc = new jsPDF('p', 'pt', 'letter');
+    let doc = new jsPDF('p', 'pt', 'letter');
     doc.canvas.height = 72 * 11;
     doc.canvas.width = 72 * 8.5;
     doc.fromHTML(d1, 10, 10);
-    //doc.autoPrint();
+    // doc.autoPrint();
     doc.save('My Channel Selection.pdf');
   }
 
   deviceFunction(): void {
-    if(this.deviceService.isDesktop()){
+    if (this.deviceService.isDesktop()) {
         this.printbtnshow = true;
     }
     // let deviceInfo = this.deviceService.getDeviceInfo();

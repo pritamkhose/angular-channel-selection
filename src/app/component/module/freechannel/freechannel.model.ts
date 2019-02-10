@@ -6,7 +6,7 @@ export class FreeChannel {
   category: string;
   imageurl: string;
   price: number;
-  color: boolean = false;
+  color = false;
 
   /*
    [

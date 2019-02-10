@@ -8,19 +8,20 @@ export class startsWithPipe implements PipeTransform {
     filterBroadcaster: string
   ): any[] {
 
-    var valueArray;
+    let valueArray;
 
-    if (term != undefined && term.length > 0) {
-      valueArray = value.filter((x: any) => x.Broadcaster.toLowerCase().startsWith(term.toLowerCase()) || x.Channel.toLowerCase().startsWith(term.toLowerCase()));
+    if (term !== undefined && term.length > 0) {
+      valueArray = value.filter((x: any) => x.Channel.toLowerCase().startsWith(term.toLowerCase()) ||
+       x.Broadcaster.toLowerCase().startsWith(term.toLowerCase()));
     } else {
       valueArray = value;
     }
 
-    if (filterBroadcaster != undefined && filterBroadcaster.length > 0) {
-      //console.log('filterBroadcaster -->' + filterBroadcaster);
-      valueArray = value.filter((x: any) => x.category.toLowerCase() === (filterBroadcaster.toLowerCase()));
+    if (filterBroadcaster !== undefined && filterBroadcaster.length > 0) {
+      // console.log('filterBroadcaster -->' + filterBroadcaster);
+      valueArray = valueArray.filter((x: any) => x.category.toLowerCase() === (filterBroadcaster.toLowerCase()));
     }
-    
+
     return valueArray;
   }
 

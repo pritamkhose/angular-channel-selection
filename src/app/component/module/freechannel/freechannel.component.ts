@@ -1,12 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-//import { NgxSpinnerService } from 'ngx-spinner';
+// import { NgxSpinnerService } from 'ngx-spinner';
 
 import { FreeChannel } from './freechannel.model';
 import { FreechannelService } from './freechannel.service';
 import { LocalStorageService } from '../local-storage.service';
 
-import { startsWithPipe } from './customstart.pipes';
 import { FormsModule } from '@angular/forms';
 
 @Component({
@@ -16,15 +15,15 @@ import { FormsModule } from '@angular/forms';
 })
 export class FreechannelComponent implements OnInit {
 
-  freechannels: Array<FreeChannel> = []; //FreeChannel[];
+  freechannels: Array<FreeChannel> = []; // FreeChannel[];
   memoryfreechannels: Array<FreeChannel> = [];
-  stringArrfreechannels: Array<String> = [];
-  query: string = '';
-  filterBroadcaster: string = '';
-  ChannelCount: number = 0;
+  StringArrfreechannels: Array<String> = [];
+  query: String = '';
+  filterBroadcaster: String = '';
+  ChannelCount = 0;
 
   constructor(private router: Router,
-    //private spinner: NgxSpinnerService,
+    // private spinner: NgxSpinnerService,
     private aService: FreechannelService,
     private localStorageService: LocalStorageService) {
 
@@ -32,34 +31,33 @@ export class FreechannelComponent implements OnInit {
 
   ngOnInit() {
     this.freechannels = [];
-    this.stringArrfreechannels = [];
+    this.StringArrfreechannels = [];
     this.memoryfreechannels = this.localStorageService.getFreeChannel();
     this.ChannelCount = this.localStorageService.getFreeChannel().length;
 
     for (let j = 0; j < this.memoryfreechannels.length; j++) {
-      this.stringArrfreechannels.push(this.memoryfreechannels[j].Channel)
+      this.StringArrfreechannels.push(this.memoryfreechannels[j].Channel);
     }
 
-    //this.spinner.show();
+    // this.spinner.show();
 
-    let data = this.localStorageService.getBackupFreeChannel();
-    if (data.length == 0) {
-      console.log('WebService --> getFreeChannel');
+    const data = this.localStorageService.getBackupFreeChannel();
+    if (data.length === 0) {
       this.aService.getFreeChannel()
         .subscribe(data => {
-          
+
           this.localStorageService.setBackupFreeChannel(data);
-          //this.spinner.hide();
+          // this.spinner.hide();
 
           for (let i = 0; i < data.length; i++) {
-            let v: FreeChannel = data[i];
+            const v: FreeChannel = data[i];
             v.idFreeChannel = i + 1;
 
             if (this.memoryfreechannels.length > 0) {
-              //console.log('index  --> ' + this.stringArrfreechannels.indexOf(v.Channel));
-              if (this.stringArrfreechannels.indexOf(v.Channel) != -1) {
+              // console.log('index  --> ' + this.StringArrfreechannels.indexOf(v.Channel));
+              if (this.StringArrfreechannels.indexOf(v.Channel) !== -1) {
                 v.color = true;
-                //console.log('--> ' + v.Channel);
+                // console.log('--> ' + v.Channel);
               } else {
                 v.color = false;
               }
@@ -72,16 +70,16 @@ export class FreechannelComponent implements OnInit {
 
         });
     } else {
-       
+
       for (let i = 0; i < data.length; i++) {
-        let v: FreeChannel = data[i];
+        const v: FreeChannel = data[i];
         v.idFreeChannel = i + 1;
 
         if (this.memoryfreechannels.length > 0) {
-          //console.log('index  --> ' + this.stringArrfreechannels.indexOf(v.Channel));
-          if (this.stringArrfreechannels.indexOf(v.Channel) != -1) {
+          // console.log('index  --> ' + this.StringArrfreechannels.indexOf(v.Channel));
+          if (this.StringArrfreechannels.indexOf(v.Channel) !== -1) {
             v.color = true;
-            //console.log('--> ' + v.Channel);
+            // console.log('--> ' + v.Channel);
           } else {
             v.color = false;
           }
@@ -93,7 +91,7 @@ export class FreechannelComponent implements OnInit {
       }
     }
 
-    // console.log('-->' + JSON.stringify(this.freechannels));
+    // console.log('-->' + JSON.Stringify(this.freechannels));
   }
 
   refreshPage(): void {

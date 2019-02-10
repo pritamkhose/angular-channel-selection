@@ -1,7 +1,7 @@
 export class PayChannel {
 
   idPayChannel: number;
-  color: boolean = false;
+  color = false;
 
   Broadcaster: string;
   Channel: string;
