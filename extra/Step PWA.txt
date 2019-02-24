@@ -1,0 +1,22 @@
+Your environment has been set up for using Node.js 8.11.2 (x64) and npm.
+
+C:\Users\Pritam>E:
+
+E:\>cd E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i @angular/pwa
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng add @angular/pwa
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng build --prod
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>cd dist
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\dist>cd angular-channel-selection
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\dist\angular-channel-selection>http-server -o
+Starting up http-server, serving ./ Available on:  http://192.168.230.1:8080
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\dist\angular-channel-selection>

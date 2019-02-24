@@ -44,11 +44,13 @@ import { LocalStorageService } from './component/module/local-storage.service';
 import { startsWithPipe } from './component/module/freechannel/customstart.pipes';
 import { CustomPayPipe } from './component/module/paychannel/custompay.pipes';
 import { CustomBouquetPipe } from './component/module/bouquet/custombouquet.pipes';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 
 @NgModule({
   imports: [BrowserModule, FormsModule, AppRoutingModule, MaterialModule, BrowserAnimationsModule,
-     HttpClientModule, WebStorageModule, NgxPrintModule, NgxSpinnerModule,   DeviceDetectorModule.forRoot()],
+     HttpClientModule, WebStorageModule, NgxPrintModule, NgxSpinnerModule,   DeviceDetectorModule.forRoot(), ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })],
   declarations: [AppComponent, NavComponent, FooterComponent, HomeComponent,
     PaychannelComponent, FreechannelComponent, BouquetComponent, AboutComponent, MycartComponent,
     startsWithPipe, CustomPayPipe, CustomBouquetPipe

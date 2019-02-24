@@ -1,0 +1,52 @@
+https://s3.console.aws.amazon.com/s3/buckets/
+
+------------------------------------------------
+
+Upload Dist file bundle
+
+enable Static website hosting
+put index.html
+
+open URL of website
+------------------------------------------------
+Permission
+
+Public access settings
+make all value - false
+---------------------
+Manage public access control lists (ACLs)
+
+Block new public ACLs and uploading public objects (Recommended)
+False
+Remove public access granted through public ACLs (Recommended)
+False
+Manage public bucket policies
+
+Block new public bucket policies (Recommended)
+False
+Block public and cross-account access if bucket has public policies (Recommended)
+False
+---------------------
+
+s3 bucket -> permission -> bucket poilcy
+
+arn:aws:s3:::channel-selection
+
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::channel-selection/*"
+        }
+    ]
+}
+
+
+save it
+
+---------------------
+

@@ -1,0 +1,163 @@
+Your environment has been set up for using Node.js 8.11.2 (x64) and npm.
+
+C:\Users\Pritam>E:
+
+E:\>cd E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-24T04:47:35.468Z
+Hash: 1662c0c8f5638bfacb0e
+Time: 41808ms
+chunk {main} main.js, main.js.map (main) 121 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 18.2 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.68 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i @angular/pwa
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @angular/pwa@0.13.3
+added 10 packages in 109.558s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng add @angular/pwa
+Installing packages for tooling via npm.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @angular/pwa@0.13.3
+updated 1 package in 31.812s
+Installed packages for tooling via npm.
+CREATE ngsw-config.json (441 bytes)
+CREATE src/manifest.webmanifest (1107 bytes)
+CREATE src/assets/icons/icon-128x128.png (1253 bytes)
+CREATE src/assets/icons/icon-144x144.png (1394 bytes)
+CREATE src/assets/icons/icon-152x152.png (1427 bytes)
+CREATE src/assets/icons/icon-192x192.png (1790 bytes)
+CREATE src/assets/icons/icon-384x384.png (3557 bytes)
+CREATE src/assets/icons/icon-512x512.png (5008 bytes)
+CREATE src/assets/icons/icon-72x72.png (792 bytes)
+CREATE src/assets/icons/icon-96x96.png (958 bytes)
+UPDATE angular.json (4060 bytes)
+UPDATE package.json (1642 bytes)
+UPDATE src/app/app.module.ts (3286 bytes)
+UPDATE src/index.html (2038 bytes)
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+added 1 package in 81.772s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng build --prod
+
+Date: 2019-02-24T05:02:28.042Z
+Hash: 46debde887f1917c7a90
+Time: 184946ms
+chunk {0} runtime.ec2944dd8b20ec099bf3.js (runtime) 1.41 kB [entry] [rendered]
+chunk {1} main.85b0fce6d7fc214222e8.js (main) 1.17 MB [initial] [rendered]
+chunk {2} polyfills.e254f6b9bf511460eb6d.js (polyfills) 41 kB [initial] [rendered]
+chunk {3} styles.121a43ecb0d1b4c3ef57.css (styles) 547 bytes [initial] [rendered]
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>cd dist
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\dist>cd angular-channel-selection
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\dist\angular-channel-selection>http-server -o
+Starting up http-server, serving ./
+Available on:
+  http://192.168.230.1:8080
+  http://192.168.92.1:8080
+  http://192.168.43.11:8080
+  http://127.0.0.1:8080
+Hit CTRL-C to stop the server
+[Sun Feb 24 2019 10:39:22 GMT+0530 (India Standard Time)] "GET /" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 10:39:22 GMT+0530 (India Standard Time)] "GET /styles.121a43ecb0d1b4c3ef57.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 10:39:22 GMT+0530 (India Standard Time)] "GET /runtime.ec2944dd8b20ec099bf3.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 10:39:22 GMT+0530 (India Standard Time)] "GET /main.85b0fce6d7fc214222e8.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 10:39:22 GMT+0530 (India Standard Time)] "GET /polyfills.e254f6b9bf511460eb6d.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 10:39:42 GMT+0530 (India Standard Time)] "GET /ngsw-worker.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
+[Sun Feb 24 2019 10:39:46 GMT+0530 (India Standard Time)] "GET /manifest.webmanifest" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:48 GMT+0530 (India Standard Time)] "GET /ngsw-worker.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:53 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.05204804297901555" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:53 GMT+0530 (India Standard Time)] "GET /index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:53 GMT+0530 (India Standard Time)] "GET /main.85b0fce6d7fc214222e8.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:53 GMT+0530 (India Standard Time)] "GET /styles.121a43ecb0d1b4c3ef57.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:54 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.8791485383855133" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:54 GMT+0530 (India Standard Time)] "GET /ngsw.json?ngsw-cache-bust=0.14185569065048864" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[Sun Feb 24 2019 10:39:57 GMT+0530 (India Standard Time)] "GET /ngsw-worker.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+http-server stopped.
+
+Your environment has been set up for using Node.js 8.11.2 (x64) and npm.
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng build --prod
+
+Date: 2019-02-24T05:58:30.463Z
+Hash: 46debde887f1917c7a90
+Time: 43741ms
+chunk {0} runtime.ec2944dd8b20ec099bf3.js (runtime) 1.41 kB [entry] [rendered]
+chunk {1} main.85b0fce6d7fc214222e8.js (main) 1.17 MB [initial] [rendered]
+chunk {2} polyfills.e254f6b9bf511460eb6d.js (polyfills) 41 kB [initial] [rendered]
+chunk {3} styles.121a43ecb0d1b4c3ef57.css (styles) 547 bytes [initial] [rendered]
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>>npm install enhanced-resolve@3.3.0 --save-dev
+'install' is not recognized as an internal or external command,
+operable program or batch file.
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm install enhanced-resolve@3.3.0 --save-dev
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ enhanced-resolve@3.3.0
+added 3 packages and updated 1 package in 49.289s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm install express path --save
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ express@4.16.4
++ path@0.12.7
+added 2 packages and updated 1 package in 19.661s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm install postinstall --save
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ postinstall@0.4.2
+added 8 packages in 21.146s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i npm-preinstall
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ npm-preinstall@1.0.7
+added 11 packages in 24.068s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng build --prod
+
+Date: 2019-02-24T06:08:07.124Z
+Hash: 46debde887f1917c7a90
+Time: 42835ms
+chunk {0} runtime.ec2944dd8b20ec099bf3.js (runtime) 1.41 kB [entry] [rendered]
+chunk {1} main.85b0fce6d7fc214222e8.js (main) 1.17 MB [initial] [rendered]
+chunk {2} polyfills.e254f6b9bf511460eb6d.js (polyfills) 41 kB [initial] [rendered]
+chunk {3} styles.121a43ecb0d1b4c3ef57.css (styles) 547 bytes [initial] [rendered]
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>

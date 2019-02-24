@@ -1,0 +1,55 @@
+1. In project of Angular 7 run below command
+E:\>cd E:\Code\Java\AngularCLI\PWA\myjokes
+
+2. npm command sucessfully
+E:\Code\Java\AngularCLI\PWA\myjokes>npm install enhanced-resolve@3.3.0 --save-dev
+E:\Code\Java\AngularCLI\PWA\myjokes>npm install express path --save
+E:\Code\Java\AngularCLI\PWA\myjokes>npm install postinstall --save
+E:\Code\Java\AngularCLI\PWA\myjokes>npm i npm-preinstall
+E:\Code\Java\AngularCLI\PWA\myjokes>ng build --prod
+
+
+3. Make changes in Package.json @ root folder
+// Edit under script
+"scripts": {
+    "ng": "ng",
+    "start": "node server.js",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "preinstall": "npm install -g @angular/cli @angular/compiler-cli typescript",
+    "postinstall": "ng build --prod"
+  },
+
+// add 
+ "engines": {
+    "node": "8.11.2",
+    "npm": "5.6.0"
+  }
+
+
+4. Add server.js file to Project folder
+
+//Install express server
+const express = require('express');
+const path = require('path');
+
+const app = express();
+
+// Serve only the static files form the dist directory
+app.use(express.static(__dirname + '/dist/Project_Name')); // <Project_Name> = myjokes
+
+app.get('/*', function(req,res) {
+
+res.sendFile(path.join(__dirname+'/dist/<Project_Name>/index.html')); // <Project_Name> = myjokes
+});
+
+// Start the app by listening on the default Heroku port
+app.listen(process.env.PORT || 8080);
+
+
+5. commit code to Github
+
+6. Congifure that branch with Heroku.com & add as new application
+

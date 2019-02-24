@@ -615,6 +615,9 @@ THE SOFTWARE.
 
 @angular/material/snack-bar
 
+@angular/service-worker
+MIT
+
 ngx-spinner
 MIT
 

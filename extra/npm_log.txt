@@ -1,0 +1,1217 @@
+Your environment has been set up for using Node.js 8.11.2 (x64) and npm.
+
+C:\Users\Pritam>E:
+
+E:\>cd E:\Code\Java\AngularCLI\Channel-Selection
+
+E:\Code\Java\AngularCLI\Channel-Selection>ng new angular-channel-selection
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? CSS
+CREATE angular-channel-selection/angular.json (3939 bytes)
+CREATE angular-channel-selection/package.json (1324 bytes)
+CREATE angular-channel-selection/README.md (1040 bytes)
+CREATE angular-channel-selection/tsconfig.json (435 bytes)
+CREATE angular-channel-selection/tslint.json (2824 bytes)
+CREATE angular-channel-selection/.editorconfig (246 bytes)
+CREATE angular-channel-selection/.gitignore (576 bytes)
+CREATE angular-channel-selection/src/favicon.ico (5430 bytes)
+CREATE angular-channel-selection/src/index.html (310 bytes)
+CREATE angular-channel-selection/src/main.ts (372 bytes)
+CREATE angular-channel-selection/src/polyfills.ts (3694 bytes)
+CREATE angular-channel-selection/src/test.ts (642 bytes)
+CREATE angular-channel-selection/src/styles.css (80 bytes)
+CREATE angular-channel-selection/src/browserslist (388 bytes)
+CREATE angular-channel-selection/src/karma.conf.js (980 bytes)
+CREATE angular-channel-selection/src/tsconfig.app.json (166 bytes)
+CREATE angular-channel-selection/src/tsconfig.spec.json (256 bytes)
+CREATE angular-channel-selection/src/tslint.json (314 bytes)
+CREATE angular-channel-selection/src/assets/.gitkeep (0 bytes)
+CREATE angular-channel-selection/src/environments/environment.prod.ts (51 bytes)
+CREATE angular-channel-selection/src/environments/environment.ts (662 bytes)
+CREATE angular-channel-selection/src/app/app-routing.module.ts (245 bytes)
+CREATE angular-channel-selection/src/app/app.module.ts (393 bytes)
+CREATE angular-channel-selection/src/app/app.component.html (1152 bytes)
+CREATE angular-channel-selection/src/app/app.component.spec.ts (1152 bytes)
+CREATE angular-channel-selection/src/app/app.component.ts (229 bytes)
+CREATE angular-channel-selection/src/app/app.component.css (0 bytes)
+CREATE angular-channel-selection/e2e/protractor.conf.js (752 bytes)
+CREATE angular-channel-selection/e2e/tsconfig.e2e.json (213 bytes)
+CREATE angular-channel-selection/e2e/src/app.e2e-spec.ts (317 bytes)
+CREATE angular-channel-selection/e2e/src/app.po.ts (204 bytes)
+npm WARN deprecated circular-json@0.5.9: CircularJSON is in maintenance only, flatted is its successor.
+
+> node-sass@4.10.0 install E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\node_modules\node-sass
+> node scripts/install.js
+
+Cached binary found at C:\Users\Pritam\AppData\Roaming\npm-cache\node-sass\4.10.0\win32-x64-57_binding.node
+
+> node-sass@4.10.0 postinstall E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\node_modules\node-sass
+> node scripts/build.js
+
+Binary found at E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\node_modules\node-sass\vendor\win32-x64-57\binding.node
+Testing binary
+Binary is fine
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+added 1134 packages in 460.573s
+warning: LF will be replaced by CRLF in .editorconfig.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in angular.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/protractor.conf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/src/app.e2e-spec.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/src/app.po.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in e2e/tsconfig.e2e.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app-routing.module.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.component.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.component.spec.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.component.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/app/app.module.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/browserslist.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/environments/environment.prod.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/environments/environment.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/index.html.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/karma.conf.js.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/main.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/polyfills.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/styles.css.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/test.ts.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/tsconfig.app.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/tsconfig.spec.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/tslint.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in tsconfig.json.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in tslint.json.
+The file will have its original line endings in your working directory.
+    Successfully initialized git.
+
+E:\Code\Java\AngularCLI\Channel-Selection>cd angular-channel-selection
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+ 43% building modules 276/276 modules 0 activei ｢wdm｣: wait until bundle f
+Date: 2019-02-10T08:52:14.628Z
+Hash: 75d5d7562aa5a33f0479
+Time: 13301ms
+chunk {main} main.js, main.js.map (main) 11.6 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.67 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T08:55:11.339Z - Hash: 75d5d7562aa5a33f0479 - Time: 3921ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 70% building modules 7/7 modules 0 active
+ERROR in src/app/app.module.ts(4,37): error TS2307: Cannot find module '@angular/material'.
+src/app/app.module.ts(6,34): error TS2307: Cannot find module 'ngx-store'.
+src/app/app.module.ts(8,32): error TS2307: Cannot find module 'ngx-print'.
+src/app/app.module.ts(10,34): error TS2307: Cannot find module 'ngx-spinner'.
+src/app/app.module.ts(12,38): error TS2307: Cannot find module 'ngx-device-detector'.
+src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/local-storage.service.ts(2,45): error TS2307: Cannot find module 'ngx-store'.
+src/app/component/module/mycart/mycart.component.ts(5,29): error TS2307: Cannot find module 'html2canvas'.
+src/app/component/module/mycart/mycart.component.ts(6,39): error TS2307: Cannot find module 'ngx-device-detector'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/material-module.ts(1,30): error TS2307: Cannot find module '@angular/cdk/drag-drop'.
+src/app/material-module.ts(2,31): error TS2307: Cannot find module '@angular/cdk/scrolling'.
+src/app/material-module.ts(3,30): error TS2307: Cannot find module '@angular/cdk/table'.
+src/app/material-module.ts(4,29): error TS2307: Cannot find module '@angular/cdk/tree'.
+src/app/material-module.ts(42,8): error TS2307: Cannot find module '@angular/material'.
+
+Date: 2019-02-10T08:56:10.200Z - Hash: 1b5e59e8be755e2fe4b1 - Time: 9076ms
+3 unchanged chunks
+chunk {main} main.js, main.js.map (main) 120 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 4.29 MB [initial] [rendered]
+
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/drag-drop' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/scrolling' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/table' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/tree' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/material' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-device-detector' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/component/module/mycart/mycart.component.ts
+Module not found: Error: Can't resolve 'ngx-device-detector' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app\component\module\mycart'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-print' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-spinner' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-store' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+mERROR in ./src/app/component/module/local-storage.service.ts
+Module not found: Error: Can't resolve 'ngx-store' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app\component\module'
+i ｢wdm｣: Failed to compile.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T08:56:13.007Z - Hash: 1b5e59e8be755e2fe4b1 - Time: 2485ms
+5 unchanged chunks
+
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/drag-drop' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/scrolling' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/table' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/cdk/tree' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/material-module.ts
+Module not found: Error: Can't resolve '@angular/material' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-device-detector' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/component/module/mycart/mycart.component.ts
+Module not found: Error: Can't resolve 'ngx-device-detector' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app\component\module\mycart'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-print' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-spinner' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+ERROR in ./src/app/app.module.ts
+Module not found: Error: Can't resolve 'ngx-store' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app'
+mERROR in ./src/app/component/module/local-storage.service.ts
+Module not found: Error: Can't resolve 'ngx-store' in 'E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection\src\app\component\module'
+i ｢wdm｣: Failed to compile.
+
+ERROR in src/app/app.module.ts(4,37): error TS2307: Cannot find module '@angular/material'.
+src/app/app.module.ts(6,34): error TS2307: Cannot find module 'ngx-store'.
+src/app/app.module.ts(8,32): error TS2307: Cannot find module 'ngx-print'.
+src/app/app.module.ts(10,34): error TS2307: Cannot find module 'ngx-spinner'.
+src/app/app.module.ts(12,38): error TS2307: Cannot find module 'ngx-device-detector'.
+src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/local-storage.service.ts(2,45): error TS2307: Cannot find module 'ngx-store'.
+src/app/component/module/mycart/mycart.component.ts(5,29): error TS2307: Cannot find module 'html2canvas'.
+src/app/component/module/mycart/mycart.component.ts(6,39): error TS2307: Cannot find module 'ngx-device-detector'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/material-module.ts(1,30): error TS2307: Cannot find module '@angular/cdk/drag-drop'.
+src/app/material-module.ts(2,31): error TS2307: Cannot find module '@angular/cdk/scrolling'.
+src/app/material-module.ts(3,30): error TS2307: Cannot find module '@angular/cdk/table'.
+src/app/material-module.ts(4,29): error TS2307: Cannot find module '@angular/cdk/tree'.
+src/app/material-module.ts(42,8): error TS2307: Cannot find module '@angular/material'.
+
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm install --save @angular/material @angular/cdk @angular/animations
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @angular/animations@7.1.4
++ @angular/cdk@7.3.1
++ @angular/material@7.3.1
+added 3 packages and updated 1 package in 131.649s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i ngx-print
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ ngx-print@1.1.4
+added 1 package in 17.706s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i ngx-spinner
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ ngx-spinner@7.0.0
+added 1 package in 17.619s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i ngx-device-detector
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ ngx-device-detector@1.3.5
+added 1 package in 15.481s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T09:03:07.146Z
+Hash: aec1c70db88afe5e6551
+Time: 12842ms
+chunk {main} main.js, main.js.map (main) 1.92 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 93.1 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 327 kB [initial] [rendered]
+
+ERROR in src/app/app.module.ts(6,34): error TS2307: Cannot find module 'ngx-store'.
+src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/local-storage.service.ts(2,45): error TS2307: Cannot find module 'ngx-store'.
+src/app/component/module/mycart/mycart.component.ts(5,29): error TS2307: Cannot find module 'html2canvas'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: Failed to compile.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i ngx-store
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ ngx-store@2.1.0
+added 6 packages in 22.425s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T09:04:43.683Z
+Hash: b05a055fac959cbe4eb5
+Time: 12816ms
+chunk {main} main.js, main.js.map (main) 1.92 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 93.1 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 327 kB [initial] [rendered]
+
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(5,29): error TS2307: Cannot find module 'html2canvas'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: Failed to compile.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i html2canvas
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ html2canvas@1.0.0-alpha.12
+added 2 packages in 27.958s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>npm i jspdf
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/common@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ngx-spinner@7.0.0 requires a peer of @angular/core@^7.2.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.7 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.7: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ jspdf@1.5.3
+added 25 packages in 51.634s
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T09:08:36.868Z
+Hash: 176b1be7ea1a72b9fda9
+Time: 14222ms
+chunk {main} main.js, main.js.map (main) 1.92 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 93.1 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 327 kB [initial] [rendered]
+
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: Failed to compile.
+i ｢wdm｣: Compiling...
+ 11% building modules 2/2 modules 0 active
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T09:59:27.952Z - Hash: c70ff2309b598cd11d92 - Time: 57673ms
+2 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.39 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: wait until bundle finished: /
+Date: 2019-02-10T09:59:43.279Z - Hash: c70ff2309b598cd11d92 - Time: 14795ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T09:59:53.344Z - Hash: c70ff2309b598cd11d92 - Time: 5008ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:02:08.476Z - Hash: d08aa12d8d48c905f5a7 - Time: 4927ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:02:17.708Z - Hash: d08aa12d8d48c905f5a7 - Time: 3700ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:04:11.977Z - Hash: d08aa12d8d48c905f5a7 - Time: 4657ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: wait until bundle finished: /
+Date: 2019-02-10T10:04:16.015Z - Hash: b7f226aba9d34bba726d - Time: 3787ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:04:34.516Z - Hash: 6c42538de13a3ea42e20 - Time: 3360ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:04:50.495Z - Hash: aa7d39b656c18b6865c8 - Time: 3327ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:05:06.307Z - Hash: aa7d39b656c18b6865c8 - Time: 3170ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/bouquet/bouquet.component.ts(142,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:06:45.982Z - Hash: e448e2f8a3506358060d - Time: 4455ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:07:23.336Z - Hash: 6f3c0ccb7b54dcb95934 - Time: 3854ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:08:57.436Z - Hash: 6f3c0ccb7b54dcb95934 - Time: 4206ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(93,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(108,49): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,28): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:11:04.985Z - Hash: b7b53f5d00c2b6b5c542 - Time: 3930ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,28): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,19): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:13:17.863Z - Hash: 2913e424a0a38310155a - Time: 3774ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,30): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:14:08.728Z - Hash: 2913e424a0a38310155a - Time: 3095ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,30): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:14:15.637Z - Hash: b36fc2df7905237cc6f7 - Time: 2366ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,30): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:15:00.542Z - Hash: b36fc2df7905237cc6f7 - Time: 3270ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,30): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: wait until bundle finished: /
+Date: 2019-02-10T10:15:02.849Z - Hash: b36fc2df7905237cc6f7 - Time: 2071ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+i ｢wdm｣: wait until bundle finished: /runtime.js
+i ｢wdm｣: wait until bundle finished: /polyfills.js
+i ｢wdm｣: wait until bundle finished: /styles.js
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,30): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: wait until bundle finished: /vendor.js
+i ｢wdm｣: wait until bundle finished: /main.js
+Date: 2019-02-10T10:15:05.432Z - Hash: b36fc2df7905237cc6f7 - Time: 2346ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(84,70): error TS2365: Operator '+' cannot be applied to types 'Number' and 'Number'.
+src/app/component/module/mycart/mycart.component.ts(95,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '2'.
+src/app/component/module/mycart/mycart.component.ts(96,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(98,21): error TS2365: Operator '+' cannot be applied to types 'Number' and '1'.
+src/app/component/module/mycart/mycart.component.ts(110,19): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(115,30): error TS2365: Operator '+' cannot be applied to types 'Number' and 'number'.
+src/app/component/module/mycart/mycart.component.ts(122,29): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'Number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(127,24): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(128,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,21): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(135,33): error TS2363: The right-hand side of an arithmetic operation must be of type 'any', 'number' or an enum type.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:15:42.257Z - Hash: b36fc2df7905237cc6f7 - Time: 2178ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:22:58.511Z - Hash: b36fc2df7905237cc6f7 - Time: 3380ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:24:16.706Z - Hash: b36fc2df7905237cc6f7 - Time: 3821ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:24:36.370Z - Hash: b36fc2df7905237cc6f7 - Time: 2278ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(124,28): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(125,26): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:24:49.467Z - Hash: b36fc2df7905237cc6f7 - Time: 3616ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+Date: 2019-02-10T10:25:37.586Z - Hash: 24f0d1cd35a4664d207f - Time: 3935ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T10:27:24.291Z
+Hash: dd1bf382e7f71c7bce22
+Time: 15712ms
+chunk {main} main.js, main.js.map (main) 1.92 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 93.1 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 327 kB [initial] [rendered]
+
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+src/app/component/module/paychannel/paychannel.component.ts(126,35): error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'.
+
+i ｢wdm｣: Failed to compile.
+i ｢wdm｣: Compiling...
+ 25% building modules 29/29 modules 0 active
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+
+Date: 2019-02-10T10:28:30.013Z - Hash: c027e49112dcdb36d899 - Time: 23044ms
+2 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.39 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+i ｢wdm｣: wait until bundle finished: /
+ 95% emitting index-html-webpack-plugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+
+Date: 2019-02-10T10:28:33.648Z - Hash: c027e49112dcdb36d899 - Time: 3292ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+
+Date: 2019-02-10T10:29:07.704Z - Hash: fa8b3caddc68ce3f441e - Time: 3759ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+
+Date: 2019-02-10T10:29:39.177Z - Hash: 68ad48bd19b2faaf627b - Time: 2886ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+
+Date: 2019-02-10T10:29:57.208Z - Hash: 68ad48bd19b2faaf627b - Time: 2786ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+
+Date: 2019-02-10T10:30:39.222Z - Hash: c725fdeb2d6b6b316deb - Time: 4000ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/mycart/mycart.component.ts(146,21): error TS2304: Cannot find name 'jsPDF'.
+
+Date: 2019-02-10T10:30:46.731Z - Hash: c725fdeb2d6b6b316deb - Time: 2452ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:31:33.259Z - Hash: ade56a95b1601dd2b25c - Time: 6505ms
+3 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.68 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:32:56.207Z - Hash: ade56a95b1601dd2b25c - Time: 3377ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:33:01.589Z - Hash: ade56a95b1601dd2b25c - Time: 3471ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:34:25.601Z - Hash: ade56a95b1601dd2b25c - Time: 3435ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:34:32.744Z - Hash: ade56a95b1601dd2b25c - Time: 2386ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T10:35:39.259Z
+Hash: ade56a95b1601dd2b25c
+Time: 23217ms
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.68 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:37:18.061Z - Hash: ade56a95b1601dd2b25c - Time: 10677ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:39:12.456Z - Hash: ade56a95b1601dd2b25c - Time: 5404ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:40:35.954Z - Hash: e2abb64c519dc82d20b3 - Time: 4945ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:40:46.767Z - Hash: e2abb64c519dc82d20b3 - Time: 3538ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:40:56.382Z - Hash: 00f52b90cad29d9a18c7 - Time: 2784ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:52:41.171Z - Hash: fed07fb6f2f0ff23d7c0 - Time: 4100ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:52:49.037Z - Hash: fed07fb6f2f0ff23d7c0 - Time: 3810ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:53:41.477Z - Hash: 1f605870c1628e8d57fa - Time: 3354ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:53:58.188Z - Hash: 4032067dc0c270ca51b7 - Time: 3206ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:54:58.003Z - Hash: 48abe3fc5a55cebe9c1f - Time: 2911ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/app.module.ts(44,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'startsWithPipe'. Did you mean 'StartsWithPipe'?
+src/app/component/module/freechannel/freechannel.component.ts(9,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'startsWithPipe'. Did you mean 'StartsWithPipe'?
+
+Date: 2019-02-10T10:55:16.292Z - Hash: ed57a1a13ed83633695f - Time: 3003ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+
+WARNING in ./src/app/app.module.ts 43:16-30
+"export 'startsWithPipe' was not found in './component/module/freechannel/customstart.pipes'
+i ｢wdm｣: Compiled with warnings.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/app.module.ts(44,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'startsWithPipe'. Did you mean 'StartsWithPipe'?
+src/app/component/module/freechannel/freechannel.component.ts(9,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'startsWithPipe'. Did you mean 'StartsWithPipe'?
+
+Date: 2019-02-10T10:55:38.693Z - Hash: 0fd089fdfaa485e6af4e - Time: 4849ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+
+WARNING in ./src/app/app.module.ts 43:16-30
+"export 'startsWithPipe' was not found in './component/module/freechannel/customstart.pipes'
+i ｢wdm｣: Compiled with warnings.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/freechannel/freechannel.component.ts(9,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'startsWithPipe'. Did you mean 'StartsWithPipe'?
+
+Date: 2019-02-10T10:55:57.804Z - Hash: e61ecd6f0a015225cce2 - Time: 2760ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/freechannel/freechannel.component.ts(9,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'startsWithPipe'. Did you mean 'StartsWithPipe'?
+
+Date: 2019-02-10T10:56:03.909Z - Hash: a83bf0b775b7516f30f9 - Time: 3716ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:56:23.415Z - Hash: a83bf0b775b7516f30f9 - Time: 2599ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+i ｢wdm｣: wait until bundle finished: /bouquetlist
+
+Date: 2019-02-10T10:56:25.942Z - Hash: a83bf0b775b7516f30f9 - Time: 2177ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:57:06.571Z - Hash: 557c61d5b7c9df6bd0d5 - Time: 3902ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T10:58:03.905Z
+Hash: 557c61d5b7c9df6bd0d5
+Time: 22619ms
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.68 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:58:48.117Z - Hash: 85427b8b0442ce1e5b43 - Time: 10674ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugini ｢wdm｣: wait until bundle finished: /bouquetlist
+Date: 2019-02-10T10:58:54.068Z - Hash: 85427b8b0442ce1e5b43 - Time: 5655ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T10:59:29.295Z - Hash: 85427b8b0442ce1e5b43 - Time: 3571ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugini ｢wdm｣: wait until bundle finished: /bouquetlist
+Date: 2019-02-10T10:59:32.299Z - Hash: 85427b8b0442ce1e5b43 - Time: 2751ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:00:52.690Z - Hash: 85427b8b0442ce1e5b43 - Time: 5634ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T11:03:00.916Z
+Hash: 85427b8b0442ce1e5b43
+Time: 85308ms
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.68 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:03:53.509Z - Hash: 4c61973f0c6ec3fc2fd9 - Time: 13707ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+
+WARNING in ./src/app/app.module.ts 43:16-30
+"export 'startsWithPipe' was not found in './component/module/freechannel/customstart.pipes'
+i ｢wdm｣: Compiled with warnings.
+
+ERROR in src/app/app.module.ts(44,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'startsWithPipe'. Did you mean 'StartsWithPipe'?
+
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/freechannel/freechannel.component.ts(9,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'StartsWithPipe'. Did you mean 'startsWithPipe'?
+
+Date: 2019-02-10T11:04:11.181Z - Hash: 19b587a4f378691669d9 - Time: 4004ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in src/app/component/module/freechannel/freechannel.component.ts(9,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'StartsWithPipe'. Did you mean 'startsWithPipe'?
+
+Date: 2019-02-10T11:04:16.901Z - Hash: 110e41b8e05b6355d2e4 - Time: 4029ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-02-10T11:05:02.601Z
+Hash: b41cf471cd08b0aa3694
+Time: 14887ms
+chunk {main} main.js, main.js.map (main) 1.92 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 93.1 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 16.3 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 327 kB [initial] [rendered]
+
+ERROR in src/app/component/module/freechannel/freechannel.component.ts(9,10): error TS2724: Module '"E:/Code/Java/AngularCLI/Channel-Selection/angular-channel-selection/src/app/component/module/freechannel/customstart.pipes"' has no exported member 'StartsWithPipe'. Did you mean 'startsWithPipe'?
+
+i ｢wdm｣: Failed to compile.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:05:15.075Z - Hash: f84b3efa85089b31164b - Time: 11694ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:07:31.822Z - Hash: 110e41b8e05b6355d2e4 - Time: 78906ms
+2 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 237 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 7.68 MB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:13:03.537Z - Hash: 8123ae08920ca89feb6e - Time: 3939ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugini ｢wdm｣: wait until bundle finished: /freechannel
+Date: 2019-02-10T11:13:05.925Z - Hash: 8123ae08920ca89feb6e - Time: 2128ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:15:56.322Z - Hash: 9ead1903d205c461d509 - Time: 3773ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:16:19.828Z - Hash: 27b4f644c9b84e7db980 - Time: 2833ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:16:47.029Z - Hash: 27b4f644c9b84e7db980 - Time: 2972ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:16:57.716Z - Hash: 27b4f644c9b84e7db980 - Time: 2823ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:17:50.312Z - Hash: 8601b2c24b9d70fb1cd2 - Time: 3515ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:18:39.397Z - Hash: b4c4acb46ecaec104baa - Time: 4566ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugini ｢wdm｣: wait until bundle finished: /paychannel
+Date: 2019-02-10T11:18:43.127Z - Hash: b4c4acb46ecaec104baa - Time: 3477ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:18:58.099Z - Hash: 166e888c7221f2fed09a - Time: 2474ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:19:34.343Z - Hash: 68b21695934611fd4a98 - Time: 4111ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+i ｢wdm｣: wait until bundle finished: /runtime.js.map
+i ｢wdm｣: wait until bundle finished: /polyfills.js.map
+i ｢wdm｣: wait until bundle finished: /styles.js.map
+ 95% emitting CopyPlugini ｢wdm｣: wait until bundle finished: /vendor.js.map
+i ｢wdm｣: wait until bundle finished: /main.js.map
+Date: 2019-02-10T11:19:40.847Z - Hash: 9dc3ee31658edb1c3a7d - Time: 4924ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 117 kB [initial] [rendered]
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:21:08.485Z - Hash: 9dc3ee31658edb1c3a7d - Time: 4012ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+
+Date: 2019-02-10T11:24:16.221Z - Hash: 9dc3ee31658edb1c3a7d - Time: 3381ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+i ｢wdm｣: Compiling...
+ 95% emitting CopyPlugini ｢wdm｣: wait until bundle finished: /bouquetlist
+Date: 2019-02-10T11:24:18.529Z - Hash: 9dc3ee31658edb1c3a7d - Time: 1974ms
+5 unchanged chunks
+i ｢wdm｣: Compiled successfully.
+^CTerminate batch job (Y/N)? y
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>ng build --prod
+
+Date: 2019-02-10T11:28:22.990Z
+Hash: c73479159551c9a20071
+Time: 100365ms
+chunk {0} runtime.ec2944dd8b20ec099bf3.js (runtime) 1.41 kB [entry] [rendered]
+chunk {1} main.b6ee121cdf3bccb7adc2.js (main) 1.17 MB [initial] [rendered]
+chunk {2} polyfills.e254f6b9bf511460eb6d.js (polyfills) 41 kB [initial] [rendered]
+chunk {3} styles.3ff695c00d717f2d2a11.css (styles) 0 bytes [initial] [rendered]
+
+E:\Code\Java\AngularCLI\Channel-Selection\angular-channel-selection>
