@@ -7,12 +7,10 @@ import { PaychannelComponent } from './component/module/paychannel/paychannel.co
 import { FreechannelComponent } from './component/module/freechannel/freechannel.component';
 import { BouquetComponent } from './component/module/bouquet/bouquet.component';
 import { MycartComponent } from './component/module/mycart/mycart.component';
-// import { LoginComponent } from './login/login.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
    { path: 'home', component: HomeComponent },
-//  { path: 'login', component: LoginComponent },
   { path: 'about', component: AboutComponent },
   { path: 'paychannel', component: PaychannelComponent },
   { path: 'freechannel', component: FreechannelComponent },
@@ -22,7 +20,7 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [RouterModule.forRoot(routes , { useHash: true })],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
